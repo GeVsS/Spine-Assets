@@ -1,6 +1,7 @@
 girl.png
 size:1956,840
 filter:Linear,Linear
+pma:true
 girl_p/L_earing
 bounds:477,2,28,30
 offsets:1,1,30,32
