@@ -1,0 +1,550 @@
+bigWinPopup.webp
+size:2048,2000
+filter:Linear,Linear
+pma:true
+Big_B
+bounds:876,1672,74,110
+offsets:1,1,76,112
+Big_B_0
+bounds:1035,586,212,250
+offsets:2,45,228,336
+Big_G
+bounds:104,1594,66,112
+offsets:1,1,68,114
+Big_G_0
+bounds:1348,718,204,249
+offsets:0,48,204,342
+Big_I
+bounds:104,1718,33,110
+offsets:1,1,35,112
+Big_I2
+bounds:1939,1701,33,110
+offsets:1,1,35,112
+Big_I2_0
+bounds:1194,1296,105,245
+offsets:0,47,105,336
+Big_I_0
+bounds:561,1700,33,110
+offsets:36,113,105,336
+Big_N
+bounds:952,1671,69,110
+offsets:1,1,71,112
+Big_N_0
+bounds:2,453,209,251
+offsets:4,43,213,336
+Big_W
+bounds:1023,1665,89,110
+offsets:1,1,91,112
+Big_W_0
+bounds:1803,696,228,249
+offsets:22,45,273,336
+Epic_C
+bounds:172,1593,64,112
+offsets:1,1,66,114
+Epic_C_0
+bounds:199,958,198,247
+offsets:0,50,198,342
+Epic_E
+bounds:1114,1665,60,110
+offsets:1,1,62,112
+Epic_E_0
+bounds:2,709,186,250
+offsets:0,45,186,336
+Epic_I
+bounds:1176,1661,31,110
+offsets:1,1,33,112
+Epic_I2
+bounds:1209,1652,33,110
+offsets:1,1,35,112
+Epic_I2_0
+bounds:1301,1263,105,245
+offsets:0,47,105,336
+Epic_I_0
+bounds:1093,1297,99,244
+offsets:0,48,99,336
+Epic_N
+bounds:1244,1651,69,110
+offsets:1,1,71,112
+Epic_N_0
+bounds:1766,443,209,251
+offsets:4,43,213,336
+Epic_P
+bounds:1315,1651,70,110
+offsets:1,1,72,112
+Epic_P_0
+bounds:399,889,205,247
+offsets:0,48,216,336
+Epic_W
+bounds:1387,1648,89,110
+offsets:1,1,91,112
+Epic_W_0
+bounds:575,596,228,249
+offsets:22,45,273,336
+Layer 10
+bounds:2,1455,483,129
+offsets:1,1,485,131
+Layer 10_0
+bounds:811,1058,562,203
+offsets:94,0,750,203
+Layer 13
+bounds:806,838,540,218
+offsets:39,7,610,249
+Layer 8
+bounds:865,1543,456,106
+offsets:1,1,458,108
+Mega_A
+bounds:1824,1618,67,111
+offsets:1,1,69,113
+Mega_A_0
+bounds:229,1207,201,246
+offsets:2,47,207,339
+Mega_E
+bounds:1478,1647,57,110
+offsets:1,1,59,112
+Mega_E_0
+bounds:396,636,177,251
+offsets:0,45,177,336
+Mega_G
+bounds:238,1593,68,112
+offsets:1,1,70,114
+Mega_G_0
+bounds:1554,585,210,250
+offsets:0,48,210,342
+Mega_I
+bounds:1537,1639,33,110
+offsets:1,1,35,112
+Mega_I_0
+bounds:1408,1249,105,245
+offsets:0,47,105,336
+Mega_M
+bounds:1572,1639,88,110
+offsets:1,1,90,112
+Mega_M_0
+bounds:1249,466,224,250
+offsets:19,44,270,336
+Mega_N
+bounds:1662,1625,69,110
+offsets:1,1,71,112
+Mega_N_0
+bounds:213,383,209,251
+offsets:4,43,213,336
+Mega_W
+bounds:1733,1619,89,110
+offsets:1,1,91,112
+Mega_W_0
+bounds:805,587,228,249
+offsets:22,45,273,336
+Trea_A
+bounds:485,1703,74,107
+offsets:1,1,76,109
+Trea_A2
+bounds:1725,1737,65,105
+offsets:1,1,67,107
+Trea_A2_0
+bounds:432,1138,201,246
+offsets:0,38,201,321
+Trea_A_0
+bounds:1515,1217,201,245
+offsets:12,42,228,327
+Trea_E
+bounds:596,1699,56,107
+offsets:1,1,58,109
+Trea_E1
+bounds:226,1707,61,106
+offsets:1,1,63,108
+Trea_E1_0
+bounds:1718,1086,182,246
+offsets:0,42,189,324
+Trea_E_0
+bounds:635,1096,174,248
+offsets:0,41,174,327
+Trea_I2
+bounds:1905,1728,32,105
+offsets:1,1,34,107
+Trea_I2_0
+bounds:989,1302,102,239
+offsets:0,43,102,321
+Trea_R
+bounds:654,1699,66,107
+offsets:1,1,68,109
+Trea_R1
+bounds:403,1704,80,106
+offsets:1,1,82,108
+Trea_R1_0
+bounds:1586,837,215,247
+offsets:11,41,246,324
+Trea_R_0
+bounds:190,706,204,250
+offsets:0,40,204,327
+Trea_S
+bounds:1974,1688,64,109
+offsets:1,1,66,111
+Trea_S_0
+bounds:606,847,198,247
+offsets:0,45,198,333
+Trea_T
+bounds:722,1693,87,107
+offsets:1,1,89,109
+Trea_T_0
+bounds:1375,969,209,246
+offsets:21,44,267,327
+Trea_U
+bounds:811,1692,63,108
+offsets:1,1,65,110
+Trea_U_0
+bounds:2,961,195,246
+offsets:0,44,195,330
+Trea_W
+bounds:139,1708,85,105
+offsets:1,1,87,107
+Trea_W_0
+bounds:2,1209,225,244
+offsets:17,40,261,321
+blank
+bounds:2,1997,1,1
+burg_p/piramid
+bounds:487,1386,196,179
+burg_p/swipesm 1x/swipesm 1x_0
+bounds:1223,1948,148,50
+burg_p/swipesm 1x/swipesm 1x_1
+bounds:1373,1948,148,50
+burg_p/swipesm 1x/swipesm 1x_10
+bounds:1523,1948,148,50
+burg_p/swipesm 1x/swipesm 1x_11
+bounds:1673,1948,148,50
+burg_p/swipesm 1x/swipesm 1x_12
+bounds:1823,1948,148,50
+burg_p/swipesm 1x/swipesm 1x_13
+bounds:2,1934,148,50
+burg_p/swipesm 1x/swipesm 1x_14
+bounds:225,1919,148,50
+burg_p/swipesm 1x/swipesm 1x_15
+bounds:375,1918,148,50
+burg_p/swipesm 1x/swipesm 1x_16
+bounds:525,1916,148,50
+burg_p/swipesm 1x/swipesm 1x_17
+bounds:675,1912,148,50
+burg_p/swipesm 1x/swipesm 1x_2
+bounds:825,1906,148,50
+burg_p/swipesm 1x/swipesm 1x_3
+bounds:975,1902,148,50
+burg_p/swipesm 1x/swipesm 1x_4
+bounds:1125,1896,148,50
+burg_p/swipesm 1x/swipesm 1x_5
+bounds:1275,1896,148,50
+burg_p/swipesm 1x/swipesm 1x_6
+bounds:1425,1896,148,50
+burg_p/swipesm 1x/swipesm 1x_7
+bounds:1575,1896,148,50
+burg_p/swipesm 1x/swipesm 1x_8
+bounds:1725,1896,148,50
+burg_p/swipesm 1x/swipesm 1x_9
+bounds:2,1882,148,50
+girl_p/L_earing
+bounds:584,1968,28,30
+offsets:1,1,30,32
+girl_p/L_eye
+bounds:17,1989,19,9
+offsets:1,1,21,11
+girl_p/L_eyebraw
+bounds:182,1985,26,13
+offsets:1,1,28,15
+girl_p/L_eyelid
+bounds:49,1988,23,10
+offsets:1,1,25,12
+girl_p/L_hand
+bounds:994,1954,44,44
+offsets:1,1,46,46
+girl_p/R_earing
+bounds:614,1968,28,30
+offsets:1,1,30,32
+girl_p/R_eye
+bounds:210,1983,18,15
+offsets:1,1,20,17
+girl_p/R_eyebraw
+bounds:86,1987,31,11
+offsets:1,1,33,13
+girl_p/R_eyelid
+bounds:230,1982,23,16
+offsets:1,1,25,18
+girl_p/R_hand
+bounds:2,1725,100,103
+offsets:1,1,102,105
+girl_p/Torso
+bounds:424,330,252,264
+girl_p/bracelet_back
+bounds:967,1958,25,40
+offsets:1,1,27,42
+girl_p/braclet front
+bounds:1040,1954,30,44
+offsets:1,1,32,46
+girl_p/hair
+bounds:289,1707,112,105
+girl_p/hat
+bounds:1264,1763,132,79
+offsets:1,1,134,81
+girl_p/hat back
+bounds:759,1964,50,34
+offsets:1,1,52,36
+girl_p/head
+bounds:2,1612,100,111
+offsets:1,0,101,111
+girl_p/hip cloth
+bounds:1893,1558,150,128
+girl_p/leaf_01
+bounds:1994,1864,49,64
+offsets:1,1,51,66
+girl_p/leaf_02
+bounds:1398,1763,20,79
+offsets:1,1,22,81
+girl_p/leaf_03
+bounds:528,1969,54,29
+offsets:1,1,56,31
+girl_p/leaf_04
+bounds:1072,1954,68,44
+offsets:1,1,70,46
+girl_p/leaf_05
+bounds:2017,1930,21,68
+offsets:1,1,23,70
+girl_p/leaf_06
+bounds:1237,1764,25,78
+offsets:1,1,27,80
+girl_p/leaf_07
+bounds:1183,1773,52,69
+offsets:1,1,54,71
+girl_p/leaf_08
+bounds:960,1783,70,65
+offsets:1,1,72,67
+girl_p/leaf_09
+bounds:278,1972,85,26
+offsets:1,1,87,28
+girl_p/leaf_10
+bounds:399,1970,92,28
+offsets:1,1,94,30
+girl_p/leaf_11
+bounds:644,1968,49,30
+offsets:1,1,51,32
+girl_p/leaf_12
+bounds:859,1962,24,36
+offsets:1,1,26,38
+girl_p/leaf_13
+bounds:811,1964,46,34
+offsets:1,1,48,36
+girl_p/leaf_14
+bounds:695,1967,62,31
+offsets:1,1,64,33
+girl_p/leaf_15
+bounds:186,1924,37,57
+offsets:1,1,39,59
+girl_p/swipe 1x/swipe 1x_0
+bounds:1902,947,128,379
+girl_p/swipe 1x/swipe 1x_1
+bounds:678,206,128,379
+girl_p/swipe 1x/swipe 1x_10
+bounds:808,206,128,379
+girl_p/swipe 1x/swipe 1x_11
+bounds:938,205,128,379
+girl_p/swipe 1x/swipe 1x_12
+bounds:1068,205,128,379
+girl_p/swipe 1x/swipe 1x_13
+bounds:1475,204,128,379
+girl_p/swipe 1x/swipe 1x_14
+bounds:1605,204,128,379
+girl_p/swipe 1x/swipe 1x_15
+bounds:1198,85,128,379
+girl_p/swipe 1x/swipe 1x_16
+bounds:1328,85,128,379
+girl_p/swipe 1x/swipe 1x_17
+bounds:2,72,128,379
+girl_p/swipe 1x/swipe 1x_18
+bounds:2,72,128,379
+girl_p/swipe 1x/swipe 1x_2
+bounds:1735,62,128,379
+girl_p/swipe 1x/swipe 1x_3
+bounds:1865,62,128,379
+girl_p/swipe 1x/swipe 1x_4
+bounds:132,2,128,379
+girl_p/swipe 1x/swipe 1x_5
+bounds:262,2,128,379
+girl_p/swipesm L/swipesm L_0
+bounds:152,1867,148,50
+girl_p/swipesm L/swipesm L_1
+bounds:302,1866,148,50
+girl_p/swipesm L/swipesm L_10
+bounds:452,1864,148,50
+girl_p/swipesm L/swipesm L_11
+bounds:602,1860,148,50
+girl_p/swipesm L/swipesm L_12
+bounds:752,1854,148,50
+girl_p/swipesm L/swipesm L_13
+bounds:902,1850,148,50
+girl_p/swipesm L/swipesm L_14
+bounds:1052,1844,148,50
+girl_p/swipesm L/swipesm L_15
+bounds:1202,1844,148,50
+girl_p/swipesm L/swipesm L_16
+bounds:1352,1844,148,50
+girl_p/swipesm L/swipesm L_17
+bounds:1502,1844,148,50
+girl_p/swipesm L/swipesm L_2
+bounds:1652,1844,148,50
+girl_p/swipesm L/swipesm L_3
+bounds:1802,1835,148,50
+girl_p/swipesm L/swipesm L_4
+bounds:2,1830,148,50
+girl_p/swipesm L/swipesm L_5
+bounds:152,1815,148,50
+girl_p/swipesm L/swipesm L_6
+bounds:302,1814,148,50
+girl_p/swipesm L/swipesm L_7
+bounds:452,1812,148,50
+girl_p/swipesm L/swipesm L_8
+bounds:602,1808,148,50
+girl_p/swipesm L/swipesm L_9
+bounds:752,1802,148,50
+girl_p/sword
+bounds:1569,1464,158,159
+offsets:1,1,160,161
+kopek 1
+bounds:1989,1799,57,63
+offsets:6,3,67,71
+kopek 1_0
+bounds:743,1564,120,126
+offsets:0,1,120,127
+kopek 2
+bounds:1142,1952,42,46
+offsets:4,3,51,53
+kopek 2_0
+bounds:393,1586,116,115
+offsets:0,6,120,125
+kopek 3
+bounds:1420,1760,75,82
+offsets:6,4,90,92
+kopek 3_0
+bounds:1424,1496,143,141
+offsets:2,8,150,153
+man_p/Axe
+bounds:1792,1731,111,102
+offsets:1,1,113,104
+man_p/L_arm
+bounds:1875,1887,117,55
+offsets:1,1,119,57
+man_p/L_arm_back
+bounds:255,1982,15,16
+offsets:1,1,17,18
+man_p/L_bib
+bounds:74,1988,10,10
+offsets:1,1,12,12
+man_p/L_blik
+bounds:5,1994,4,4
+offsets:1,1,6,6
+man_p/L_eyeball
+bounds:138,1986,21,12
+offsets:1,1,23,14
+man_p/L_hand
+bounds:1032,1777,56,65
+offsets:1,1,58,67
+man_p/L_uparm
+bounds:1323,1510,99,136
+man_p/R_arm
+bounds:308,1589,83,116
+man_p/R_bib
+bounds:38,1989,9,9
+offsets:1,1,11,11
+man_p/R_blik
+bounds:11,1994,4,4
+offsets:1,1,6,6
+man_p/R_eyeball
+bounds:161,1986,19,12
+offsets:1,1,21,14
+man_p/R_hand
+bounds:1973,1944,42,54
+offsets:1,1,44,56
+man_p/backpack
+bounds:813,1315,174,226
+offsets:1,1,176,228
+man_p/backpack belt
+bounds:1729,1434,88,183
+man_p/chop
+bounds:119,1987,17,11
+man_p/face
+bounds:653,1567,88,124
+man_p/hair_1
+bounds:365,1971,32,27
+offsets:1,1,34,29
+man_p/hair_2
+bounds:1186,1950,35,48
+offsets:1,1,37,50
+man_p/hoodie front
+bounds:685,1346,126,216
+man_p/hoofie back
+bounds:885,1962,72,36
+offsets:1,1,74,38
+man_p/jacket_back
+bounds:902,1784,56,64
+offsets:1,1,58,66
+man_p/kepka
+bounds:1090,1777,91,65
+offsets:1,1,93,67
+man_p/kompas
+bounds:152,1927,32,56
+offsets:1,1,34,58
+man_p/kompas stver
+bounds:1952,1813,35,72
+offsets:1,1,37,75
+man_p/maz3
+bounds:493,1970,33,28
+offsets:1,1,35,30
+man_p/neck
+bounds:1497,1759,47,83
+offsets:1,0,48,83
+man_p/palatka
+bounds:1546,1751,177,91
+offsets:1,1,179,93
+man_p/paper
+bounds:511,1574,140,123
+offsets:1,1,142,125
+man_p/shor1 copy
+bounds:1819,1334,84,222
+man_p/shor2
+bounds:1905,1328,90,228
+man_p/tel1
+bounds:959,1962,6,36
+offsets:1,1,8,38
+man_p/tel2
+bounds:272,1973,4,25
+offsets:1,1,6,27
+
+bigWinPopup_2.webp
+size:1512,1516
+filter:Linear,Linear
+pma:true
+Layer 12
+bounds:912,408,595,322
+offsets:258,172,904,516
+Layer 14
+bounds:2,2,653,425
+offsets:35,23,710,475
+Layer 15
+bounds:2,970,758,542
+offsets:64,36,885,640
+Layer 3
+bounds:2,429,614,539
+offsets:68,87,732,642
+Layer 4
+bounds:762,1044,670,468
+offsets:37,33,752,528
+Layer 5
+bounds:762,732,651,310
+offsets:60,37,741,366
+girl_p/blue_glow
+bounds:657,40,253,690
+offsets:26,20,295,715
+girl_p/swipe 1x/swipe 1x_6
+bounds:912,27,128,379
+girl_p/swipe 1x/swipe 1x_7
+bounds:1042,27,128,379
+girl_p/swipe 1x/swipe 1x_8
+bounds:1172,27,128,379
+girl_p/swipe 1x/swipe 1x_9
+bounds:1302,27,128,379
