@@ -1,0 +1,151 @@
+bonus_gold_chest.webp
+size:1812,396
+filter:Linear,Linear
+pma:true
+bchest_back glow
+bounds:2,143,251,210
+offsets:9,14,261,235
+rotate:90
+bchest_chest back
+bounds:1765,225,169,38
+offsets:0,30,169,68
+rotate:90
+bchest_chest cap
+bounds:385,168,138,84
+offsets:0,1,138,85
+bchest_chest front
+bounds:214,152,169,100
+offsets:0,0,169,107
+bchest_coins 1
+bounds:638,13,48,26
+offsets:1,1,50,28
+bchest_coins 2
+bounds:1488,10,49,25
+offsets:1,1,51,27
+bchest_coins 3
+bounds:570,8,66,31
+offsets:1,1,68,33
+bchest_coins 4
+bounds:428,3,65,21
+offsets:1,1,67,23
+bchest_coins 5
+bounds:688,13,48,26
+offsets:1,1,50,28
+bchest_knife
+bounds:1565,144,58,63
+offsets:1,4,62,71
+bchest_neclace
+bounds:1625,157,46,50
+bchest_rubin
+bounds:495,3,21,19
+offsets:1,1,23,21
+rotate:90
+bchest_shine
+bounds:525,183,130,69
+offsets:2,4,134,76
+bchest_shine 2
+bounds:1405,89,158,113
+offsets:5,6,171,124
+gold_energy BG/gold_energy BG_0
+bounds:1481,261,132,133
+offsets:9,8,150,150
+gold_energy BG/gold_energy BG_1
+bounds:1131,63,136,138
+offsets:7,6,150,150
+gold_energy BG/gold_energy BG_10
+bounds:214,254,140,140
+offsets:5,5,150,150
+gold_energy BG/gold_energy BG_11
+bounds:356,254,140,140
+offsets:5,5,150,150
+gold_energy BG/gold_energy BG_12
+bounds:2,2,139,140
+offsets:5,5,150,150
+rotate:90
+gold_energy BG/gold_energy BG_13
+bounds:286,10,140,140
+offsets:5,5,150,150
+gold_energy BG/gold_energy BG_14
+bounds:498,254,140,140
+offsets:5,5,150,150
+gold_energy BG/gold_energy BG_15
+bounds:428,26,140,140
+offsets:5,5,150,150
+gold_energy BG/gold_energy BG_16
+bounds:712,60,138,140
+offsets:6,5,150,150
+gold_energy BG/gold_energy BG_17
+bounds:1063,255,138,139
+offsets:6,5,150,150
+gold_energy BG/gold_energy BG_18
+bounds:1343,258,136,136
+offsets:7,7,150,150
+gold_energy BG/gold_energy BG_19
+bounds:1269,68,134,134
+offsets:8,8,150,150
+gold_energy BG/gold_energy BG_2
+bounds:1203,256,138,138
+offsets:6,6,150,150
+gold_energy BG/gold_energy BG_20
+bounds:214,149,1,1
+gold_energy BG/gold_energy BG_3
+bounds:923,254,140,138
+offsets:5,6,150,150
+rotate:90
+gold_energy BG/gold_energy BG_4
+bounds:852,60,140,138
+offsets:5,6,150,150
+rotate:90
+gold_energy BG/gold_energy BG_5
+bounds:144,2,140,139
+offsets:5,6,150,150
+gold_energy BG/gold_energy BG_6
+bounds:782,254,139,140
+offsets:5,5,150,150
+gold_energy BG/gold_energy BG_7
+bounds:992,60,137,140
+offsets:6,5,150,150
+gold_energy BG/gold_energy BG_8
+bounds:640,254,140,140
+offsets:5,5,150,150
+gold_energy BG/gold_energy BG_9
+bounds:570,41,140,140
+offsets:5,5,150,150
+swipesm L/swipesm L_0
+bounds:657,202,148,50
+swipesm L/swipesm L_1
+bounds:807,202,148,50
+swipesm L/swipesm L_10
+bounds:738,8,148,50
+swipesm L/swipesm L_11
+bounds:957,202,148,50
+swipesm L/swipesm L_12
+bounds:888,8,148,50
+swipesm L/swipesm L_13
+bounds:1107,203,148,50
+swipesm L/swipesm L_14
+bounds:1038,8,148,50
+swipesm L/swipesm L_15
+bounds:1257,204,148,50
+swipesm L/swipesm L_16
+bounds:1188,11,148,50
+swipesm L/swipesm L_17
+bounds:1338,16,148,50
+swipesm L/swipesm L_2
+bounds:1407,206,148,50
+swipesm L/swipesm L_3
+bounds:1488,37,148,50
+swipesm L/swipesm L_4
+bounds:1557,209,148,50
+swipesm L/swipesm L_5
+bounds:1615,344,148,50
+swipesm L/swipesm L_6
+bounds:1615,292,148,50
+swipesm L/swipesm L_7
+bounds:1707,142,148,50
+rotate:90
+swipesm L/swipesm L_8
+bounds:1759,75,148,50
+rotate:90
+swipesm L/swipesm L_9
+bounds:1565,90,148,50
