@@ -1,0 +1,475 @@
+popups.webp
+size:2048,2040
+filter:Linear,Linear
+scale:0.75
+Epic win_Pig_1
+bounds:1077,1219,190,251
+rotate:90
+Epic win_Pig_2
+bounds:1061,1632,167,212
+rotate:90
+Epic win_Sunflower 1
+bounds:603,1679,162,204
+offsets:0,1,162,206
+rotate:90
+Epic win_Sunflower 2
+bounds:1766,1199,198,195
+HUngry_win_t_G
+bounds:943,1450,180,197
+offsets:6,6,193,210
+rotate:90
+HUngry_win_t_G-g
+bounds:255,627,224,251
+offsets:20,18,268,292
+rotate:90
+HUngry_win_t_H
+bounds:1526,991,208,212
+offsets:8,8,223,228
+rotate:90
+HUngry_win_t_H-g
+bounds:1588,265,251,263
+offsets:21,19,298,305
+rotate:90
+HUngry_win_t_I
+bounds:2,1882,128,194
+offsets:7,7,144,207
+rotate:90
+HUngry_win_t_I-g
+bounds:2,1530,173,246
+offsets:20,32,219,315
+rotate:90
+HUngry_win_t_N
+bounds:860,1053,204,205
+offsets:7,7,218,218
+rotate:90
+HUngry_win_t_N-g
+bounds:2,415,249,257
+offsets:20,16,293,293
+HUngry_win_t_N2
+bounds:1215,785,222,218
+offsets:8,8,238,233
+HUngry_win_t_R
+bounds:250,1517,176,202
+offsets:7,6,190,213
+rotate:90
+HUngry_win_t_R-g
+bounds:1666,766,221,255
+offsets:20,19,265,297
+rotate:90
+HUngry_win_t_U
+bounds:2,1142,198,207
+offsets:7,7,212,220
+rotate:90
+HUngry_win_t_U-g
+bounds:1052,292,242,259
+offsets:20,17,287,298
+rotate:90
+HUngry_win_t_W
+bounds:1299,1005,225,207
+offsets:6,7,239,220
+HUngry_win_t_W-g
+bounds:1196,21,269,260
+offsets:19,12,314,289
+HUngry_win_t_Y
+bounds:211,1124,201,201
+offsets:9,6,219,216
+HUngry_win_t_Y-g
+bounds:1788,518,246,255
+offsets:22,13,294,290
+rotate:90
+Hungry_win_Coin_1
+bounds:282,2009,28,29
+rotate:90
+Hungry_win_Coin_1-g
+bounds:640,1986,51,54
+offsets:7,8,65,69
+rotate:90
+Hungry_win_Coin_2
+bounds:5,2018,19,35
+rotate:90
+Hungry_win_Coin_2-g
+bounds:396,1993,44,58
+offsets:6,23,56,104
+rotate:90
+Hungry_win_Coin_3
+bounds:351,1999,43,38
+Hungry_win_Coin_3-g
+bounds:906,1974,66,63
+offsets:7,5,80,72
+Hungry_win_Coin_4
+bounds:42,2017,20,44
+rotate:90
+Hungry_win_Coin_4-g
+bounds:522,1991,46,67
+offsets:5,31,57,129
+rotate:90
+Hungry_win_Coin_5
+bounds:240,2010,40,27
+Hungry_win_Coin_5-g
+bounds:754,1984,63,53
+offsets:7,0,77,53
+Hungry_win_Coin_6
+bounds:206,2011,32,26
+Hungry_win_Coin_6-g
+bounds:696,1986,56,51
+offsets:7,3,70,57
+Hungry_win_grass
+bounds:1467,2,261,272
+rotate:90
+Hungry_win_sunflower_1
+bounds:1156,1946,91,119
+offsets:1,0,92,120
+rotate:90
+Hungry_win_sunflower_1-g
+bounds:1457,1766,144,180
+offsets:0,5,144,189
+rotate:90
+Hungry_win_sunflower_2
+bounds:1805,1757,152,175
+offsets:0,1,153,177
+rotate:90
+Hungry_win_sunflower_2-g
+bounds:228,897,214,232
+offsets:7,17,228,264
+rotate:90
+Hungry_win_sunflower_3
+bounds:351,1862,129,168
+offsets:0,1,129,170
+rotate:90
+Hungry_win_sunflower_3-g
+bounds:1537,1201,193,227
+offsets:4,22,204,269
+rotate:90
+Hungry_win_sunflower_4
+bounds:1483,1592,168,221
+offsets:1,0,169,222
+rotate:90
+Hungry_win_sunflower_4-g
+bounds:1256,536,233,279
+offsets:7,21,244,321
+rotate:90
+Hungry_win_sunflower_5
+bounds:2,1728,152,168
+rotate:90
+Hungry_win_sunflower_5-g
+bounds:2,910,212,224
+offsets:8,14,227,251
+rotate:90
+Mega win_Sheep_3
+bounds:562,55,258,315
+offsets:1,0,260,315
+rotate:90
+Mega win_Sheep_4
+bounds:879,31,259,315
+offsets:1,0,260,315
+rotate:90
+Mega win_Sheep_5
+bounds:1295,1786,156,160
+offsets:0,0,157,161
+rotate:90
+Mega win_Sunflower_1
+bounds:1459,1915,122,163
+rotate:90
+Mega win_Sunflower_1-g
+bounds:2,1342,186,220
+offsets:6,22,197,263
+rotate:90
+Mega win_Sunflower_2
+bounds:172,1705,175,163
+offsets:1,0,176,164
+Mega win_Sunflower_2-g
+bounds:508,611,237,224
+offsets:7,4,251,234
+Mega win_Sunflower_3
+bounds:1817,1911,126,174
+rotate:90
+Mega win_Sunflower_3-g
+bounds:421,1313,186,232
+offsets:7,24,201,278
+rotate:90
+Mega win_Sunflower_4
+bounds:1639,1762,148,164
+rotate:90
+Mega win_Sunflower_4-g
+bounds:1740,989,208,220
+offsets:7,14,223,247
+rotate:90
+Mega win_titer_1
+bounds:88,2017,20,26
+rotate:90
+Mega win_titer_2
+bounds:456,1993,44,64
+offsets:0,0,44,65
+rotate:90
+Mega win_titer_3
+bounds:591,1991,47,46
+Mega win_titer_4
+bounds:819,1980,85,57
+offsets:0,0,86,57
+Mega win_titer_5
+bounds:116,2013,24,39
+rotate:90
+Mega win_titer_6
+bounds:313,2008,29,36
+rotate:90
+Mega win_titer_7
+bounds:157,2012,47,25
+big win_grass
+bounds:1548,1396,225,185
+offsets:1,1,226,186
+big win_grass-g
+bounds:1313,283,273,245
+offsets:33,19,338,279
+big win_sunflower
+bounds:198,1870,136,151
+offsets:0,0,136,152
+rotate:90
+big win_sunflower-g
+bounds:414,1113,198,209
+offsets:25,35,248,277
+rotate:90
+big win_t_B
+bounds:655,1270,189,208
+offsets:7,7,203,221
+rotate:90
+big win_t_B-g
+bounds:516,327,238,260
+offsets:40,41,315,344
+rotate:90
+big win_t_G
+bounds:1142,1411,184,198
+offsets:6,6,197,210
+rotate:90
+big win_t_G-g
+bounds:1537,530,234,249
+offsets:39,39,309,330
+rotate:90
+big win_t_I1
+bounds:718,1843,129,189
+offsets:7,8,142,205
+rotate:90
+big win_t_I1-g
+bounds:699,1461,178,242
+offsets:40,62,254,368
+rotate:90
+big win_t_I2
+bounds:1624,1912,125,191
+offsets:7,7,140,205
+rotate:90
+big win_t_I2-g
+bounds:454,1501,176,243
+offsets:39,62,252,370
+rotate:90
+big win_t_N
+bounds:462,853,224,214
+offsets:7,8,239,229
+big win_t_W
+bounds:625,1069,233,199
+offsets:7,7,247,213
+big win_t_W-g
+bounds:2,120,283,253
+offsets:39,27,359,310
+epic_win_t_C
+bounds:909,1809,141,191
+rotate:90
+epic_win_t_C-g
+bounds:688,837,214,263
+offsets:20,40,254,343
+rotate:90
+epic_win_t_E
+bounds:1275,1597,167,206
+rotate:90
+epic_win_t_E-g
+bounds:778,315,239,272
+offsets:20,38,279,346
+rotate:90
+epic_win_t_I
+bounds:974,1952,85,180
+rotate:90
+epic_win_t_I-g
+bounds:349,1695,159,252
+offsets:19,84,197,419
+rotate:90
+epic_win_t_I2
+bounds:1277,1944,93,180
+rotate:90
+epic_win_t_I2-g
+bounds:809,1641,166,250
+offsets:20,74,206,398
+rotate:90
+epic_win_t_N
+bounds:1330,1214,190,205
+rotate:90
+epic_win_t_P
+bounds:1102,1801,141,191
+rotate:90
+epic_win_t_P-g
+bounds:953,795,214,260
+offsets:20,42,254,343
+rotate:90
+epic_win_t_W
+bounds:224,1327,195,188
+epic_win_t_W-g
+bounds:1741,2,268,261
+offsets:20,18,308,296
+mega_win_t_A
+bounds:1342,1406,184,204
+offsets:6,7,197,217
+rotate:90
+mega_win_t_A-g
+bounds:1000,556,227,254
+offsets:39,43,309,341
+rotate:90
+mega_win_t_E
+bounds:865,1259,189,210
+offsets:7,7,204,224
+rotate:90
+mega_win_t_E-g
+bounds:253,375,234,261
+offsets:39,43,317,348
+rotate:90
+mega_win_t_G
+bounds:1775,1396,185,202
+offsets:5,5,196,213
+rotate:90
+mega_win_t_G-g
+bounds:747,567,226,251
+offsets:39,41,308,335
+rotate:90
+mega_win_t_I
+bounds:521,1856,128,195
+offsets:6,7,143,208
+rotate:90
+mega_win_t_I-g
+bounds:1706,1583,172,244
+offsets:39,63,256,371
+rotate:90
+mega_win_t_M
+bounds:2,674,251,221
+offsets:8,9,268,237
+mega_win_t_N
+bounds:1439,771,225,218
+offsets:6,8,239,233
+mega_win_t_W
+bounds:1067,1011,230,206
+offsets:6,6,243,218
+mega_win_t_W-g
+bounds:287,68,273,257
+offsets:39,31,356,320
+number
+bounds:2,2036,1,1
+
+popups_2.webp
+size:1984,2048
+filter:Linear,Linear
+scale:0.75
+Epic win_Ellipse 1
+bounds:2,890,1117,592
+offsets:43,23,1203,638
+Epic win_Pig_2-g
+bounds:567,2,280,355
+rotate:90
+Epic win_Pig_3-g
+bounds:1152,1013,541,711
+rotate:90
+Epic win_Pig_4
+bounds:1525,25,338,431
+Epic win_Pig_4-g
+bounds:1057,314,450,574
+Hungry_win_Cow
+bounds:567,284,488,604
+Hungry_win_Cow-g
+bounds:2,191,563,697
+Hungry_win_grass-g
+bounds:1192,2,310,331
+offsets:13,11,336,350
+rotate:90
+Hungry_win_light effects
+bounds:2,1484,1148,562
+offsets:32,18,1215,615
+Mega win_Layer 2 copy-g
+bounds:1525,458,454,553
+big win_chicken middle-g
+bounds:1152,1556,490,716
+rotate:90
+big win_t_N-g
+bounds:924,7,275,266
+offsets:39,34,352,336
+rotate:90
+
+popups_3.webp
+size:1900,1620
+filter:Linear,Linear
+scale:0.75
+Epic win_Pig_1-g
+bounds:679,1040,302,401
+rotate:90
+Epic win_Pig_3
+bounds:966,535,428,563
+rotate:90
+HUngry_win_t_N2-g
+bounds:276,1349,266,270
+offsets:21,16,313,306
+rotate:90
+Hungry_win_trolly
+bounds:333,1044,344,301
+offsets:0,0,344,338
+Hungry_win_trolly-g
+bounds:2,674,409,368
+offsets:24,21,457,448
+Mega win_Layer 2 copy
+bounds:1082,987,341,416
+rotate:90
+Mega win_Sheep_1
+bounds:1115,1330,285,329
+rotate:90
+Mega win_Sheep_2
+bounds:1446,1330,285,329
+rotate:90
+big win_chicken middle
+bounds:413,661,377,551
+rotate:90
+big win_light effects
+bounds:2,2,1083,531
+offsets:31,17,1147,581
+big win_trolly
+bounds:2,1049,329,298
+big win_trolly-g
+bounds:1500,965,395,363
+offsets:22,17,442,400
+epic_win_t_N-g
+bounds:2,1352,263,272
+offsets:19,28,302,326
+rotate:90
+mega_win_t_M-g
+bounds:818,1344,295,271
+offsets:40,33,380,337
+mega_win_t_N-g
+bounds:548,1347,268,268
+offsets:39,38,351,344
+
+popups_4.webp
+size:1708,1716
+filter:Linear,Linear
+scale:0.75
+Epic win_light effects
+bounds:2,1162,1087,551
+offsets:36,16,1161,603
+Hungry_win_Ellipse 1
+bounds:1113,596,1117,592
+offsets:43,23,1203,638
+rotate:90
+Mega win_Ellipse 1
+bounds:2,2,1117,592
+offsets:43,23,1203,638
+Mega win_light effects
+bounds:2,609,1109,551
+offsets:36,16,1182,603
+
+popups_5.webp
+size:1124,596
+filter:Linear,Linear
+scale:0.75
+big win_Ellipse 1
+bounds:2,2,1117,592
+offsets:43,23,1203,638
