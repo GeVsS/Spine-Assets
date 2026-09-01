@@ -1,0 +1,25 @@
+wolfy.webp
+size:1816,804
+filter:Linear,Linear
+scale:0.6
+wolf/w_L_eye
+bounds:1704,526,21,18
+offsets:0,0,22,18
+wolf/w_L_eyeball
+bounds:1567,485,71,59
+wolf/w_L_leg front
+bounds:976,483,319,589
+rotate:90
+wolf/w_R_eye
+bounds:1727,530,15,14
+wolf/w_R_eyeball
+bounds:1640,495,62,49
+wolf/w_backleg
+bounds:1483,78,321,403
+wolf/w_body
+bounds:2,102,700,972
+rotate:90
+wolf/w_chin
+bounds:1567,546,247,256
+wolf/w_head
+bounds:976,2,505,479
