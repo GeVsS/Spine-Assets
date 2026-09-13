@@ -1,0 +1,625 @@
+popups.webp
+size:2008,2016
+filter:Linear,Linear
+scale:0.5
+777 line
+bounds:2,1183,1611,123
+offsets:0,1,1611,126
+777_1
+bounds:473,1992,22,22
+777_11
+bounds:334,1994,20,20
+offsets:2,2,24,24
+777_12
+bounds:348,1723,585,149
+offsets:1,1,587,151
+777_16
+bounds:657,1972,335,42
+All_line_1
+bounds:27,2005,11,9
+offsets:0,0,12,10
+All_line_10
+bounds:150,2001,13,13
+offsets:1,0,15,14
+All_line_11
+bounds:118,2002,14,12
+offsets:1,0,16,13
+All_line_12
+bounds:615,1983,31,40
+offsets:3,2,34,43
+rotate:90
+All_line_13
+bounds:165,1998,48,16
+offsets:4,1,53,18
+All_line_14
+bounds:572,1984,41,30
+offsets:2,0,44,33
+All_line_15
+bounds:270,1996,18,41
+offsets:0,4,19,46
+rotate:90
+All_line_16
+bounds:215,1997,53,17
+offsets:1,1,58,18
+All_line_2
+bounds:5,2006,20,8
+offsets:0,0,21,8
+All_line_3
+bounds:40,2005,12,9
+offsets:0,1,13,10
+All_line_4
+bounds:134,2002,12,14
+offsets:1,1,14,15
+rotate:90
+All_line_5
+bounds:54,2004,10,13
+offsets:1,1,11,15
+rotate:90
+All_line_6
+bounds:69,2004,13,10
+offsets:1,1,15,11
+All_line_7
+bounds:356,1994,49,20
+offsets:1,0,54,21
+All_line_8
+bounds:84,2004,17,10
+offsets:0,1,18,11
+All_line_9
+bounds:103,2003,11,13
+offsets:1,1,12,15
+rotate:90
+Bigwin_cherry_1
+bounds:165,1755,174,181
+offsets:45,35,251,251
+rotate:90
+Bigwin_cherry_2
+bounds:1176,1485,207,217
+offsets:82,47,328,353
+rotate:90
+Bigwin_leave_1
+bounds:517,1909,127,72
+offsets:13,28,157,123
+Bigwin_leave_2
+bounds:1810,1830,167,140
+offsets:30,38,222,211
+Bigwin_leave_3
+bounds:2,1954,124,46
+offsets:7,6,135,61
+Bigwin_lemon_1
+bounds:731,1887,83,87
+offsets:33,29,147,146
+rotate:90
+Bigwin_lemon_2
+bounds:923,1874,132,96
+offsets:24,37,173,174
+Bigwin_text
+bounds:1692,1406,277,215
+offsets:1,0,279,216
+Epicwin_1
+bounds:1649,1844,159,126
+offsets:41,54,249,249
+Epicwin_2
+bounds:1522,1646,196,205
+offsets:59,41,287,287
+rotate:90
+Epicwin_3
+bounds:128,1942,54,57
+offsets:20,22,99,99
+rotate:90
+Epicwin_4
+bounds:1276,1871,99,109
+offsets:25,20,149,150
+rotate:90
+Epicwin_text
+bounds:1395,1433,295,211
+offsets:1,0,297,212
+Fruitywin_3
+bounds:321,1931,61,76
+offsets:20,11,101,100
+rotate:90
+Fruitywin_4
+bounds:1387,1862,130,108
+offsets:16,30,167,167
+Fruitywin_71
+bounds:842,1308,233,244
+offsets:46,45,320,320
+rotate:90
+Fruitywin_72
+bounds:1519,1845,128,125
+offsets:19,26,175,175
+Fruitywin_star
+bounds:545,1989,25,25
+Fruitywin_text
+bounds:2,1360,460,210
+offsets:0,0,461,215
+Megawin_1
+bounds:251,1934,59,68
+offsets:36,23,120,103
+rotate:90
+Megawin_2
+bounds:1057,1872,217,98
+offsets:45,96,309,270
+Megawin_3
+bounds:399,1928,62,116
+offsets:48,32,170,171
+rotate:90
+Megawin_4
+bounds:187,1941,62,54
+offsets:17,21,97,97
+Megawin_5
+bounds:646,1893,77,83
+offsets:15,14,106,106
+rotate:90
+Megawin_6
+bounds:1729,1623,212,205
+offsets:40,46,294,294
+Megawin_text
+bounds:464,1331,376,210
+blank 1
+bounds:2,2013,1,1
+blank 2
+bounds:2,2013,1,1
+blank 3
+bounds:2,2013,1,1
+blank 4
+bounds:2,2013,1,1
+major line
+bounds:2,1058,1611,123
+offsets:0,1,1611,126
+major_1
+bounds:497,1992,22,22
+major_10
+bounds:820,1881,101,89
+offsets:23,20,147,129
+medium_10
+bounds:820,1881,101,89
+offsets:23,20,147,129
+minor_10
+bounds:820,1881,101,89
+offsets:23,20,147,129
+major_11
+bounds:407,1994,20,20
+offsets:2,2,24,24
+major_12
+bounds:935,1694,585,149
+offsets:1,1,587,151
+major_16
+bounds:994,1972,335,42
+major_9
+bounds:2,1797,143,161
+offsets:33,37,209,235
+rotate:90
+medium_9
+bounds:2,1797,143,161
+offsets:33,37,209,235
+rotate:90
+minor_9
+bounds:2,1797,143,161
+offsets:33,37,209,235
+rotate:90
+medium line
+bounds:2,933,1611,123
+offsets:0,1,1611,126
+medium_1
+bounds:313,1995,19,19
+offsets:2,1,22,22
+medium_11
+bounds:429,1994,20,20
+offsets:2,2,24,24
+medium_12
+bounds:2,1572,585,149
+offsets:1,1,587,151
+medium_16
+bounds:1331,1972,335,42
+minor line
+bounds:2,808,1611,123
+offsets:0,1,1611,126
+minor_1
+bounds:521,1992,22,22
+minor_11
+bounds:451,1994,20,20
+offsets:2,2,24,24
+minor_12
+bounds:589,1543,585,149
+offsets:1,1,587,151
+minor_16
+bounds:1668,1972,335,42
+still rot green/still rot green_13
+bounds:989,240,318,283
+offsets:62,125,500,500
+still rot green/still rot green_15
+bounds:1615,1127,320,277
+offsets:62,128,500,500
+still rot green/still rot green_16
+bounds:2,525,323,281
+offsets:60,127,500,500
+still rot green/still rot green_17
+bounds:1310,489,317,288
+offsets:66,119,500,500
+rotate:90
+still rot green/still rot green_2
+bounds:327,525,327,281
+offsets:61,124,500,500
+still rot green/still rot green_22
+bounds:1309,170,317,285
+offsets:69,120,500,500
+rotate:90
+still rot green/still rot green_7
+bounds:331,241,327,282
+offsets:56,123,500,500
+still rot purple/still rot purple_15
+bounds:1615,848,320,277
+offsets:62,128,500,500
+still rot purple/still rot purple_16
+bounds:656,525,323,281
+offsets:60,127,500,500
+still rot purple/still rot purple_2
+bounds:981,525,327,281
+offsets:61,124,500,500
+still rot purple/still rot purple_7
+bounds:660,241,327,282
+offsets:56,123,500,500
+still rot red/still rot red_15
+bounds:1615,569,320,277
+offsets:62,128,500,500
+still rot red/still rot red_16
+bounds:1600,286,323,281
+offsets:60,127,500,500
+still rot red/still rot red_2
+bounds:2,242,327,281
+offsets:61,124,500,500
+still rot red/still rot red_7
+bounds:1596,2,327,282
+offsets:56,123,500,500
+
+popups_2.webp
+size:1972,2012
+filter:Linear,Linear
+scale:0.5
+still rot green/still rot green_10
+bounds:329,291,324,286
+offsets:58,120,500,500
+still rot green/still rot green_14
+bounds:2,1725,319,283
+offsets:62,124,500,500
+still rot green/still rot green_18
+bounds:655,291,319,286
+offsets:64,119,500,500
+still rot green/still rot green_19
+bounds:659,866,319,285
+offsets:65,120,500,500
+still rot green/still rot green_20
+bounds:1605,1724,322,284
+offsets:63,120,500,500
+still rot green/still rot green_21
+bounds:976,290,320,286
+offsets:68,119,500,500
+still rot green/still rot green_23
+bounds:1298,290,325,286
+offsets:70,119,500,500
+still rot green/still rot green_24
+bounds:980,866,317,285
+offsets:70,119,500,500
+still rot green/still rot green_25
+bounds:1625,290,324,286
+offsets:69,119,500,500
+still rot green/still rot green_3
+bounds:1299,865,325,285
+offsets:60,121,500,500
+still rot green/still rot green_5
+bounds:2,1439,327,284
+offsets:57,121,500,500
+still rot green/still rot green_6
+bounds:331,1439,328,284
+offsets:56,122,500,500
+still rot green/still rot green_8
+bounds:661,1439,327,284
+offsets:55,123,500,500
+still rot green/still rot green_9
+bounds:990,1439,326,284
+offsets:56,121,500,500
+still rot purple/still rot purple_10
+bounds:2,5,324,286
+offsets:58,120,500,500
+still rot purple/still rot purple_13
+bounds:323,1725,318,283
+offsets:62,125,500,500
+still rot purple/still rot purple_14
+bounds:643,1725,319,283
+offsets:62,124,500,500
+still rot purple/still rot purple_18
+bounds:328,3,319,286
+offsets:64,119,500,500
+still rot purple/still rot purple_19
+bounds:1626,865,319,285
+offsets:65,120,500,500
+still rot purple/still rot purple_20
+bounds:1318,1438,322,284
+offsets:63,120,500,500
+still rot purple/still rot purple_21
+bounds:649,3,320,286
+offsets:68,119,500,500
+still rot purple/still rot purple_22
+bounds:2,580,317,285
+offsets:69,120,500,500
+still rot purple/still rot purple_23
+bounds:971,2,325,286
+offsets:70,119,500,500
+still rot purple/still rot purple_24
+bounds:321,580,317,285
+offsets:70,119,500,500
+still rot purple/still rot purple_25
+bounds:1298,2,324,286
+offsets:69,119,500,500
+still rot purple/still rot purple_3
+bounds:640,579,325,285
+offsets:60,121,500,500
+still rot purple/still rot purple_5
+bounds:1642,1438,327,284
+offsets:57,121,500,500
+still rot purple/still rot purple_6
+bounds:2,1153,328,284
+offsets:56,122,500,500
+still rot purple/still rot purple_8
+bounds:332,1153,327,284
+offsets:55,123,500,500
+still rot purple/still rot purple_9
+bounds:661,1153,326,284
+offsets:56,121,500,500
+still rot red/still rot red_10
+bounds:1624,2,324,286
+offsets:58,120,500,500
+still rot red/still rot red_13
+bounds:964,1725,318,283
+offsets:62,125,500,500
+still rot red/still rot red_14
+bounds:1284,1725,319,283
+offsets:62,124,500,500
+still rot red/still rot red_19
+bounds:967,579,319,285
+offsets:65,120,500,500
+still rot red/still rot red_20
+bounds:989,1153,322,284
+offsets:63,120,500,500
+still rot red/still rot red_22
+bounds:1288,578,317,285
+offsets:69,120,500,500
+still rot red/still rot red_24
+bounds:1607,578,317,285
+offsets:70,119,500,500
+still rot red/still rot red_3
+bounds:2,293,325,285
+offsets:60,121,500,500
+still rot red/still rot red_5
+bounds:1313,1152,327,284
+offsets:57,121,500,500
+still rot red/still rot red_6
+bounds:1642,1152,328,284
+offsets:56,122,500,500
+still rot red/still rot red_8
+bounds:2,867,327,284
+offsets:55,123,500,500
+still rot red/still rot red_9
+bounds:331,867,326,284
+offsets:56,121,500,500
+
+popups_3.webp
+size:1996,1780
+filter:Linear,Linear
+scale:0.5
+still rot green/still rot green_0
+bounds:2,330,337,289
+offsets:63,116,500,500
+still rot green/still rot green_1
+bounds:1625,1199,323,288
+offsets:62,120,500,500
+still rot green/still rot green_11
+bounds:1298,1489,321,287
+offsets:60,121,500,500
+still rot green/still rot green_12
+bounds:341,330,320,289
+offsets:61,123,500,500
+still rot green/still rot green_26
+bounds:2,911,330,288
+offsets:66,119,500,500
+still rot green/still rot green_27
+bounds:334,911,331,288
+offsets:68,116,500,500
+still rot green/still rot green_28
+bounds:663,329,333,289
+offsets:67,115,500,500
+still rot green/still rot green_29
+bounds:667,910,336,288
+offsets:65,116,500,500
+still rot green/still rot green_4
+bounds:1621,1489,327,287
+offsets:59,120,500,500
+still rot orange/still rot orange_26
+bounds:998,2,374,324
+offsets:58,105,500,500
+still rot orange/still rot orange_27
+bounds:1374,2,376,324
+offsets:57,105,500,500
+still rot purple/still rot purple_0
+bounds:998,328,337,289
+offsets:63,116,500,500
+still rot purple/still rot purple_1
+bounds:1005,910,323,288
+offsets:62,120,500,500
+still rot purple/still rot purple_11
+bounds:2,1201,321,287
+offsets:60,121,500,500
+still rot purple/still rot purple_12
+bounds:1337,328,320,289
+offsets:61,123,500,500
+still rot purple/still rot purple_17
+bounds:977,1200,317,288
+offsets:66,119,500,500
+still rot purple/still rot purple_26
+bounds:1330,909,330,288
+offsets:66,119,500,500
+still rot purple/still rot purple_27
+bounds:1662,909,331,288
+offsets:68,116,500,500
+still rot purple/still rot purple_28
+bounds:1659,328,333,289
+offsets:67,115,500,500
+still rot purple/still rot purple_29
+bounds:2,621,336,288
+offsets:65,116,500,500
+still rot purple/still rot purple_4
+bounds:325,1201,327,287
+offsets:59,120,500,500
+still rot red/still rot red_0
+bounds:2,39,337,289
+offsets:63,116,500,500
+still rot red/still rot red_1
+bounds:340,621,323,288
+offsets:62,120,500,500
+still rot red/still rot red_11
+bounds:654,1201,321,287
+offsets:60,121,500,500
+still rot red/still rot red_12
+bounds:341,39,320,289
+offsets:61,123,500,500
+still rot red/still rot red_17
+bounds:665,620,317,288
+offsets:66,119,500,500
+still rot red/still rot red_18
+bounds:2,1490,319,286
+offsets:64,119,500,500
+still rot red/still rot red_21
+bounds:323,1490,320,286
+offsets:68,119,500,500
+still rot red/still rot red_23
+bounds:645,1490,325,286
+offsets:70,119,500,500
+still rot red/still rot red_25
+bounds:972,1490,324,286
+offsets:69,119,500,500
+still rot red/still rot red_26
+bounds:984,620,330,288
+offsets:66,119,500,500
+still rot red/still rot red_27
+bounds:1316,619,331,288
+offsets:68,116,500,500
+still rot red/still rot red_28
+bounds:663,38,333,289
+offsets:67,115,500,500
+still rot red/still rot red_29
+bounds:1649,619,336,288
+offsets:65,116,500,500
+still rot red/still rot red_4
+bounds:1296,1200,327,287
+offsets:59,120,500,500
+
+popups_4.webp
+size:1892,1972
+filter:Linear,Linear
+scale:0.5
+still rot orange/still rot orange_0
+bounds:1131,1644,377,325
+offsets:56,104,500,500
+still rot orange/still rot orange_1
+bounds:1510,1644,377,325
+offsets:55,104,500,500
+still rot orange/still rot orange_10
+bounds:2,990,366,326
+offsets:55,103,500,500
+still rot orange/still rot orange_11
+bounds:370,990,366,326
+offsets:56,103,500,500
+still rot orange/still rot orange_12
+bounds:2,333,363,327
+offsets:56,102,500,500
+still rot orange/still rot orange_13
+bounds:739,2,362,328
+offsets:57,102,500,500
+still rot orange/still rot orange_14
+bounds:367,333,363,327
+offsets:57,102,500,500
+still rot orange/still rot orange_15
+bounds:732,332,363,327
+offsets:58,102,500,500
+still rot orange/still rot orange_16
+bounds:738,990,364,326
+offsets:58,103,500,500
+still rot orange/still rot orange_17
+bounds:1097,332,364,327
+offsets:59,103,500,500
+still rot orange/still rot orange_18
+bounds:1104,989,364,326
+offsets:60,103,500,500
+still rot orange/still rot orange_19
+bounds:1463,332,364,327
+offsets:61,103,500,500
+still rot orange/still rot orange_2
+bounds:1470,989,375,326
+offsets:55,103,500,500
+still rot orange/still rot orange_20
+bounds:2,4,366,327
+offsets:61,103,500,500
+still rot orange/still rot orange_21
+bounds:370,3,367,327
+offsets:61,103,500,500
+still rot orange/still rot orange_22
+bounds:2,662,370,326
+offsets:60,104,500,500
+still rot orange/still rot orange_23
+bounds:374,662,371,326
+offsets:60,104,500,500
+still rot orange/still rot orange_24
+bounds:2,1318,372,325
+offsets:59,104,500,500
+still rot orange/still rot orange_25
+bounds:376,1318,373,325
+offsets:58,105,500,500
+still rot orange/still rot orange_28
+bounds:2,1645,376,324
+offsets:57,105,500,500
+still rot orange/still rot orange_29
+bounds:380,1645,377,324
+offsets:56,105,500,500
+still rot orange/still rot orange_3
+bounds:747,661,374,326
+offsets:55,103,500,500
+still rot orange/still rot orange_4
+bounds:1123,661,373,326
+offsets:55,103,500,500
+still rot orange/still rot orange_5
+bounds:1498,661,372,326
+offsets:54,103,500,500
+still rot orange/still rot orange_6
+bounds:751,1318,373,325
+offsets:53,104,500,500
+still rot orange/still rot orange_7
+bounds:759,1645,370,324
+offsets:54,105,500,500
+still rot orange/still rot orange_8
+bounds:1126,1317,372,325
+offsets:54,104,500,500
+still rot orange/still rot orange_9
+bounds:1500,1317,370,325
+offsets:54,104,500,500
+
+popups_5.webp
+size:1336,1540
+filter:Linear,Linear
+scale:0.5
+777_19
+bounds:2,1079,871,458
+offsets:14,14,899,490
+All_bg
+bounds:875,2,662,445
+offsets:89,20,840,485
+rotate:90
+major_19
+bounds:875,666,871,458
+offsets:14,14,899,490
+rotate:90
+medium_19
+bounds:2,154,867,463
+offsets:16,13,899,490
+minor_19
+bounds:2,619,871,458
+offsets:14,14,899,490
