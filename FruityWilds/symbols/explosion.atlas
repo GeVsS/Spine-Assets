@@ -1,67 +1,73 @@
-explosion.webp
-size:620,1032
+explosion.png
+size:348,1028
 filter:Linear,Linear
+scale:0.75
 frame explode/frame explode_0
-bounds:166,150,46,47
-offsets:146,149,340,340
-rotate:90
+bounds:280,66,35,35
+offsets:109,112,255,255
 frame explode/frame explode_1
-bounds:543,100,67,68
-offsets:138,139,340,340
+bounds:280,103,49,51
+offsets:104,105,255,255
 rotate:90
 frame explode/frame explode_10
-bounds:2,583,198,238
-offsets:77,49,340,340
-frame explode/frame explode_11
-bounds:240,583,200,240
-offsets:77,47,340,340
-frame explode/frame explode_12
-bounds:2,823,204,236
-offsets:75,43,340,340
+bounds:2,569,149,178
+offsets:58,37,255,255
 rotate:90
+frame explode/frame explode_11
+bounds:2,874,150,181
+offsets:58,35,255,255
+rotate:90
+frame explode/frame explode_12
+bounds:185,709,154,177
+offsets:56,33,255,255
 frame explode/frame explode_13
-bounds:240,825,202,238
-offsets:76,42,340,340
+bounds:2,720,152,178
+offsets:57,32,255,255
 rotate:90
 frame explode/frame explode_14
-bounds:236,342,185,239
-offsets:77,42,340,340
-frame explode/frame explode_15
-bounds:442,557,173,238
-offsets:87,42,340,340
-frame explode/frame explode_16
-bounds:423,320,170,235
-offsets:89,43,340,340
-frame explode/frame explode_17
-bounds:480,797,107,230
-offsets:91,45,340,340
-frame explode/frame explode_18
-bounds:589,1026,1,1
-frame explode/frame explode_2
-bounds:279,40,86,95
-offsets:131,125,340,340
+bounds:2,428,139,178
+offsets:58,32,255,255
 rotate:90
+frame explode/frame explode_15
+bounds:2,297,129,178
+offsets:66,32,255,255
+rotate:90
+frame explode/frame explode_16
+bounds:2,168,127,177
+offsets:67,32,255,255
+rotate:90
+frame explode/frame explode_17
+bounds:2,87,79,172
+offsets:69,34,255,255
+rotate:90
+frame explode/frame explode_18
+bounds:182,871,1,1
+frame explode/frame explode_2
+bounds:95,14,64,71
+offsets:99,94,255,255
 frame explode/frame explode_3
-bounds:166,5,111,121
-offsets:120,111,340,340
+bounds:2,2,83,91
+offsets:90,83,255,255
+rotate:90
 frame explode/frame explode_4
-bounds:405,2,136,165
-offsets:111,85,340,340
+bounds:176,28,102,124
+offsets:83,64,255,255
 frame explode/frame explode_5
-bounds:405,169,149,179
-offsets:103,76,340,340
+bounds:181,154,112,135
+offsets:77,57,255,255
 rotate:90
 frame explode/frame explode_6
-bounds:2,3,162,193
-offsets:96,70,340,340
+bounds:182,268,122,146
+offsets:72,52,255,255
+rotate:90
 frame explode/frame explode_7
-bounds:223,128,180,212
-offsets:86,62,340,340
+bounds:185,888,136,159
+offsets:64,47,255,255
+rotate:90
 frame explode/frame explode_8
-bounds:2,198,186,219
-offsets:83,58,340,340
+bounds:182,568,139,164
+offsets:62,44,255,255
 rotate:90
 frame explode/frame explode_9
-bounds:2,386,195,232
-offsets:78,52,340,340
-rotate:90
+bounds:182,392,146,174
+offsets:59,39,255,255
