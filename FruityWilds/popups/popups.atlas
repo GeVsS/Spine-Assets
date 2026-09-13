@@ -1,6 +1,7 @@
 popups.webp
 size:2008,2016
 filter:Linear,Linear
+pma:true
 scale:0.5
 777 line
 bounds:2,1183,1611,123
@@ -275,6 +276,7 @@ offsets:56,123,500,500
 popups_2.webp
 size:1972,2012
 filter:Linear,Linear
+pma:true
 scale:0.5
 still rot green/still rot green_10
 bounds:329,291,324,286
@@ -406,6 +408,7 @@ offsets:56,121,500,500
 popups_3.webp
 size:1996,1780
 filter:Linear,Linear
+pma:true
 scale:0.5
 still rot green/still rot green_0
 bounds:2,330,337,289
@@ -516,6 +519,7 @@ offsets:59,120,500,500
 popups_4.webp
 size:1892,1972
 filter:Linear,Linear
+pma:true
 scale:0.5
 still rot orange/still rot orange_0
 bounds:1131,1644,377,325
@@ -605,6 +609,7 @@ offsets:54,104,500,500
 popups_5.webp
 size:1336,1540
 filter:Linear,Linear
+pma:true
 scale:0.5
 777_19
 bounds:2,1079,871,458
