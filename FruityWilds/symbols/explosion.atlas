@@ -1,6 +1,7 @@
 explosion.png
 size:348,1028
 filter:Linear,Linear
+pma:true
 scale:0.75
 frame explode/frame explode_0
 bounds:280,66,35,35
