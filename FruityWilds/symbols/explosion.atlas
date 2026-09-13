@@ -1,6 +1,7 @@
 explosion.webp
 size:620,1032
 filter:Linear,Linear
+pma:true
 frame explode/frame explode_0
 bounds:166,150,46,47
 offsets:146,149,340,340
