@@ -1,0 +1,876 @@
+icons_diamonds.webp
+size:1928,2028
+filter:Linear,Linear
+scale:0.35
+Diamond Orange/Diamond Orange_25
+bounds:1477,303,377,281
+offsets:64,122,525,525
+Diamond Orange/Diamond Orange_35
+bounds:654,6,374,283
+offsets:78,124,525,525
+Diamond Orange/Diamond Orange_36
+bounds:373,872,375,284
+offsets:83,124,525,525
+Diamond green/Diamond green_25
+bounds:1032,287,377,281
+offsets:64,122,525,525
+Diamond green/Diamond green_35
+bounds:1030,2,374,283
+offsets:78,124,525,525
+Diamond green/Diamond green_36
+bounds:2,777,375,284
+offsets:83,124,525,525
+rotate:90
+Diamond purple/Diamond purple_25
+bounds:1411,20,377,281
+offsets:64,122,525,525
+Diamond purple/Diamond purple_36
+bounds:1516,878,375,284
+offsets:83,124,525,525
+Diamond red/Diamond red_13
+bounds:659,291,371,286
+offsets:64,120,525,525
+Diamond red/Diamond red_14
+bounds:1159,1740,380,286
+offsets:59,120,525,525
+Diamond red/Diamond red_15
+bounds:774,1739,383,287
+offsets:59,119,525,525
+Diamond red/Diamond red_16
+bounds:1159,1450,376,288
+offsets:62,119,525,525
+Diamond red/Diamond red_17
+bounds:1145,1158,369,290
+offsets:64,117,525,525
+Diamond red/Diamond red_19
+bounds:383,1158,369,291
+offsets:64,116,525,525
+Diamond red/Diamond red_20
+bounds:2,1154,369,291
+offsets:63,116,525,525
+Diamond red/Diamond red_21
+bounds:1130,866,367,290
+offsets:63,116,525,525
+Diamond red/Diamond red_22
+bounds:1499,586,366,290
+offsets:63,116,525,525
+Diamond red/Diamond red_23
+bounds:1537,1164,371,289
+offsets:63,118,525,525
+Diamond red/Diamond red_24
+bounds:2,1736,381,290
+offsets:61,116,525,525
+Diamond red/Diamond red_25
+bounds:385,1741,387,285
+offsets:61,120,525,525
+Diamond red/Diamond red_26
+bounds:1541,1741,381,285
+offsets:65,120,525,525
+Diamond red/Diamond red_27
+bounds:754,1162,375,285
+offsets:67,120,525,525
+Diamond red/Diamond red_28
+bounds:2,401,374,284
+offsets:68,120,525,525
+rotate:90
+Diamond red/Diamond red_29
+bounds:754,875,374,285
+offsets:70,119,525,525
+Diamond red/Diamond red_30
+bounds:1541,1455,382,284
+offsets:67,120,525,525
+Diamond red/Diamond red_31
+bounds:288,587,376,283
+offsets:69,121,525,525
+Diamond red/Diamond red_33
+bounds:2,25,374,284
+offsets:73,122,525,525
+rotate:90
+Diamond red/Diamond red_34
+bounds:768,1449,375,288
+offsets:74,123,525,525
+Diamond red/Diamond red_35
+bounds:2,1447,379,287
+offsets:76,123,525,525
+Diamond red/Diamond red_36
+bounds:385,1451,381,288
+offsets:81,122,525,525
+Diamond red/Diamond red_37
+bounds:288,297,369,288
+offsets:84,121,525,525
+Diamond red/Diamond red_39
+bounds:750,579,362,294
+offsets:90,120,525,525
+Diamond red/Diamond red_40
+bounds:288,4,364,291
+offsets:90,119,525,525
+Diamond red/Diamond red_46
+bounds:1114,570,361,294
+offsets:99,122,525,525
+
+icons_diamonds_2.webp
+size:1960,2004
+filter:Linear,Linear
+scale:0.35
+Diamond Orange/Diamond Orange_26
+bounds:886,77,372,281
+offsets:68,122,525,525
+rotate:90
+Diamond Orange/Diamond Orange_30
+bounds:313,1397,374,280
+offsets:70,122,525,525
+Diamond Orange/Diamond Orange_39
+bounds:300,353,358,291
+offsets:91,121,525,525
+rotate:90
+Diamond Orange/Diamond Orange_44
+bounds:1275,1122,350,291
+offsets:98,123,525,525
+Diamond Orange/Diamond Orange_45
+bounds:1050,1709,352,292
+offsets:98,123,525,525
+Diamond Orange/Diamond Orange_46
+bounds:689,1709,359,292
+offsets:99,122,525,525
+Diamond Orange/Diamond Orange_49
+bounds:1602,537,347,290
+offsets:100,123,525,525
+Diamond Orange_B
+bounds:378,1679,322,309
+offsets:98,121,525,525
+rotate:90
+Diamond green/Diamond green_30
+bounds:637,1021,374,280
+offsets:70,122,525,525
+rotate:90
+Diamond green/Diamond green_39
+bounds:2,351,358,291
+offsets:91,121,525,525
+rotate:90
+Diamond green/Diamond green_44
+bounds:1404,1425,350,291
+offsets:98,123,525,525
+Diamond green/Diamond green_45
+bounds:1050,1415,352,292
+offsets:98,123,525,525
+Diamond green/Diamond green_46
+bounds:689,1415,359,292
+offsets:99,122,525,525
+Diamond green/Diamond green_49
+bounds:1667,188,347,290
+offsets:100,123,525,525
+rotate:90
+Diamond green_B
+bounds:2,1394,322,309
+offsets:98,121,525,525
+rotate:90
+Diamond purple/Diamond purple_30
+bounds:956,745,374,280
+offsets:70,122,525,525
+rotate:90
+Diamond purple/Diamond purple_35
+bounds:2,1718,374,283
+offsets:78,124,525,525
+Diamond purple/Diamond purple_39
+bounds:593,353,358,291
+offsets:91,121,525,525
+rotate:90
+Diamond purple/Diamond purple_44
+bounds:1275,829,350,291
+offsets:98,123,525,525
+Diamond purple/Diamond purple_45
+bounds:956,451,352,292
+offsets:98,123,525,525
+Diamond purple/Diamond purple_46
+bounds:595,727,359,292
+offsets:99,122,525,525
+Diamond purple/Diamond purple_49
+bounds:295,61,347,290
+offsets:100,123,525,525
+Diamond purple_B
+bounds:313,1086,322,309
+offsets:98,121,525,525
+Diamond red/Diamond red_18
+bounds:1627,1057,366,289
+offsets:64,117,525,525
+rotate:90
+Diamond red/Diamond red_32
+bounds:1404,1718,372,283
+offsets:72,122,525,525
+Diamond red/Diamond red_41
+bounds:1310,470,357,290
+offsets:93,119,525,525
+rotate:90
+Diamond red/Diamond red_42
+bounds:1310,178,355,290
+offsets:95,122,525,525
+Diamond red/Diamond red_43
+bounds:919,1121,354,292
+offsets:95,123,525,525
+Diamond red/Diamond red_44
+bounds:300,713,355,293
+offsets:96,123,525,525
+rotate:90
+Diamond red/Diamond red_45
+bounds:2,711,357,296
+offsets:96,122,525,525
+rotate:90
+Diamond red/Diamond red_49
+bounds:2,2,347,290
+offsets:100,123,525,525
+rotate:90
+Diamond red_B
+bounds:2,1070,322,309
+offsets:98,121,525,525
+rotate:90
+
+icons_diamonds_3.webp
+size:1984,1896
+filter:Linear,Linear
+scale:0.35
+Diamond Orange/Diamond Orange_0
+bounds:1583,693,343,272
+offsets:91,139,525,525
+Diamond Orange/Diamond Orange_10
+bounds:1584,967,362,280
+offsets:77,123,525,525
+rotate:90
+Diamond Orange/Diamond Orange_13
+bounds:1219,758,362,281
+offsets:67,123,525,525
+Diamond Orange/Diamond Orange_14
+bounds:1120,1331,368,280
+offsets:64,123,525,525
+Diamond Orange/Diamond Orange_15
+bounds:1494,1613,371,281
+offsets:64,123,525,525
+Diamond Orange/Diamond Orange_17
+bounds:936,385,358,284
+offsets:67,120,525,525
+Diamond Orange/Diamond Orange_24
+bounds:2,1609,371,285
+offsets:64,119,525,525
+Diamond Orange/Diamond Orange_27
+bounds:852,16,367,281
+offsets:70,122,525,525
+rotate:90
+Diamond Orange/Diamond Orange_29
+bounds:285,6,368,281
+offsets:71,121,525,525
+rotate:90
+Diamond Orange/Diamond Orange_32
+bounds:374,952,368,279
+offsets:74,124,525,525
+rotate:90
+Diamond Orange/Diamond Orange_33
+bounds:568,16,367,282
+offsets:76,123,525,525
+rotate:90
+Diamond Orange/Diamond Orange_34
+bounds:375,1323,370,284
+offsets:77,124,525,525
+Diamond Orange/Diamond Orange_42
+bounds:1580,402,350,289
+offsets:97,122,525,525
+Diamond green/Diamond green_14
+bounds:1490,1331,368,280
+offsets:64,123,525,525
+Diamond green/Diamond green_15
+bounds:2,2,371,281
+offsets:64,123,525,525
+rotate:90
+Diamond green/Diamond green_24
+bounds:2,1322,371,285
+offsets:64,119,525,525
+Diamond green/Diamond green_26
+bounds:1120,1613,372,281
+offsets:68,122,525,525
+Diamond green/Diamond green_27
+bounds:1135,16,367,281
+offsets:70,122,525,525
+rotate:90
+Diamond green/Diamond green_29
+bounds:655,953,368,281
+offsets:71,121,525,525
+rotate:90
+Diamond green/Diamond green_32
+bounds:938,953,368,279
+offsets:74,124,525,525
+rotate:90
+Diamond green/Diamond green_33
+bounds:1296,389,367,282
+offsets:76,123,525,525
+rotate:90
+Diamond green/Diamond green_34
+bounds:748,1610,370,284
+offsets:77,124,525,525
+Diamond purple/Diamond purple_14
+bounds:655,671,368,280
+offsets:64,123,525,525
+Diamond purple/Diamond purple_15
+bounds:285,376,371,281
+offsets:64,123,525,525
+rotate:90
+Diamond purple/Diamond purple_24
+bounds:375,1609,371,285
+offsets:64,119,525,525
+Diamond purple/Diamond purple_26
+bounds:2,375,372,281
+offsets:68,122,525,525
+rotate:90
+Diamond purple/Diamond purple_29
+bounds:1418,19,368,281
+offsets:71,121,525,525
+rotate:90
+Diamond purple/Diamond purple_32
+bounds:1701,32,368,279
+offsets:74,124,525,525
+rotate:90
+Diamond purple/Diamond purple_34
+bounds:2,749,370,284
+offsets:77,124,525,525
+Diamond red/Diamond red_10
+bounds:2,1035,370,285
+offsets:74,120,525,525
+Diamond red/Diamond red_11
+bounds:568,385,366,284
+offsets:69,120,525,525
+Diamond red/Diamond red_12
+bounds:748,1323,367,285
+offsets:66,120,525,525
+Diamond red/Diamond red_38
+bounds:1219,1041,363,288
+offsets:88,121,525,525
+
+icons_diamonds_4.webp
+size:2016,2016
+filter:Linear,Linear
+scale:0.35
+Diamond Orange/Diamond Orange_1
+bounds:1017,1393,336,272
+offsets:90,139,525,525
+rotate:90
+Diamond Orange/Diamond Orange_11
+bounds:1655,1373,357,280
+offsets:73,122,525,525
+rotate:90
+Diamond Orange/Diamond Orange_12
+bounds:1731,724,359,280
+offsets:70,123,525,525
+rotate:90
+Diamond Orange/Diamond Orange_16
+bounds:650,1163,364,282
+offsets:66,122,525,525
+Diamond Orange/Diamond Orange_18
+bounds:1589,1085,358,286
+offsets:67,119,525,525
+Diamond Orange/Diamond Orange_19
+bounds:1496,146,359,286
+offsets:68,119,525,525
+Diamond Orange/Diamond Orange_20
+bounds:645,590,359,287
+offsets:67,118,525,525
+Diamond Orange/Diamond Orange_23
+bounds:645,226,362,284
+offsets:66,120,525,525
+rotate:90
+Diamond Orange/Diamond Orange_28
+bounds:1109,1732,366,280
+offsets:71,123,525,525
+Diamond Orange/Diamond Orange_31
+bounds:1477,1732,366,280
+offsets:73,122,525,525
+Diamond Orange/Diamond Orange_37
+bounds:2,1444,364,284
+offsets:86,123,525,525
+Diamond Orange/Diamond Orange_40
+bounds:2,582,359,288
+offsets:92,120,525,525
+Diamond green/Diamond green_10
+bounds:931,226,362,280
+offsets:77,123,525,525
+rotate:90
+Diamond green/Diamond green_13
+bounds:1213,226,362,281
+offsets:67,123,525,525
+rotate:90
+Diamond green/Diamond green_16
+bounds:650,879,364,282
+offsets:66,122,525,525
+Diamond green/Diamond green_20
+bounds:1006,590,359,287
+offsets:67,118,525,525
+Diamond green/Diamond green_23
+bounds:1291,1446,362,284
+offsets:66,120,525,525
+Diamond green/Diamond green_28
+bounds:363,504,366,280
+offsets:71,123,525,525
+rotate:90
+Diamond green/Diamond green_31
+bounds:363,136,366,280
+offsets:73,122,525,525
+rotate:90
+Diamond green/Diamond green_37
+bounds:2,1158,364,284
+offsets:86,123,525,525
+Diamond green/Diamond green_40
+bounds:2,292,359,288
+offsets:92,120,525,525
+Diamond purple/Diamond purple_16
+bounds:1016,1027,364,282
+offsets:66,122,525,525
+rotate:90
+Diamond purple/Diamond purple_20
+bounds:1300,1085,359,287
+offsets:67,118,525,525
+rotate:90
+Diamond purple/Diamond purple_23
+bounds:1367,799,362,284
+offsets:66,120,525,525
+Diamond purple/Diamond purple_27
+bounds:371,1731,367,281
+offsets:70,122,525,525
+Diamond purple/Diamond purple_28
+bounds:368,1362,366,280
+offsets:71,123,525,525
+rotate:90
+Diamond purple/Diamond purple_31
+bounds:368,994,366,280
+offsets:73,122,525,525
+rotate:90
+Diamond purple/Diamond purple_33
+bounds:2,1730,367,282
+offsets:76,123,525,525
+Diamond purple/Diamond purple_37
+bounds:2,872,364,284
+offsets:86,123,525,525
+Diamond purple/Diamond purple_40
+bounds:2,2,359,288
+offsets:92,120,525,525
+Diamond red/Diamond red_47
+bounds:1496,434,358,288
+offsets:101,122,525,525
+Diamond red/Diamond red_8
+bounds:740,1731,367,281
+offsets:81,125,525,525
+Diamond red/Diamond red_9
+bounds:650,1447,365,282
+offsets:78,123,525,525
+
+icons_diamonds_5.webp
+size:1856,2004
+filter:Linear,Linear
+scale:0.35
+Diamond Orange/Diamond Orange_2
+bounds:936,511,338,274
+offsets:88,140,525,525
+rotate:90
+Diamond Orange/Diamond Orange_21
+bounds:723,1139,357,286
+offsets:67,119,525,525
+Diamond Orange/Diamond Orange_22
+bounds:2,1715,359,286
+offsets:66,119,525,525
+Diamond Orange/Diamond Orange_3
+bounds:1567,518,336,271
+offsets:89,140,525,525
+rotate:90
+Diamond Orange/Diamond Orange_38
+bounds:724,1715,358,286
+offsets:90,122,525,525
+Diamond Orange/Diamond Orange_41
+bounds:1448,1423,353,288
+offsets:95,120,525,525
+Diamond Orange/Diamond Orange_43
+bounds:1504,227,350,289
+offsets:98,123,525,525
+Diamond Orange/Diamond Orange_47
+bounds:2,849,356,288
+offsets:101,122,525,525
+Diamond Orange/Diamond Orange_8
+bounds:572,2,358,278
+offsets:85,127,525,525
+Diamond Orange/Diamond Orange_9
+bounds:1445,1142,357,279
+offsets:81,125,525,525
+Diamond green/Diamond green_11
+bounds:290,126,357,280
+offsets:73,122,525,525
+rotate:90
+Diamond green/Diamond green_12
+bounds:932,150,359,280
+offsets:70,123,525,525
+rotate:90
+Diamond green/Diamond green_17
+bounds:572,282,358,284
+offsets:67,120,525,525
+Diamond green/Diamond green_18
+bounds:363,1139,358,286
+offsets:67,119,525,525
+Diamond green/Diamond green_19
+bounds:2,1427,359,286
+offsets:68,119,525,525
+Diamond green/Diamond green_21
+bounds:2,130,357,286
+offsets:67,119,525,525
+rotate:90
+Diamond green/Diamond green_22
+bounds:363,1715,359,286
+offsets:66,119,525,525
+Diamond green/Diamond green_38
+bounds:724,1427,358,286
+offsets:90,122,525,525
+Diamond green/Diamond green_41
+bounds:1212,566,353,288
+offsets:95,120,525,525
+Diamond green/Diamond green_47
+bounds:1084,1713,356,288
+offsets:101,122,525,525
+Diamond green/Diamond green_8
+bounds:1082,867,358,278
+offsets:85,127,525,525
+Diamond purple/Diamond purple_10
+bounds:290,485,362,280
+offsets:77,123,525,525
+rotate:90
+Diamond purple/Diamond purple_12
+bounds:1084,1147,359,280
+offsets:70,123,525,525
+Diamond purple/Diamond purple_13
+bounds:572,568,362,281
+offsets:67,123,525,525
+Diamond purple/Diamond purple_17
+bounds:1442,856,358,284
+offsets:67,120,525,525
+Diamond purple/Diamond purple_18
+bounds:2,489,358,286
+offsets:67,119,525,525
+rotate:90
+Diamond purple/Diamond purple_19
+bounds:2,1139,359,286
+offsets:68,119,525,525
+Diamond purple/Diamond purple_21
+bounds:720,851,357,286
+offsets:67,119,525,525
+Diamond purple/Diamond purple_22
+bounds:363,1427,359,286
+offsets:66,119,525,525
+Diamond purple/Diamond purple_38
+bounds:360,851,358,286
+offsets:90,122,525,525
+Diamond purple/Diamond purple_41
+bounds:1214,211,353,288
+offsets:95,120,525,525
+rotate:90
+Diamond purple/Diamond purple_47
+bounds:1442,1713,356,288
+offsets:101,122,525,525
+Diamond red/Diamond red_7
+bounds:1084,1429,362,282
+offsets:85,126,525,525
+
+icons_diamonds_6.webp
+size:2048,1828
+filter:Linear,Linear
+scale:0.35
+Diamond Orange/Diamond Orange_48
+bounds:354,963,349,288
+offsets:101,122,525,525
+Diamond Orange/Diamond Orange_50
+bounds:2,684,349,288
+offsets:98,124,525,525
+Diamond Orange/Diamond Orange_51
+bounds:1045,396,342,284
+offsets:97,126,525,525
+Diamond Orange/Diamond Orange_58
+bounds:1106,48,346,273
+offsets:97,138,525,525
+rotate:90
+Diamond Orange/Diamond Orange_59
+bounds:2,46,346,274
+offsets:96,138,525,525
+rotate:90
+Diamond Orange/Diamond Orange_6
+bounds:353,395,344,276
+offsets:89,132,525,525
+Diamond Orange/Diamond Orange_7
+bounds:1080,1546,355,278
+offsets:87,128,525,525
+Diamond green/Diamond green_42
+bounds:361,1253,350,289
+offsets:97,122,525,525
+Diamond green/Diamond green_43
+bounds:2,974,350,289
+offsets:98,123,525,525
+Diamond green/Diamond green_48
+bounds:1426,965,349,288
+offsets:101,122,525,525
+Diamond green/Diamond green_50
+bounds:1064,685,349,288
+offsets:98,124,525,525
+Diamond green/Diamond green_51
+bounds:1389,399,342,284
+offsets:97,126,525,525
+Diamond green/Diamond green_58
+bounds:1381,48,346,273
+offsets:97,138,525,525
+rotate:90
+Diamond green/Diamond green_59
+bounds:278,46,346,274
+offsets:96,138,525,525
+rotate:90
+Diamond green/Diamond green_6
+bounds:699,395,344,276
+offsets:89,132,525,525
+Diamond green/Diamond green_7
+bounds:1437,1546,355,278
+offsets:87,128,525,525
+Diamond green/Diamond green_9
+bounds:2,1265,357,279
+offsets:81,125,525,525
+Diamond purple/Diamond purple_11
+bounds:362,1544,357,280
+offsets:73,122,525,525
+Diamond purple/Diamond purple_42
+bounds:1437,1255,350,289
+offsets:97,122,525,525
+Diamond purple/Diamond purple_43
+bounds:1074,975,350,289
+offsets:98,123,525,525
+Diamond purple/Diamond purple_48
+bounds:705,682,349,288
+offsets:101,122,525,525
+Diamond purple/Diamond purple_50
+bounds:353,673,349,288
+offsets:98,124,525,525
+Diamond purple/Diamond purple_51
+bounds:1761,621,342,284
+offsets:97,126,525,525
+rotate:90
+Diamond purple/Diamond purple_58
+bounds:1656,2,346,273
+offsets:97,138,525,525
+Diamond purple/Diamond purple_59
+bounds:554,47,346,274
+offsets:96,138,525,525
+rotate:90
+Diamond purple/Diamond purple_6
+bounds:1415,687,344,276
+offsets:89,132,525,525
+Diamond purple/Diamond purple_7
+bounds:1080,1266,355,278
+offsets:87,128,525,525
+Diamond purple/Diamond purple_8
+bounds:2,1546,358,278
+offsets:85,127,525,525
+Diamond purple/Diamond purple_9
+bounds:721,1545,357,279
+offsets:81,125,525,525
+Diamond red/Diamond red_48
+bounds:713,972,349,289
+offsets:101,122,525,525
+Diamond red/Diamond red_50
+bounds:2,394,349,288
+offsets:98,124,525,525
+Diamond red/Diamond red_51
+bounds:1733,277,342,284
+offsets:97,126,525,525
+rotate:90
+Diamond red/Diamond red_59
+bounds:830,47,346,274
+offsets:96,138,525,525
+rotate:90
+Diamond red/Diamond red_6
+bounds:721,1263,351,280
+offsets:86,130,525,525
+
+icons_diamonds_7.webp
+size:1928,1992
+filter:Linear,Linear
+scale:0.35
+Diamond Orange/Diamond Orange_5
+bounds:556,4,337,273
+offsets:90,136,525,525
+rotate:90
+Diamond Orange/Diamond Orange_52
+bounds:350,1645,343,279
+offsets:93,129,525,525
+rotate:90
+Diamond Orange/Diamond Orange_53
+bounds:280,682,341,275
+offsets:92,132,525,525
+rotate:90
+Diamond Orange/Diamond Orange_54
+bounds:279,341,339,275
+offsets:92,134,525,525
+rotate:90
+Diamond Orange/Diamond Orange_55
+bounds:631,1712,336,276
+offsets:94,135,525,525
+Diamond Orange/Diamond Orange_56
+bounds:1508,548,334,274
+offsets:96,136,525,525
+rotate:90
+Diamond Orange/Diamond Orange_57
+bounds:834,406,335,274
+offsets:97,137,525,525
+Diamond Orange/Diamond Orange_60
+bounds:1508,203,343,272
+offsets:91,139,525,525
+rotate:90
+Diamond green/Diamond green_2
+bounds:1310,1714,338,274
+offsets:88,140,525,525
+Diamond green/Diamond green_5
+bounds:279,2,337,273
+offsets:90,136,525,525
+rotate:90
+Diamond green/Diamond green_52
+bounds:2,1370,343,279
+offsets:93,129,525,525
+rotate:90
+Diamond green/Diamond green_53
+bounds:2,344,341,275
+offsets:92,132,525,525
+rotate:90
+Diamond green/Diamond green_54
+bounds:2,3,339,275
+offsets:92,134,525,525
+rotate:90
+Diamond green/Diamond green_55
+bounds:283,1026,336,276
+offsets:94,135,525,525
+rotate:90
+Diamond green/Diamond green_56
+bounds:1514,884,334,274
+offsets:96,136,525,525
+Diamond green/Diamond green_57
+bounds:556,343,335,274
+offsets:97,137,525,525
+rotate:90
+Diamond purple/Diamond purple_2
+bounds:1310,1438,338,274
+offsets:88,140,525,525
+Diamond purple/Diamond purple_5
+bounds:1175,67,337,273
+offsets:90,136,525,525
+rotate:90
+Diamond purple/Diamond purple_52
+bounds:283,1364,343,279
+offsets:93,129,525,525
+Diamond purple/Diamond purple_53
+bounds:899,958,341,275
+offsets:92,132,525,525
+rotate:90
+Diamond purple/Diamond purple_54
+bounds:969,1713,339,275
+offsets:92,134,525,525
+Diamond purple/Diamond purple_55
+bounds:561,1023,336,276
+offsets:94,135,525,525
+Diamond purple/Diamond purple_56
+bounds:1517,1162,334,274
+offsets:96,136,525,525
+Diamond purple/Diamond purple_57
+bounds:1171,406,335,274
+offsets:97,137,525,525
+Diamond red/Diamond red_2
+bounds:834,682,341,274
+offsets:86,140,525,525
+Diamond red/Diamond red_3
+bounds:1176,1160,339,274
+offsets:88,139,525,525
+Diamond red/Diamond red_4
+bounds:832,131,341,273
+offsets:87,138,525,525
+Diamond red/Diamond red_5
+bounds:628,1301,342,276
+offsets:88,134,525,525
+rotate:90
+Diamond red/Diamond red_52
+bounds:2,1025,343,279
+offsets:93,129,525,525
+rotate:90
+Diamond red/Diamond red_53
+bounds:557,680,341,275
+offsets:92,132,525,525
+rotate:90
+Diamond red/Diamond red_54
+bounds:969,1436,339,275
+offsets:92,134,525,525
+Diamond red/Diamond red_55
+bounds:2,687,336,276
+offsets:94,135,525,525
+rotate:90
+Diamond red/Diamond red_56
+bounds:1650,1654,334,274
+offsets:96,136,525,525
+rotate:90
+Diamond red/Diamond red_57
+bounds:1177,884,335,274
+offsets:97,137,525,525
+Diamond red/Diamond red_58
+bounds:2,1715,346,273
+offsets:97,138,525,525
+
+icons_diamonds_8.webp
+size:1920,688
+filter:Linear,Linear
+scale:0.35
+Diamond Orange/Diamond Orange_4
+bounds:825,3,336,271
+offsets:89,139,525,525
+rotate:90
+Diamond green/Diamond green_0
+bounds:2,341,343,272
+offsets:91,139,525,525
+rotate:90
+Diamond green/Diamond green_1
+bounds:277,3,336,272
+offsets:90,139,525,525
+rotate:90
+Diamond green/Diamond green_3
+bounds:1098,3,336,271
+offsets:89,140,525,525
+rotate:90
+Diamond green/Diamond green_4
+bounds:1371,3,336,271
+offsets:89,139,525,525
+rotate:90
+Diamond green/Diamond green_60
+bounds:276,341,343,272
+offsets:91,139,525,525
+rotate:90
+Diamond purple/Diamond purple_0
+bounds:550,341,343,272
+offsets:91,139,525,525
+rotate:90
+Diamond purple/Diamond purple_1
+bounds:551,3,336,272
+offsets:90,139,525,525
+rotate:90
+Diamond purple/Diamond purple_3
+bounds:1644,3,336,271
+offsets:89,140,525,525
+rotate:90
+Diamond purple/Diamond purple_4
+bounds:1646,348,336,271
+offsets:89,139,525,525
+rotate:90
+Diamond purple/Diamond purple_60
+bounds:824,341,343,272
+offsets:91,139,525,525
+rotate:90
+Diamond red/Diamond red_0
+bounds:1098,341,343,272
+offsets:91,139,525,525
+rotate:90
+Diamond red/Diamond red_1
+bounds:2,2,337,273
+offsets:90,138,525,525
+rotate:90
+Diamond red/Diamond red_60
+bounds:1372,341,343,272
+offsets:91,139,525,525
+rotate:90
