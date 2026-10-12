@@ -1,0 +1,184 @@
+popups.webp
+size:2048,2048
+filter:Linear,Linear
+WP_Floor
+bounds:2,2,898,435
+offsets:10,5,918,441
+BB_Floor
+bounds:902,2,845,419
+offsets:18,2,881,431
+BB_chestG
+bounds:902,423,513,508
+offsets:48,45,600,600
+WP_chestG
+bounds:1417,423,490,468
+offsets:73,65,627,600
+WP_chest
+bounds:1417,893,415,395
+offsets:6,5,425,407
+freespin 2/freespin 2_803
+bounds:2,1290,400,400
+freespin 2/freespin 2_804
+bounds:404,439,400,400
+freespin 2/freespin 2_805
+bounds:2,439,400,400
+freespin 2/freespin 2_806
+bounds:2,841,400,400
+freespin 2/freespin 2_807
+bounds:404,841,400,400
+freespin 2/freespin 2_813
+bounds:806,933,400,400
+freespin 2/freespin 2_814
+bounds:404,1243,400,400
+freespin 2/freespin 2_815
+bounds:404,1645,400,400
+freespin 2/freespin 2_816
+bounds:806,1335,400,400
+freespin 2/freespin 2_817
+bounds:1208,1290,400,400
+freespin 2/freespin 2_818
+bounds:1610,1290,400,400
+BB_Bubble 3
+bounds:1834,893,360,151
+offsets:1,1,362,153
+rotate:90
+BB_Bubble 2
+bounds:2,1692,350,268
+offsets:1,1,352,270
+rotate:90
+BB_chest
+bounds:1208,1692,347,347
+offsets:3,2,352,352
+BB_Bubble 4
+bounds:806,1737,302,99
+offsets:1,1,304,101
+rotate:90
+BB_Bubble 6
+bounds:272,1692,271,114
+offsets:1,1,273,116
+rotate:90
+BB_Bubble 1
+bounds:806,439,258,84
+offsets:1,1,261,86
+rotate:90
+WP_ornament_5
+bounds:1208,933,234,192
+offsets:1,1,236,194
+rotate:90
+WP_ornament_8
+bounds:1749,2,233,175
+offsets:1,1,235,177
+BB_Particle 6
+bounds:1749,179,148,187
+offsets:2,1,152,190
+BB_Particle 7
+bounds:1909,179,175,133
+offsets:1,1,178,136
+rotate:90
+WP_Coin_7
+bounds:907,1737,140,139
+offsets:1,1,142,141
+BB_Particle 3
+bounds:1909,356,86,135
+offsets:1,1,88,137
+rotate:90
+BB_Particle 4
+bounds:1909,444,86,135
+offsets:1,1,88,138
+rotate:90
+BB_Bubble 5
+bounds:1909,532,129,120
+offsets:2,2,132,124
+BB_Particle 2
+bounds:1909,654,96,129
+offsets:1,1,98,131
+rotate:90
+WP_Coin_6
+bounds:272,1965,98,79
+offsets:1,1,100,81
+WP_ornament_4
+bounds:1208,1169,96,97
+offsets:1,1,98,99
+WP_ornament_9
+bounds:806,699,91,75
+offsets:1,1,93,77
+BB_Particle 5
+bounds:1834,1255,85,32
+offsets:1,1,87,35
+BB_Particle 1
+bounds:2,1243,80,43
+offsets:1,2,82,46
+WP_Coin_3
+bounds:806,776,72,74
+offsets:1,2,74,78
+rotate:90
+WP_Coin_2
+bounds:806,850,73,73
+offsets:1,1,75,75
+WP_Coin_8
+bounds:1306,1169,65,65
+offsets:1,1,67,67
+WP_ornament_6
+bounds:1984,2,60,55
+offsets:1,1,62,57
+WP_Coin_4
+bounds:1987,752,54,57
+offsets:1,1,56,59
+rotate:90
+WP_Coin_5
+bounds:1373,1169,52,42
+offsets:1,1,54,44
+rotate:90
+WP_ornament_7
+bounds:1306,1236,48,46
+offsets:1,1,50,48
+rotate:90
+WP_Coin_1
+bounds:84,1243,44,45
+offsets:1,1,46,47
+WP_ornament_1
+bounds:1373,1223,38,38
+offsets:1,1,40,40
+WP_ornament_2
+bounds:1921,1255,31,31
+offsets:1,1,33,33
+WP_ornament_3
+bounds:1354,1263,22,21
+offsets:1,1,24,23
+rotate:90
+blank
+bounds:1208,1287,1,1
+fish
+bounds:1208,1287,1,1
+
+popups_2.webp
+size:1208,1612
+filter:Linear,Linear
+freespin 2/freespin 2_819
+bounds:2,2,400,400
+freespin 2/freespin 2_820
+bounds:404,2,400,400
+freespin 2/freespin 2_821
+bounds:806,2,400,400
+freespin 2/freespin 2_822
+bounds:2,404,400,400
+freespin 2/freespin 2_808
+bounds:2,806,398,400
+offsets:1,0,400,400
+freespin 2/freespin 2_812
+bounds:2,1208,398,400
+offsets:1,0,400,400
+freespin 2/freespin 2_823
+bounds:402,806,400,398
+offsets:0,1,400,400
+rotate:90
+freespin 2/freespin 2_809
+bounds:404,404,396,398
+offsets:2,1,400,400
+freespin 2/freespin 2_811
+bounds:402,1208,396,398
+offsets:2,1,400,400
+freespin 2/freespin 2_810
+bounds:800,1208,392,394
+offsets:4,3,400,400
+

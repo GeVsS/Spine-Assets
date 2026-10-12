@@ -1,0 +1,620 @@
+Backgrounds.webp
+size:2048,2048
+filter:Linear,Linear
+BGD_1_Light 2
+bounds:2,2,116,1255
+offsets:0,3,116,1258
+BGD_1_Light 1
+bounds:2,1259,83,1152
+rotate:90
+BGD_1_Light 4
+bounds:120,2,72,1141
+offsets:0,2,72,1147
+BGD_1_Light 11
+bounds:120,1145,46,1108
+offsets:6,0,55,1113
+rotate:90
+BGD_1_Light 5
+bounds:120,1193,58,1079
+offsets:0,4,59,1085
+rotate:90
+Background
+bounds:1156,1253,793,538
+rotate:90
+BGB_1_Water
+bounds:1230,2,793,325
+BGD_1_Water
+bounds:194,329,793,325
+rotate:90
+BGD_1_Light 7
+bounds:1201,1193,37,740
+rotate:90
+BGD_1_Light 12
+bounds:194,2,731,244
+offsets:4,1,741,245
+BGD_2_Light 9
+bounds:2,1344,497,680
+offsets:1,1,499,681
+BGD_1_Light 3
+bounds:501,1344,33,658
+BGD_1_Light 8
+bounds:194,248,33,656
+offsets:0,0,33,661
+rotate:90
+BGD_2_Light 7
+bounds:1696,1232,307,648
+offsets:2,4,311,653
+BGD_1_Light 6
+bounds:194,1124,17,642
+offsets:0,1,17,643
+rotate:90
+BGD_1_Floor_Light 1
+bounds:927,2,625,283
+offsets:1,0,627,283
+rotate:90
+BGD_2_Light 3
+bounds:536,1344,381,607
+offsets:1,1,384,609
+rotate:90
+BGD_1_Light 10
+bounds:852,248,73,598
+offsets:7,0,80,598
+BGD_2_Light 1
+bounds:927,629,395,558
+offsets:5,3,405,561
+rotate:90
+Light/light_0
+bounds:1487,329,550,81
+Light/light_1
+bounds:1487,412,550,81
+Light/light_10
+bounds:1487,495,550,81
+Light/light_11
+bounds:1487,578,550,81
+Light/light_12
+bounds:1487,661,550,81
+Light/light_13
+bounds:1487,744,550,81
+Light/light_14
+bounds:1487,827,550,81
+Light/light_15
+bounds:1487,910,550,81
+Light/light_16
+bounds:1487,993,550,81
+Light/light_17
+bounds:521,1026,550,81
+Light/light_18
+bounds:1230,1076,550,81
+Light/light_19
+bounds:536,1727,550,81
+Light/light_2
+bounds:536,1810,550,81
+Light/light_20
+bounds:536,1893,550,81
+Light/light_21
+bounds:521,283,550,81
+rotate:90
+Light/light_22
+bounds:604,283,550,81
+rotate:90
+Light/light_23
+bounds:687,283,550,81
+rotate:90
+BGB_1_Plant 8
+bounds:536,1976,64,412
+offsets:1,0,65,412
+rotate:90
+BGD_1_Plant 8
+bounds:770,283,64,412
+offsets:1,0,65,412
+BGB_1_Plant 6
+bounds:521,848,67,378
+offsets:15,0,83,378
+rotate:90
+BGD_1_Plant 6
+bounds:521,917,67,378
+offsets:15,0,83,378
+rotate:90
+BGD_1_Light 9
+bounds:1212,2,16,375
+offsets:0,0,16,377
+BGB_1_Plant 1
+bounds:1696,1882,69,340
+rotate:90
+BGD_1_Plant 1
+bounds:1696,1953,65,327
+offsets:0,0,66,327
+rotate:90
+BGB_1_Plant 5
+bounds:1088,1727,58,317
+BGB_3_Plant 9
+bounds:1230,329,82,294
+BGD_1_reflection
+bounds:1314,329,290,138
+offsets:0,0,323,194
+rotate:90
+BGD_2_Light 12
+bounds:1782,1076,233,85
+offsets:18,11,258,96
+BGD_2_floor_Light 6
+bounds:1073,1026,183,47
+offsets:33,31,245,101
+BGB_1_Plant 2
+bounds:521,986,35,160
+rotate:90
+BGD_1_Plant 2
+bounds:683,986,35,158
+rotate:90
+BGB_1_Plant 4
+bounds:1073,1075,46,154
+rotate:90
+BGD_1_Plant 4
+bounds:1258,1026,46,153
+rotate:90
+BGB_3_Stone 4
+bounds:770,697,142,65
+offsets:2,0,144,65
+rotate:90
+BGB_3_Plant 6
+bounds:950,1976,126,69
+BGD_2_floor_Light 7
+bounds:901,848,112,23
+offsets:36,35,245,126
+rotate:90
+BGB_3_Star 3
+bounds:1943,1163,90,58
+BGB_3_Stone 13
+bounds:838,1109,56,33
+BGD_3_Stone 13
+bounds:896,1109,56,33
+BGB_3_Stone 14
+bounds:2017,1076,31,29
+rotate:90
+BGD_3_Stone 14
+bounds:2017,1109,31,29
+rotate:90
+Light/light_40
+bounds:1487,329,550,81
+
+Backgrounds_2.webp
+size:2044,2048
+filter:Linear,Linear
+Light/light_24
+bounds:2,2,550,81
+Light/light_25
+bounds:554,2,550,81
+Light/light_26
+bounds:1106,2,550,81
+Light/light_27
+bounds:1658,2,550,81
+rotate:90
+Light/light_28
+bounds:1741,2,550,81
+rotate:90
+Light/light_29
+bounds:1824,2,550,81
+rotate:90
+Light/light_3
+bounds:1907,2,550,81
+rotate:90
+Light/light_30
+bounds:2,554,550,81
+rotate:90
+Light/light_31
+bounds:2,85,550,81
+Light/light_32
+bounds:2,168,550,81
+Light/light_33
+bounds:2,251,550,81
+Light/light_34
+bounds:2,334,550,81
+Light/light_35
+bounds:2,417,550,81
+Light/light_36
+bounds:2,1106,550,81
+rotate:90
+Light/light_37
+bounds:2,1658,550,81
+Light/light_38
+bounds:2,1741,550,81
+Light/light_39
+bounds:2,1824,550,81
+Light/light_4
+bounds:2,1907,550,81
+Light/light_5
+bounds:554,85,550,81
+Light/light_6
+bounds:1106,85,550,81
+Light/light_7
+bounds:554,168,550,81
+Light/light_8
+bounds:1106,168,550,81
+Light/light_9
+bounds:554,251,550,81
+BGB_3_Plant 12
+bounds:1106,251,534,238
+offsets:0,0,534,239
+BGD_2_Light 8
+bounds:554,334,231,517
+offsets:3,1,238,521
+rotate:90
+BGB_3_Lights Example 3
+bounds:1073,491,508,382
+BGD_2_Light 4
+bounds:1583,554,268,436
+offsets:1,1,270,437
+rotate:90
+BGD_1_Floor_Light 15
+bounds:1583,824,436,114
+offsets:1,1,438,116
+BGB_1_Plant 23
+bounds:85,500,379,423
+offsets:1,0,380,424
+rotate:90
+BGD_1_Plant 13
+bounds:554,567,301,417
+offsets:0,0,301,418
+rotate:90
+BGD_2_floor_Light 5
+bounds:554,870,406,133
+offsets:1,203,417,346
+BGB_1_BG
+bounds:85,881,397,299
+BGB_3_Background
+bounds:85,1182,397,299
+rotate:90
+BGD_1_BG
+bounds:386,1182,397,299
+rotate:90
+BGD_2_BG
+bounds:554,1581,397,269
+rotate:90
+BGD_2_Water
+bounds:687,1005,397,195
+rotate:90
+Water
+bounds:962,875,397,195
+BGD_3_background2
+bounds:825,1404,396,298
+rotate:90
+BGD_1_Plant 23
+bounds:1361,940,336,377
+offsets:1,0,337,377
+rotate:90
+BGB_1_Plant 13
+bounds:1740,940,266,368
+offsets:0,0,266,369
+BGD_2_Light 5
+bounds:1125,1072,207,367
+offsets:2,3,212,370
+BGD_2_floor_Light 4
+bounds:825,1802,349,224
+offsets:1,116,360,346
+BGB_1_Plant 12
+bounds:1125,1441,317,338
+offsets:0,0,317,339
+BGB_3_Plant 15
+bounds:884,1072,235,322
+offsets:0,1,235,324
+BGD_3_Stone 15
+bounds:1176,1781,235,322
+offsets:0,1,235,324
+rotate:90
+BGD_1_Plant 5
+bounds:85,1581,58,317
+rotate:90
+BGD_2_Plant 1
+bounds:1444,1310,310,316
+offsets:0,0,330,316
+BGD_1_Plant 7
+bounds:1444,1628,80,312
+offsets:0,0,103,312
+rotate:90
+BGB_1_Plant 7
+bounds:1756,1310,80,311
+offsets:0,0,103,311
+BGD_1_Plant 12
+bounds:1758,1623,284,303
+offsets:0,0,284,304
+BGB_1_Plant 3
+bounds:973,567,77,303
+offsets:1,1,100,304
+BGD_1_Plant 3
+bounds:1838,1310,77,303
+offsets:1,1,100,304
+BGB_1_Stone 21
+bounds:1500,1710,237,292
+offsets:1,0,238,292
+BGD_1_Floor_Light 17
+bounds:1917,1310,249,121
+offsets:2,1,252,123
+rotate:90
+BGD_1_Floor_Light 18
+bounds:1361,875,209,59
+offsets:1,1,211,61
+BGB_2_Plant 12
+bounds:484,1005,136,201
+offsets:0,14,137,215
+rotate:90
+BGD_2_Light 6
+bounds:1739,1928,111,201
+offsets:0,0,112,201
+rotate:90
+BGB_1_Plant 15
+bounds:687,1404,128,166
+offsets:0,0,129,168
+BGB_3_Plant 5
+bounds:1334,1278,157,87
+rotate:90
+BGD_3_Plant 4
+bounds:554,1980,142,65
+offsets:2,0,144,65
+BGD_2_floor_Light 8
+bounds:404,1581,137,58
+offsets:1,1,139,60
+BGB_2_Plant 7
+bounds:1942,1928,117,76
+offsets:1,1,118,77
+rotate:90
+BGB_2_Stone 5
+bounds:484,881,115,68
+offsets:0,0,116,69
+rotate:90
+BGD_3_Plant 3
+bounds:1917,1561,90,58
+BGB_2_Plant 2
+bounds:1990,2,47,89
+BGD_2_Plant 2
+bounds:1990,93,47,89
+BGB_2_Plant 4
+bounds:698,1980,66,60
+offsets:1,0,67,63
+rotate:90
+BGD_2_Plant 4
+bounds:884,1005,64,59
+offsets:1,0,66,62
+rotate:90
+
+Backgrounds_3.webp
+size:1588,1588
+filter:Linear,Linear
+BGB_2_Plant 9
+bounds:2,2,300,302
+offsets:11,0,311,302
+BGB_2_Plant 1
+bounds:2,306,293,283
+offsets:0,0,295,283
+rotate:90
+BGD_1_Plant 21
+bounds:2,601,237,292
+offsets:1,0,238,292
+BGD_2_Plant 9
+bounds:2,895,282,284
+offsets:10,0,292,284
+BGB_2_Plant 8
+bounds:241,601,284,213
+offsets:1,0,285,222
+rotate:90
+BGD_2_Plant 8
+bounds:287,306,284,213
+offsets:1,0,285,222
+rotate:90
+BGD_1_Plant 18
+bounds:304,2,276,149
+offsets:1,0,277,149
+rotate:90
+BGB_1_Plant 18
+bounds:455,2,274,148
+offsets:1,0,275,148
+rotate:90
+BGB_2_Plant 11
+bounds:2,1181,135,274
+offsets:0,1,135,276
+BGD_2_Plant 11
+bounds:139,1181,134,272
+offsets:0,1,134,274
+BGB_1_Plant 16
+bounds:275,1181,269,211
+offsets:1,0,270,211
+rotate:90
+BGB_1_Stone 11
+bounds:286,887,269,177
+offsets:0,0,270,177
+rotate:90
+BGD_1_Stone 11
+bounds:456,592,269,177
+offsets:0,0,270,177
+rotate:90
+BGB_3_Stone 10
+bounds:502,278,148,267
+BGD_3_Stone 10
+bounds:605,2,148,267
+BGD_2_floor_Light 10
+bounds:465,863,262,258
+offsets:1,1,265,262
+rotate:90
+BGD_1_Plant 16
+bounds:635,547,261,205
+offsets:1,0,262,205
+rotate:90
+BGB_3_Plant 2
+bounds:652,271,189,261
+BGD_3_Plant 2
+bounds:755,2,189,261
+BGB_3_Plant 11
+bounds:488,1127,257,149
+rotate:90
+BGD_3_Plant 11
+bounds:488,1386,257,149
+BGD_1_Floor_Light 14
+bounds:639,1127,249,163
+offsets:1,6,257,170
+rotate:90
+BGB_3_Plant 8
+bounds:747,1378,246,138
+offsets:1,1,250,139
+BGD_3_Plant 8
+bounds:725,810,246,138
+offsets:1,1,250,139
+rotate:90
+BGD_2_reflection
+bounds:139,1455,246,128
+offsets:61,0,440,260
+BGD_1_Plant 15
+bounds:842,534,175,228
+BGB_1_Plant 20
+bounds:843,265,223,162
+rotate:90
+BGD_1_Plant 22
+bounds:946,2,220,163
+offsets:0,1,220,164
+rotate:90
+BGB_1_Plant 22
+bounds:1007,224,214,158
+offsets:0,1,214,159
+rotate:90
+BGD_1_Plant 20
+bounds:1111,2,213,155
+rotate:90
+BGB_1_Plant 10
+bounds:1268,2,172,210
+offsets:0,0,188,210
+rotate:90
+BGD_2_Light 11
+bounds:1268,176,207,172
+offsets:98,126,319,299
+BGD_2_Light 10
+bounds:804,1058,142,204
+offsets:1,4,143,210
+BGD_2_floor_Light 12
+bounds:865,764,203,199
+offsets:2,4,208,209
+rotate:90
+BGD_1_Floor_Light 11
+bounds:804,1264,199,111
+offsets:1,19,205,131
+BGD_2_Plant 12
+bounds:995,1377,134,196
+offsets:0,14,135,210
+BGB_1_Plant 19
+bounds:948,969,129,192
+BGD_1_Floor_Light 9
+bounds:1005,1163,192,112
+offsets:1,2,204,117
+rotate:90
+BGD_1_Plant 19
+bounds:1019,440,128,190
+BGD_1_Plant 10
+bounds:1066,632,154,188
+offsets:0,0,168,188
+BGD_2_floor_Light 17
+bounds:1149,440,186,117
+offsets:3,1,191,120
+rotate:90
+BGB_1_Stone 14
+bounds:1167,217,94,186
+BGD_1_Plant 14
+bounds:1480,2,94,186
+BGD_1_Floor_Light 12
+bounds:1268,350,174,184
+offsets:1,1,180,193
+rotate:90
+BGD_2_Light 2
+bounds:1454,350,126,184
+offsets:1,1,128,185
+BGD_1_Floor_Light 16
+bounds:1268,526,183,132
+offsets:9,5,193,155
+BGB_2_Plant 10
+bounds:1079,822,179,164
+offsets:0,0,179,166
+rotate:90
+BGD_2_Plant 10
+bounds:1245,660,179,164
+offsets:0,0,179,166
+BGD_1_Plant 17
+bounds:1245,826,160,159
+offsets:1,0,161,159
+BGD_1_Floor_Light 7
+bounds:1079,1003,152,159
+offsets:13,2,168,166
+rotate:90
+BGB_1_Plant 17
+bounds:1426,660,157,156
+offsets:1,0,158,156
+BGD_3_Plant 5
+bounds:1477,190,157,87
+rotate:90
+BGB_3_Plant 7
+bounds:1426,818,155,103
+BGD_3_Plant 7
+bounds:1407,923,155,103
+BGD_1_Floor_Light 10
+bounds:1245,987,130,151
+offsets:1,1,132,153
+rotate:90
+BGD_2_floor_Light 13
+bounds:2,1457,119,134
+offsets:1,2,121,137
+rotate:90
+BGD_1_Floor_Light 13
+bounds:1398,1028,128,133
+offsets:15,1,144,135
+rotate:90
+BGD_1_Floor_Light 8
+bounds:1240,1119,127,130
+offsets:1,7,158,144
+rotate:90
+BGD_3_Plant 6
+bounds:1119,1248,126,69
+rotate:90
+BGB_3_Plant 1
+bounds:1453,536,110,122
+offsets:1,0,113,122
+BGD_3_Plant 1
+bounds:1131,1376,110,122
+offsets:1,0,113,122
+BGB_1_Plant 9
+bounds:1190,1248,122,77
+offsets:0,0,123,78
+rotate:90
+BGD_1_Plant 9
+bounds:1131,1500,122,77
+offsets:0,0,123,78
+BGD_2_Plant 7
+bounds:1119,1157,117,76
+offsets:1,1,118,77
+BGD_2_floor_Light 9
+bounds:1243,1372,116,104
+offsets:1,1,119,106
+rotate:90
+BGD_2_Stone 5
+bounds:1269,1248,115,68
+offsets:0,0,116,69
+rotate:90
+BGB_2_Plant 6
+bounds:1255,1490,114,90
+BGD_2_Plant 6
+bounds:1339,1248,114,90
+rotate:90
+BGD_2_floor_Light 16
+bounds:387,1452,90,109
+offsets:6,14,107,133
+BGD_2_floor_Light 14
+bounds:1349,1364,93,105
+offsets:1,1,96,107
+BGD_2_floor_Light 15
+bounds:1371,1471,104,94
+offsets:2,2,108,98
+rotate:90
+BGD_2_Plant 3
+bounds:865,969,77,70
+offsets:1,0,79,71
+BGD_2_floor_Light 11
+bounds:1372,1158,76,69
+offsets:4,1,81,72
+rotate:90
+BGB_2_Plant 3
+bounds:1467,1158,75,69
+offsets:1,0,77,70
+

@@ -1,0 +1,29 @@
+shockline.webp
+size:788,808
+filter:Linear,Linear
+shock line_2
+bounds:2,2,661,199
+shock line_0
+bounds:2,203,661,159
+offsets:0,40,661,199
+shock line_4
+bounds:2,364,661,148
+offsets:0,51,661,199
+shock line_5
+bounds:2,514,661,148
+offsets:0,51,661,199
+shock line_8
+bounds:2,664,661,136
+offsets:0,63,661,199
+shock line_7
+bounds:665,2,661,119
+offsets:0,80,661,199
+rotate:90
+shock line_3
+bounds:2,802,1,1
+shock line_1
+bounds:2,203,661,159
+offsets:0,40,661,199
+shock line_6
+bounds:2,802,1,1
+

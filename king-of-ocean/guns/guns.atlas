@@ -1,0 +1,74 @@
+guns.webp
+size:560,556
+filter:Linear,Linear
+tridentG
+bounds:2,2,142,249
+offsets:18,62,178,378
+trident
+bounds:2,253,97,207
+Octopus
+bounds:101,253,134,149
+swipe BT/swipe BT_0
+bounds:101,404,50,148
+swipe BT/swipe BT_1
+bounds:153,404,50,148
+swipe BT/swipe BT_10
+bounds:205,404,50,148
+swipe BT/swipe BT_11
+bounds:146,2,50,148
+swipe BT/swipe BT_12
+bounds:146,152,50,148
+rotate:90
+swipe BT/swipe BT_13
+bounds:198,2,50,148
+swipe BT/swipe BT_14
+bounds:250,2,50,148
+swipe BT/swipe BT_15
+bounds:237,204,50,148
+swipe BT/swipe BT_16
+bounds:257,354,50,148
+swipe BT/swipe BT_17
+bounds:289,204,50,148
+swipe BT/swipe BT_2
+bounds:296,152,50,148
+rotate:90
+swipe BT/swipe BT_3
+bounds:302,2,50,148
+swipe BT/swipe BT_4
+bounds:354,2,50,148
+swipe BT/swipe BT_5
+bounds:406,2,50,148
+swipe BT/swipe BT_6
+bounds:257,504,50,148
+rotate:90
+swipe BT/swipe BT_7
+bounds:309,354,50,148
+swipe BT/swipe BT_8
+bounds:341,204,50,148
+swipe BT/swipe BT_9
+bounds:361,354,50,148
+Gun
+bounds:393,204,47,146
+Turtle gun
+bounds:413,352,93,143
+rotate:90
+Crab_Crab
+bounds:413,447,131,107
+Crab_Gun 1
+bounds:442,204,37,122
+T_turtle
+bounds:481,2,76,113
+offsets:1,0,77,113
+Crab_gun2
+bounds:458,117,30,99
+rotate:90
+Crab_gun3
+bounds:458,149,30,99
+rotate:90
+T_R_hand
+bounds:146,204,38,28
+rotate:90
+T_L_hand
+bounds:176,204,35,26
+rotate:90
+
