@@ -1,0 +1,126 @@
+boardFX.webp
+size:936,912
+filter:Linear,Linear
+spins/BG
+bounds:2,2,796,21
+spins/yellowG
+bounds:2,25,337,94
+offsets:7,5,351,104
+spins/redG
+bounds:341,25,336,94
+offsets:8,5,351,104
+spins/greenG
+bounds:2,121,334,91
+offsets:8,7,351,104
+multiplier
+bounds:338,121,308,308
+offsets:6,6,320,320
+spins/green
+bounds:648,121,262,16
+spins/red
+bounds:648,139,262,16
+spins/yellow
+bounds:648,157,262,16
+MajorG
+bounds:648,175,256,119
+offsets:166,48,585,215
+MinorG
+bounds:648,296,255,118
+offsets:123,33,497,183
+MajorGH
+bounds:648,416,255,105
+offsets:115,22,485,152
+MiniG
+bounds:2,214,254,118
+offsets:131,37,520,192
+GrandGH
+bounds:2,334,254,104
+offsets:102,18,458,143
+MiniGH
+bounds:258,431,254,104
+offsets:165,38,584,182
+GrandG
+bounds:2,440,253,119
+offsets:159,45,567,209
+MinorGH
+bounds:514,523,252,100
+offsets:165,39,582,181
+Grand
+bounds:679,25,220,81
+Major
+bounds:257,537,220,81
+Minor
+bounds:2,561,220,81
+Mini
+bounds:224,620,218,81
+GrandH
+bounds:2,644,217,68
+MajorH
+bounds:2,714,217,68
+MiniH
+bounds:2,784,217,68
+MinorH
+bounds:221,703,217,68
+GrandTG
+bounds:221,773,181,84
+offsets:88,12,358,107
+MinorTG
+bounds:404,773,179,83
+offsets:103,17,388,117
+MajorTG
+bounds:444,625,178,83
+offsets:72,8,324,98
+GrandT
+bounds:2,859,140,42
+MinorT
+bounds:144,859,139,42
+MiniTG
+bounds:768,523,138,83
+offsets:74,19,286,120
+MajorT
+bounds:285,859,137,42
+circle high/circle high_7
+bounds:768,608,95,128
+offsets:24,0,128,128
+circle high/circle high_8
+bounds:585,738,94,128
+offsets:32,0,128,128
+circle high/circle high_9
+bounds:681,738,86,128
+offsets:42,0,128,128
+circle high/circle high_6
+bounds:865,608,61,128
+offsets:10,0,128,128
+circle high/circle high_10
+bounds:258,214,49,120
+offsets:79,2,128,128
+circle high/circle high_5
+bounds:769,738,33,117
+offsets:8,7,128,128
+circle high/circle high_4
+bounds:908,175,23,99
+offsets:3,13,128,128
+circle high/circle high_11
+bounds:624,625,49,97
+offsets:79,2,128,128
+MiniT
+bounds:424,868,96,41
+circle high/circle high_3
+bounds:912,2,13,64
+offsets:0,35,128,128
+circle high/circle high_12
+bounds:440,710,42,60
+offsets:86,4,128,128
+circle high/circle high_2
+bounds:927,2,4,32
+offsets:0,51,128,128
+circle high/circle high_1
+bounds:221,644,1,7
+offsets:0,64,128,128
+blank
+bounds:221,653,1,1
+circle high/circle high_0
+bounds:221,653,1,1
+circle high/circle high_13
+bounds:221,653,1,1
+

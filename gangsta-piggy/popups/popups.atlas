@@ -1,0 +1,891 @@
+popups.webp
+size:2048,2048
+filter:Linear,Linear
+JKgrand_6
+bounds:2,2,747,450
+offsets:6,2,759,457
+JKmajor_6
+bounds:751,2,747,450
+offsets:6,2,759,457
+JKmini_5
+bounds:2,454,739,444
+offsets:8,3,755,455
+JKminor_7
+bounds:743,454,739,444
+offsets:8,3,755,455
+BigWin_24
+bounds:2,900,695,322
+offsets:0,24,695,346
+BigWin_26
+bounds:2,1224,691,409
+offsets:26,15,743,439
+JKmajor_1
+bounds:2,1635,687,94
+offsets:1,1,689,101
+BigWin_27
+bounds:2,1731,685,213
+offsets:13,4,712,222
+JKminor_1
+bounds:2,1946,649,89
+offsets:1,1,651,96
+ref freespins
+bounds:695,1224,643,587
+offsets:11,7,665,616
+BigWin_25
+bounds:699,900,637,271
+offsets:39,8,719,316
+JKmini_4
+bounds:1340,900,633,428
+offsets:20,4,673,440
+SpecialWin_53
+bounds:1340,1330,605,112
+JKmini_2
+bounds:653,1946,604,58
+offsets:1,1,606,63
+BigWin_14
+bounds:1259,1813,594,178
+offsets:50,6,693,209
+JKgrand_5
+bounds:1340,1444,585,125
+offsets:1,1,587,129
+JKmajor_4
+bounds:1340,1571,581,121
+offsets:1,1,583,137
+particles/particles_39
+bounds:1484,454,562,324
+offsets:113,89,790,475
+particles/particles_9
+bounds:1500,2,524,338
+offsets:148,124,790,475
+MegaWin_31
+bounds:1500,342,484,109
+EpicWin_43
+bounds:1340,1694,413,111
+BigWin_T
+bounds:1484,780,397,114
+robber_Hat front
+bounds:1755,1694,268,91
+robber_Hat frontG
+bounds:689,1813,268,91
+freespin_2
+bounds:1855,1787,182,245
+offsets:4,1,188,247
+Shine line 300x/Shine line 300x_10
+bounds:959,1813,236,123
+offsets:117,0,409,123
+Major_Coin 9G
+bounds:1883,780,138,108
+offsets:3,0,142,108
+Shine line 300x/Shine line 300x_20
+bounds:1927,1444,109,123
+offsets:300,0,409,123
+Shine line 300x/Shine line 300x_2
+bounds:1927,1569,98,123
+offsets:0,0,409,123
+Shine line 300x/Shine line 300x_25
+bounds:1975,890,70,123
+offsets:339,0,409,123
+Shine line 300x/Shine line 300x_1
+bounds:1975,1015,69,123
+offsets:0,0,409,123
+Shine line 300x/Shine line 300x_26
+bounds:1975,1140,65,123
+offsets:344,0,409,123
+Shine line 300x/Shine line 300x_27
+bounds:1197,1813,58,123
+offsets:351,0,409,123
+Shine line 300x/Shine line 300x_28
+bounds:1975,1265,41,123
+offsets:368,0,409,123
+Major_Coin 13
+bounds:1259,1993,106,52
+blue/Major_Coin 13
+bounds:1367,1993,106,52
+robber_Mouth
+bounds:1947,1390,80,51
+robber_MouthG
+bounds:1475,1993,80,51
+buybonus_7
+bounds:689,1906,73,35
+offsets:2,1,76,37
+buybonus_4
+bounds:1986,342,55,64
+offsets:1,1,57,66
+robber_R_eyeball
+bounds:653,2006,52,40
+buybonus_6
+bounds:1986,408,48,25
+offsets:1,1,50,27
+robber_L_eyeball
+bounds:699,1173,38,41
+buybonus_5
+bounds:707,2006,40,39
+offsets:1,1,42,41
+robber_L_eye
+bounds:1986,435,15,15
+robber_R_eye
+bounds:2003,435,15,15
+blank 1
+bounds:689,1943,1,1
+blank 2
+bounds:689,1943,1,1
+blank 3
+bounds:689,1943,1,1
+blank 4
+bounds:689,1943,1,1
+
+popups_2.webp
+size:2048,2048
+filter:Linear,Linear
+particles/particles_67
+bounds:2,2,582,371
+offsets:112,92,790,475
+particles/particles_68
+bounds:586,2,582,371
+offsets:111,92,790,475
+particles/particles_69
+bounds:1170,2,581,371
+offsets:111,92,790,475
+particles/particles_60
+bounds:2,375,570,382
+offsets:103,78,790,475
+particles/particles_61
+bounds:574,375,569,383
+offsets:104,77,790,475
+particles/particles_59
+bounds:2,759,569,381
+offsets:103,78,790,475
+particles/particles_58
+bounds:1145,375,569,380
+offsets:103,79,790,475
+particles/particles_57
+bounds:1145,757,567,379
+offsets:104,79,790,475
+particles/particles_55
+bounds:573,760,567,377
+offsets:105,80,790,475
+particles/particles_56
+bounds:1142,1138,567,377
+offsets:104,80,790,475
+particles/particles_54
+bounds:573,1139,567,375
+offsets:105,81,790,475
+particles/particles_52
+bounds:2,1142,567,363
+offsets:106,82,790,475
+particles/particles_62
+bounds:2,1507,566,383
+offsets:130,78,790,475
+particles/particles_53
+bounds:570,1516,566,373
+offsets:106,81,790,475
+particles/particles_63
+bounds:1138,1517,566,353
+offsets:130,108,790,475
+Major_Bag front shape
+bounds:1138,1872,448,170
+offsets:0,0,448,185
+blue/Major_Bag front shape
+bounds:1588,1872,448,170
+offsets:0,0,448,185
+Major_Bag back shape
+bounds:2,1892,446,140
+offsets:0,0,446,141
+robber_Mask
+bounds:1716,375,322,338
+robber_MaskG
+bounds:1716,715,322,338
+freespin_3
+bounds:1706,1517,197,264
+offsets:2,1,203,266
+BigWin_16
+bounds:1753,2,263,257
+offsets:50,50,357,357
+EpicWin_45
+bounds:1714,1055,262,260
+offsets:1,1,263,263
+Sparcle/Sparcle_28
+bounds:1711,1317,235,198
+offsets:34,51,300,300
+Shine line 300x/Shine line 300x_8
+bounds:450,1892,234,123
+offsets:58,0,409,123
+Shine line 300x/Shine line 300x_12
+bounds:686,1891,232,123
+offsets:169,0,409,123
+robber_Hat
+bounds:920,1891,214,90
+robber_HatG
+bounds:1753,261,214,90
+Major_Coin 2G
+bounds:1905,1517,139,136
+offsets:4,4,147,145
+blue/Major_Coin 2G
+bounds:1905,1655,139,136
+offsets:4,4,147,145
+Major_Coin 13G
+bounds:1706,1783,137,83
+offsets:16,0,169,83
+Shine line 300x/Shine line 300x_21
+bounds:1948,1317,98,123
+offsets:311,0,409,123
+Shine line 300x/Shine line 300x_29
+bounds:1978,1055,32,123
+offsets:377,0,409,123
+buybonus_9
+bounds:1845,1793,108,72
+offsets:2,1,112,74
+Major_Coin 7
+bounds:920,1983,105,61
+blue/Major_Coin 7
+bounds:1027,1983,105,61
+robber_Ear left
+bounds:1955,1793,81,75
+robber_Ear right
+bounds:1978,1180,62,66
+robber_Ear rightG
+bounds:1978,1248,62,66
+
+popups_3.webp
+size:2048,2048
+filter:Linear,Linear
+particles/particles_51
+bounds:2,2,566,339
+offsets:107,82,790,475
+particles/particles_50
+bounds:570,2,566,338
+offsets:107,83,790,475
+particles/particles_64
+bounds:1138,2,565,366
+offsets:131,96,790,475
+particles/particles_49
+bounds:570,342,565,338
+offsets:108,83,790,475
+particles/particles_47
+bounds:2,343,565,337
+offsets:109,84,790,475
+particles/particles_48
+bounds:1137,370,565,337
+offsets:108,84,790,475
+particles/particles_46
+bounds:2,682,565,336
+offsets:109,85,790,475
+particles/particles_65
+bounds:569,682,564,368
+offsets:131,94,790,475
+particles/particles_44
+bounds:2,1020,564,334
+offsets:110,86,790,475
+particles/particles_45
+bounds:1135,709,564,334
+offsets:110,86,790,475
+particles/particles_42
+bounds:1135,1045,564,321
+offsets:111,87,790,475
+particles/particles_43
+bounds:568,1052,564,319
+offsets:111,87,790,475
+particles/particles_66
+bounds:2,1356,563,370
+offsets:132,93,790,475
+particles/particles_40
+bounds:1134,1368,563,324
+offsets:112,88,790,475
+particles/particles_38
+bounds:567,1373,563,323
+offsets:113,90,790,475
+particles/particles_41
+bounds:567,1698,563,320
+offsets:112,88,790,475
+particles/particles_37
+bounds:1132,1694,562,323
+offsets:114,90,790,475
+particles/particles_33
+bounds:2,1728,560,279
+offsets:117,134,790,475
+Sparcle/Sparcle_69
+bounds:1696,1694,244,258
+offsets:29,21,300,300
+Sparcle/Sparcle_70
+bounds:1699,1368,238,258
+offsets:32,21,300,300
+Sparcle/Sparcle_34
+bounds:1705,2,257,219
+offsets:21,41,300,300
+Sparcle/Sparcle_35
+bounds:1705,223,257,218
+offsets:21,41,300,300
+BigWin_18
+bounds:1704,443,257,212
+offsets:13,34,281,281
+Sparcle/Sparcle_71
+bounds:1704,657,235,256
+offsets:34,22,300,300
+Sparcle/Sparcle_33
+bounds:1701,915,256,220
+offsets:22,40,300,300
+Sparcle/Sparcle_36
+bounds:1701,1137,256,217
+offsets:22,42,300,300
+Major_Coin 11G
+bounds:1696,1954,137,89
+offsets:11,0,157,89
+blue/Major_Coin 11G
+bounds:1835,1954,137,89
+offsets:11,0,157,89
+Shine line 300x/Shine line 300x_22
+bounds:1942,1356,90,123
+offsets:319,0,409,123
+Shine line 300x/Shine line 300x_23
+bounds:1964,2,82,123
+offsets:327,0,409,123
+Shine line 300x/Shine line 300x_24
+bounds:1964,127,76,123
+offsets:333,0,409,123
+Major_Coin 3
+bounds:1939,1481,107,90
+blue/Major_Coin 3
+bounds:1939,1573,107,90
+Major_Coin 18
+bounds:1941,657,105,87
+blue/Major_Coin 18
+bounds:1941,746,105,87
+Major_Coin 4
+bounds:1941,835,105,75
+Major_Coin 11
+bounds:1699,1628,105,60
+blue/Major_Coin 11
+bounds:1806,1628,105,60
+Major_Coin 1
+bounds:1942,1665,104,96
+blue/Major_Coin 1
+bounds:1942,1763,104,96
+Major_Coin 10
+bounds:1942,1861,103,82
+robber_Ear leftG
+bounds:1964,252,81,75
+
+popups_4.webp
+size:2048,2012
+filter:Linear,Linear
+particles/particles_36
+bounds:2,2,562,322
+offsets:114,91,790,475
+particles/particles_35
+bounds:566,2,561,321
+offsets:115,92,790,475
+particles/particles_34
+bounds:1129,2,561,319
+offsets:116,94,790,475
+particles/particles_10
+bounds:1129,323,524,337
+offsets:148,125,790,475
+particles/particles_11
+bounds:566,325,524,337
+offsets:148,125,790,475
+particles/particles_12
+bounds:2,326,524,337
+offsets:149,125,790,475
+particles/particles_13
+bounds:1092,662,524,336
+offsets:149,126,790,475
+particles/particles_14
+bounds:528,664,524,336
+offsets:149,126,790,475
+particles/particles_15
+bounds:2,665,523,336
+offsets:150,126,790,475
+particles/particles_30
+bounds:1054,1000,523,328
+offsets:154,134,790,475
+particles/particles_29
+bounds:527,1002,523,327
+offsets:154,135,790,475
+particles/particles_16
+bounds:2,1003,522,335
+offsets:150,127,790,475
+particles/particles_31
+bounds:2,1340,522,328
+offsets:155,134,790,475
+particles/particles_32
+bounds:2,1670,521,327
+offsets:156,134,790,475
+particles/particles_7
+bounds:525,1670,507,338
+offsets:164,124,790,475
+particles/particles_8
+bounds:1034,1331,507,338
+offsets:164,124,790,475
+Major_Bag lower shape
+bounds:1034,1671,507,312
+particles/particles_3
+bounds:1543,1330,503,338
+offsets:167,122,790,475
+particles/particles_2
+bounds:1543,1670,502,332
+offsets:167,122,790,475
+particles/particles_1
+bounds:526,1331,501,332
+offsets:168,122,790,475
+particles/particles_21
+bounds:1579,1000,462,324
+offsets:152,138,790,475
+MegaWin_33
+bounds:1655,323,367,253
+offsets:0,57,367,367
+Sparcle/Sparcle_68
+bounds:1692,2,247,255
+offsets:27,22,300,300
+Sparcle/Sparcle_0
+bounds:1618,662,235,255
+offsets:34,22,300,300
+EpicWin_50
+bounds:1855,578,161,215
+offsets:14,22,198,264
+Shine line 300x/Shine line 300x_15
+bounds:1855,795,181,123
+offsets:228,0,409,123
+buybonus_8
+bounds:1655,578,112,82
+offsets:1,1,114,85
+Major_Coin 16
+bounds:1618,920,106,77
+blue/Major_Coin 16
+bounds:1726,920,106,77
+Major_Coin 12
+bounds:1834,920,106,70
+blue/Major_Coin 4
+bounds:1941,2,105,75
+blue/Major_Coin 10
+bounds:1941,79,103,82
+Major_Coin 6
+bounds:1941,163,103,80
+
+popups_5.webp
+size:2044,2048
+filter:Linear,Linear
+Minor_bag
+bounds:2,2,507,312
+blank_bag
+bounds:511,2,507,312
+grand_bag
+bounds:1020,2,507,312
+mini_bag
+bounds:1529,2,507,312
+particles/particles_6
+bounds:2,316,506,339
+offsets:165,123,790,475
+particles/particles_5
+bounds:510,316,505,339
+offsets:165,123,790,475
+particles/particles_4
+bounds:1017,316,504,338
+offsets:166,123,790,475
+particles/particles_0
+bounds:1523,316,499,333
+offsets:169,121,790,475
+particles/particles_70
+bounds:1523,651,499,333
+offsets:169,121,790,475
+particles/particles_25
+bounds:1017,656,473,327
+offsets:153,135,790,475
+particles/particles_26
+bounds:2,657,472,327
+offsets:154,135,790,475
+particles/particles_27
+bounds:476,657,472,327
+offsets:154,135,790,475
+particles/particles_28
+bounds:950,985,472,327
+offsets:154,135,790,475
+particles/particles_17
+bounds:1424,986,462,335
+offsets:150,127,790,475
+particles/particles_19
+bounds:2,1323,462,334
+offsets:151,128,790,475
+particles/particles_20
+bounds:2,986,462,333
+offsets:151,129,790,475
+particles/particles_22
+bounds:466,986,462,324
+offsets:152,138,790,475
+particles/particles_18
+bounds:466,1312,461,335
+offsets:151,127,790,475
+particles/particles_23
+bounds:929,1314,461,324
+offsets:153,138,790,475
+particles/particles_24
+bounds:2,1659,444,326
+offsets:153,136,790,475
+JKminor_6
+bounds:448,1659,432,380
+offsets:7,2,446,402
+Sparcle/Sparcle_72
+bounds:882,1649,235,255
+offsets:34,22,300,300
+Sparcle/Sparcle_37
+bounds:1119,1640,255,215
+offsets:22,43,300,300
+Sparcle/Sparcle_3
+bounds:1376,1640,235,254
+offsets:34,23,300,300
+Sparcle/Sparcle_4
+bounds:1392,1323,235,254
+offsets:34,23,300,300
+Sparcle/Sparcle_5
+bounds:1629,1323,235,254
+offsets:34,23,300,300
+Sparcle/Sparcle_6
+bounds:1613,1579,235,254
+offsets:34,23,300,300
+Sparcle/Sparcle_30
+bounds:1613,1835,241,208
+offsets:29,46,300,300
+BigWin_17
+bounds:1119,1896,231,146
+offsets:25,70,292,292
+Shine line 300x/Shine line 300x_7
+bounds:882,1906,231,123
+offsets:32,0,409,123
+Shine line 300x/Shine line 300x_9
+bounds:1352,1896,230,123
+offsets:93,0,409,123
+EpicWin_42
+bounds:1866,1323,173,111
+offsets:2,2,177,113
+Shine line 300x/Shine line 300x_16
+bounds:1866,1436,162,123
+offsets:247,0,409,123
+Shine line 300x/Shine line 300x_4
+bounds:1866,1561,161,123
+offsets:0,0,409,123
+Shine line 300x/Shine line 300x_17
+bounds:1888,986,145,123
+offsets:264,0,409,123
+Major_Coin 3G
+bounds:1888,1111,139,123
+offsets:4,1,147,124
+blue/Major_Coin 3G
+bounds:1850,1686,139,123
+offsets:4,1,147,124
+Major_Coin 5G
+bounds:1856,1811,139,122
+offsets:4,3,147,140
+blue/Major_Coin 9G
+bounds:1856,1935,138,108
+offsets:3,0,142,108
+blue/Major_Coin 13G
+bounds:1888,1236,137,83
+offsets:16,0,169,83
+
+popups_6.webp
+size:2048,2048
+filter:Linear,Linear
+Sparcle/Sparcle_47
+bounds:2,2,242,253
+offsets:29,24,300,300
+Sparcle/Sparcle_48
+bounds:2,257,240,253
+offsets:30,24,300,300
+Sparcle/Sparcle_49
+bounds:2,512,238,253
+offsets:31,24,300,300
+Sparcle/Sparcle_41
+bounds:2,767,253,220
+offsets:23,40,300,300
+Sparcle/Sparcle_42
+bounds:242,512,253,220
+offsets:23,40,300,300
+Sparcle/Sparcle_43
+bounds:244,257,253,220
+offsets:23,40,300,300
+Sparcle/Sparcle_40
+bounds:246,2,253,219
+offsets:24,41,300,300
+Sparcle/Sparcle_39
+bounds:2,989,253,217
+offsets:23,42,300,300
+Sparcle/Sparcle_38
+bounds:2,1208,253,215
+offsets:23,43,300,300
+Sparcle/Sparcle_67
+bounds:2,1425,250,252
+offsets:26,24,300,300
+Sparcle/Sparcle_9
+bounds:2,1679,252,248
+offsets:24,26,300,300
+Sparcle/Sparcle_10
+bounds:254,1425,252,240
+offsets:24,30,300,300
+Sparcle/Sparcle_11
+bounds:256,1667,252,238
+offsets:24,31,300,300
+Sparcle/Sparcle_1
+bounds:257,734,235,252
+offsets:34,24,300,300
+Sparcle/Sparcle_2
+bounds:257,988,235,252
+offsets:34,24,300,300
+Sparcle/Sparcle_7
+bounds:494,734,235,252
+offsets:34,24,300,300
+Sparcle/Sparcle_44
+bounds:497,479,252,220
+offsets:24,40,300,300
+Sparcle/Sparcle_32
+bounds:499,223,252,218
+offsets:24,41,300,300
+Sparcle/Sparcle_50
+bounds:494,988,237,251
+offsets:32,25,300,300
+Sparcle/Sparcle_12
+bounds:731,701,251,236
+offsets:24,32,300,300
+Sparcle/Sparcle_8
+bounds:751,443,239,250
+offsets:30,25,300,300
+Sparcle/Sparcle_45
+bounds:508,1241,250,233
+offsets:25,34,300,300
+Sparcle/Sparcle_51
+bounds:733,939,235,249
+offsets:34,26,300,300
+Sparcle/Sparcle_13
+bounds:753,2,249,232
+offsets:25,34,300,300
+Sparcle/Sparcle_66
+bounds:510,1476,248,246
+offsets:27,27,300,300
+Sparcle/Sparcle_46
+bounds:510,1724,248,245
+offsets:26,28,300,300
+robber_Nose 1
+bounds:760,1190,247,237
+robber_Nose 1G
+bounds:970,939,247,237
+Sparcle/Sparcle_14
+bounds:984,695,247,228
+offsets:26,36,300,300
+Sparcle/Sparcle_31
+bounds:501,2,247,213
+offsets:26,44,300,300
+Sparcle/Sparcle_52
+bounds:992,236,235,245
+offsets:34,28,300,300
+Sparcle/Sparcle_53
+bounds:760,1429,235,242
+offsets:34,29,300,300
+Sparcle/Sparcle_15
+bounds:1004,2,242,224
+offsets:29,38,300,300
+Sparcle/Sparcle_65
+bounds:760,1673,238,238
+offsets:32,31,300,300
+Sparcle/Sparcle_16
+bounds:997,1429,238,218
+offsets:31,41,300,300
+Sparcle/Sparcle_54
+bounds:1009,1178,235,237
+offsets:34,32,300,300
+Sparcle/Sparcle_29
+bounds:753,236,237,203
+offsets:32,49,300,300
+Sparcle/Sparcle_64
+bounds:1219,925,236,228
+offsets:33,36,300,300
+Sparcle/Sparcle_63
+bounds:1000,1649,236,215
+offsets:33,42,300,300
+Sparcle/Sparcle_62
+bounds:992,483,236,205
+offsets:33,47,300,300
+Sparcle/Sparcle_55
+bounds:1229,228,235,231
+offsets:34,35,300,300
+Sparcle/Sparcle_56
+bounds:1237,1417,235,225
+offsets:34,38,300,300
+Sparcle/Sparcle_57
+bounds:1248,2,235,218
+offsets:34,41,300,300
+Sparcle/Sparcle_17
+bounds:1230,461,235,214
+offsets:34,43,300,300
+Sparcle/Sparcle_58
+bounds:1466,222,235,211
+offsets:34,45,300,300
+Sparcle/Sparcle_18
+bounds:1485,2,235,206
+offsets:34,47,300,300
+Sparcle/Sparcle_59
+bounds:1233,677,235,203
+offsets:34,49,300,300
+Sparcle/Sparcle_19
+bounds:1467,435,235,202
+offsets:34,49,300,300
+Sparcle/Sparcle_60
+bounds:1703,210,235,197
+offsets:34,52,300,300
+Sparcle/Sparcle_61
+bounds:1722,2,235,197
+offsets:34,51,300,300
+Sparcle/Sparcle_20
+bounds:1246,1155,235,196
+offsets:34,52,300,300
+Sparcle/Sparcle_27
+bounds:1457,882,235,194
+offsets:34,53,300,300
+Sparcle/Sparcle_21
+bounds:1470,639,235,191
+offsets:34,54,300,300
+Sparcle/Sparcle_22
+bounds:1704,409,235,191
+offsets:34,54,300,300
+Sparcle/Sparcle_23
+bounds:1707,602,235,191
+offsets:34,54,300,300
+Sparcle/Sparcle_24
+bounds:1707,795,235,191
+offsets:34,54,300,300
+Sparcle/Sparcle_25
+bounds:1694,988,235,191
+offsets:34,54,300,300
+Sparcle/Sparcle_26
+bounds:1238,1644,235,191
+offsets:34,54,300,300
+Shine line 300x/Shine line 300x_6
+bounds:760,1913,229,123
+offsets:1,0,409,123
+Shine line 300x/Shine line 300x_11
+bounds:991,1913,228,123
+offsets:146,0,409,123
+Shine line 300x/Shine line 300x_13
+bounds:256,1907,221,123
+offsets:188,0,409,123
+maxwin_3
+bounds:1474,1353,219,217
+offsets:1,1,221,219
+MegaWin_35
+bounds:1695,1181,218,211
+offsets:40,40,295,292
+maxwin_2
+bounds:1695,1394,211,218
+offsets:1,1,213,220
+MegaWin_36
+bounds:1238,1837,201,206
+offsets:41,35,283,282
+grand_diamondG
+bounds:1483,1078,206,185
+offsets:19,7,242,196
+Shine line 300x/Shine line 300x_14
+bounds:1475,1572,199,123
+offsets:210,0,409,123
+Shine line 300x/Shine line 300x_5
+bounds:257,1242,198,123
+offsets:0,0,409,123
+blue/Major_Coin 5G
+bounds:1441,1837,139,122
+offsets:4,3,147,140
+Major_Coin 4G
+bounds:1908,1394,138,104
+offsets:4,0,147,104
+blue/Major_Coin 4G
+bounds:1908,1500,138,104
+offsets:4,0,147,104
+buybonus_3
+bounds:1908,1606,136,132
+offsets:4,4,143,137
+Major_Coin 1G
+bounds:1475,1697,136,129
+offsets:6,3,147,135
+blue/Major_Coin 1G
+bounds:1582,1828,136,129
+offsets:6,3,147,135
+Major_Coin 7G
+bounds:2,1929,136,94
+offsets:26,7,188,108
+blue/Major_Coin 7G
+bounds:1613,1697,136,94
+offsets:26,7,188,108
+Shine line 300x/Shine line 300x_18
+bounds:1751,1614,135,123
+offsets:274,0,409,123
+Major_Coin 6G
+bounds:1751,1739,135,112
+offsets:6,2,147,114
+blue/Major_Coin 6G
+bounds:1888,1740,135,112
+offsets:6,2,147,114
+Major_Coin 10G
+bounds:1720,1853,132,113
+offsets:6,0,142,113
+blue/Major_Coin 10G
+bounds:1854,1854,132,113
+offsets:6,0,142,113
+Shine line 300x/Shine line 300x_3
+bounds:1915,1181,128,123
+offsets:0,0,409,123
+Major_Coin 2
+bounds:1940,201,106,104
+offsets:0,0,106,105
+blue/Major_Coin 2
+bounds:140,1929,106,104
+offsets:0,0,106,105
+Major_Coin 5
+bounds:1940,307,106,94
+offsets:0,0,106,101
+blue/Major_Coin 5
+bounds:1931,988,106,94
+offsets:0,0,106,101
+Major_Coin 17
+bounds:1931,1084,106,88
+Major_Coin 21
+bounds:1582,1959,106,87
+Major_Coin 9
+bounds:1441,1961,106,81
+blue/Major_Coin 9
+bounds:1915,1306,106,81
+Major_Coin 14
+bounds:1483,1265,106,80
+blue/Major_Coin 12
+bounds:479,1971,106,70
+blue/Major_Coin 6
+bounds:1941,403,103,80
+Major_Coin 15
+bounds:1944,485,100,87
+blue/Major_Coin 15
+bounds:1944,574,100,87
+Major_Coin 8
+bounds:1944,663,98,97
+blue/Major_Coin 8
+bounds:1944,762,98,97
+
+popups_7.webp
+size:360,364
+filter:Linear,Linear
+grand_diamond
+bounds:2,2,126,102
+Shine line 300x/Shine line 300x_19
+bounds:130,2,120,123
+offsets:289,0,409,123
+buybonus_2
+bounds:2,106,118,118
+offsets:1,1,120,120
+Major_Coin 19
+bounds:252,2,106,88
+Major_Coin 20
+bounds:252,92,106,88
+blue/Major_Coin 17
+bounds:122,127,106,88
+blue/Major_Coin 19
+bounds:230,182,106,88
+blue/Major_Coin 20
+bounds:122,217,106,88
+blue/Major_Coin 21
+bounds:230,272,106,87
+blue/Major_Coin 14
+bounds:2,226,106,80
+

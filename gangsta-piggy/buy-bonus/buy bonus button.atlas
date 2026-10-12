@@ -1,0 +1,12 @@
+buy bonus button.webp
+size:240,240
+filter:Linear,Linear
+buttonC
+bounds:2,2,236,108
+offsets:6,11,242,123
+button
+bounds:2,112,187,125
+offsets:2,1,191,128
+blank
+bounds:191,112,1,1
+

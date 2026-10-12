@@ -1,0 +1,654 @@
+icons.webp
+size:2048,2048
+filter:Linear,Linear
+Scatter_car body
+bounds:2,2,661,332
+Shine line 300x/Shine line 300x_10
+bounds:665,2,400,203
+offsets:189,0,674,203
+Shine line 300x/Shine line 300x_11
+bounds:1067,2,398,203
+offsets:234,0,674,203
+Shine line 300x/Shine line 300x_9
+bounds:1467,2,395,203
+offsets:143,0,674,203
+Shine line 300x/Shine line 300x_12
+bounds:665,207,394,203
+offsets:271,0,674,203
+Shine line 300x/Shine line 300x_8
+bounds:2,336,394,203
+offsets:96,0,674,203
+Shine line 300x/Shine line 300x_7
+bounds:1061,207,393,203
+offsets:47,0,674,203
+Shine line 300x/Shine line 300x_6
+bounds:1456,207,390,203
+offsets:0,0,674,203
+Shine line 300x/Shine line 300x_13
+bounds:398,412,365,203
+offsets:309,0,674,203
+Shine line 300x/Shine line 300x_14
+bounds:2,541,333,203
+offsets:341,0,674,203
+safe_Safe door
+bounds:1848,207,189,333
+offsets:0,3,189,336
+safe_Safe doorG
+bounds:765,412,189,333
+offsets:0,3,189,336
+Shine line 300x/Shine line 300x_5
+bounds:337,617,332,203
+offsets:0,0,674,203
+Police_Nose shadow
+bounds:2,746,289,317
+Police_Nose shadowG
+bounds:956,412,289,317
+Shine line 300x/Shine line 300x_15
+bounds:1247,412,302,203
+offsets:372,0,674,203
+Shine line 300x/Shine line 300x_4
+bounds:1551,412,280,203
+offsets:0,0,674,203
+Police_hat
+bounds:1247,617,280,156
+Police_hatG
+bounds:956,731,280,156
+robber_Mask
+bounds:671,747,265,279
+robber_MaskG
+bounds:293,822,265,279
+Police_siren
+bounds:1833,542,142,279
+offsets:43,0,226,304
+Scatter_Scatter shape
+bounds:2,1065,275,100
+Shine line 300x/Shine line 300x_16
+bounds:1529,617,274,203
+offsets:400,0,674,203
+Shine line 300x/Shine line 300x_17
+bounds:1238,775,254,203
+offsets:420,0,674,203
+policeB
+bounds:938,889,193,249
+offsets:27,8,229,268
+robberB
+bounds:1494,822,171,238
+offsets:21,1,208,244
+Scatter_Wheel 1B
+bounds:1133,980,171,231
+offsets:7,10,187,245
+Money_5G
+bounds:560,1028,229,221
+offsets:0,5,229,229
+Money_4G
+bounds:279,1103,229,212
+offsets:0,9,229,229
+Money_3G
+bounds:2,1167,228,200
+offsets:1,15,229,229
+Money_2G
+bounds:791,1140,225,191
+offsets:4,20,229,229
+Shine line 300x/Shine line 300x_18
+bounds:510,1251,224,203
+offsets:450,0,674,203
+coin_coinG
+bounds:232,1317,223,223
+offsets:3,3,229,229
+Shine line 300x/Shine line 300x_3
+bounds:2,1369,221,203
+offsets:0,0,674,203
+Major_Bag lower shape
+bounds:1667,823,212,131
+Minor_bag
+bounds:1667,956,212,131
+grand_bag
+bounds:1306,1062,212,131
+mini_bag
+bounds:1520,1089,212,131
+Shine line 300x/Shine line 300x_19
+bounds:1306,1195,209,203
+offsets:465,0,674,203
+Money_1G
+bounds:1018,1213,209,182
+offsets:0,14,209,209
+Bank_buildingG
+bounds:736,1333,207,206
+offsets:22,21,251,249
+Coin rotation/Coin rotation_15
+bounds:457,1456,202,204
+offsets:7,6,216,216
+Coin rotation/Coin rotation_7
+bounds:225,1542,202,204
+offsets:7,6,216,216
+coin_coin
+bounds:2,1574,202,203
+Shine line 300x/Shine line 300x_20
+bounds:2,1779,185,203
+offsets:489,0,674,203
+Shine line 300x/Shine line 300x_2
+bounds:1864,2,174,203
+offsets:0,0,674,203
+Shine line 300x/Shine line 300x_21
+bounds:189,1779,170,203
+offsets:504,0,674,203
+Shine line 300x/Shine line 300x_22
+bounds:1881,823,155,203
+offsets:519,0,674,203
+Shine line 300x/Shine line 300x_23
+bounds:1881,1028,142,203
+offsets:532,0,674,203
+Shine line 300x/Shine line 300x_24
+bounds:1734,1089,137,203
+offsets:537,0,674,203
+Shine line 300x/Shine line 300x_1
+bounds:1873,1233,126,203
+offsets:0,0,674,203
+Shine line 300x/Shine line 300x_25
+bounds:1517,1222,126,203
+offsets:548,0,674,203
+Shine line 300x/Shine line 300x_26
+bounds:361,1748,123,203
+offsets:551,0,674,203
+Shine line 300x/Shine line 300x_27
+bounds:560,822,109,203
+offsets:565,0,674,203
+Shine line 300x/Shine line 300x_28
+bounds:1645,1294,107,203
+offsets:567,0,674,203
+Shine line 300x/Shine line 300x_29
+bounds:1754,1294,95,203
+offsets:579,0,674,203
+Coin rotation/Coin rotation_8
+bounds:945,1397,202,201
+offsets:7,6,216,216
+Coin rotation/Coin rotation_14
+bounds:661,1541,202,201
+offsets:7,9,216,216
+Coin rotation/Coin rotation_1
+bounds:486,1744,202,192
+offsets:7,8,216,216
+Coin rotation/Coin rotation_6
+bounds:690,1744,202,192
+offsets:7,16,216,216
+Coin rotation/Coin rotation_9
+bounds:1149,1400,202,177
+offsets:7,13,216,216
+Coin rotation/Coin rotation_13
+bounds:1353,1427,202,176
+offsets:7,26,216,216
+safeB
+bounds:1851,1438,168,202
+offsets:16,20,206,241
+Coin rotation/Coin rotation_2
+bounds:1149,1579,202,153
+offsets:7,24,216,216
+Coin rotation/Coin rotation_5
+bounds:894,1600,202,152
+offsets:7,39,216,216
+Coin rotation/Coin rotation_10
+bounds:1557,1499,202,124
+offsets:7,39,216,216
+Coin rotation/Coin rotation_12
+bounds:1353,1605,202,122
+offsets:7,54,216,216
+Coin rotation/Coin rotation_3
+bounds:361,1953,202,88
+offsets:7,58,216,216
+Coin rotation/Coin rotation_4
+bounds:565,1938,202,85
+offsets:7,71,216,216
+Coin rotation/Coin rotation_11
+bounds:2,1984,202,53
+offsets:7,81,216,216
+coinB
+bounds:894,1754,162,201
+offsets:22,22,208,244
+scatterB
+bounds:1058,1754,171,200
+offsets:1,0,172,201
+safe_door dept
+bounds:865,1541,19,200
+safe_door deptG
+bounds:2025,1028,19,200
+safe_handle
+bounds:1557,1625,199,183
+safe_handleG
+bounds:1353,1729,199,183
+wild_backG
+bounds:1554,1810,198,193
+offsets:28,27,255,247
+Bank_building
+bounds:1754,1810,196,194
+Money_4
+bounds:1758,1642,192,163
+Major_Bag front shape
+bounds:398,336,187,71
+offsets:0,0,187,77
+blue/Major_Bag front shape
+bounds:429,1662,187,71
+offsets:0,0,187,77
+Major_Bag back shape
+bounds:1306,980,186,59
+Police_Police shirt
+bounds:1231,1914,173,108
+Police_Sunglass
+bounds:769,1957,159,80
+Police_SunglassG
+bounds:930,1957,159,80
+robber_Hat front
+bounds:1406,1914,146,50
+robber_Hat frontG
+bounds:1406,1966,146,50
+Bank_Wall
+bounds:791,1028,142,88
+Scatter_Wheel 3B
+bounds:1952,1642,90,132
+offsets:2,4,95,138
+Scatter_Wheel 3
+bounds:1761,1499,87,126
+Goldbar_1G
+bounds:1091,1956,126,86
+offsets:15,7,156,100
+Police_Mouth
+bounds:1554,2006,125,35
+offsets:0,0,125,38
+Police_MouthG
+bounds:1681,2006,125,35
+offsets:0,0,125,38
+Goldbar_2
+bounds:1231,1734,119,88
+Goldbar_3
+bounds:1231,1824,119,84
+robber_Hat
+bounds:206,1984,118,50
+safe_money stack_2
+bounds:232,1167,43,113
+safe_doorrot
+bounds:671,617,85,94
+safe_doorrotG
+bounds:1952,1776,85,94
+carsmoke1/carsmoke1_5
+bounds:1952,1872,89,34
+offsets:2,46,99,99
+safe_money stack_1
+bounds:1133,889,43,88
+Scatter_Wheel 3 background
+bounds:1178,889,53,87
+carsmoke1/carsmoke1_4
+bounds:1645,1222,87,33
+offsets:2,46,99,99
+carsmoke1/carsmoke1_0
+bounds:1557,1427,86,33
+offsets:5,47,99,99
+carsmoke1/carsmoke1_1
+bounds:671,713,85,32
+offsets:3,47,99,99
+carsmoke1/carsmoke1_2
+bounds:1557,1462,84,31
+offsets:2,46,99,99
+carsmoke1/carsmoke1_3
+bounds:1645,1257,83,32
+offsets:2,46,99,99
+safe_Money
+bounds:1952,1908,76,82
+Bank_L_door
+bounds:618,1662,31,75
+Bank_R_door
+bounds:736,1251,31,75
+Police_Ear right
+bounds:587,336,70,72
+Police_Ear rightG
+bounds:661,1456,70,72
+Police_Ear left
+bounds:886,1541,56,53
+Police_Ear leftG
+bounds:1952,1992,56,53
+Scatter_text_RG
+bounds:510,1103,46,56
+offsets:7,13,59,81
+Scatter_text_SG
+bounds:510,1161,46,56
+offsets:1,5,48,66
+Scatter_text_CG
+bounds:2001,1233,44,56
+offsets:2,8,48,72
+Major_Coin 2G
+bounds:337,541,55,53
+offsets:1,1,57,56
+blue/Major_Coin 2G
+bounds:945,1333,55,53
+offsets:1,1,57,56
+Major_Coin 3G
+bounds:1977,542,55,48
+offsets:1,0,57,48
+blue/Major_Coin 3G
+bounds:1977,592,55,48
+offsets:1,0,57,48
+Major_Coin 5G
+bounds:1977,642,55,47
+offsets:1,1,57,54
+blue/Major_Coin 5G
+bounds:1977,691,55,47
+offsets:1,1,57,54
+Scatter_text_AG
+bounds:2001,1291,45,55
+offsets:2,7,48,69
+Scatter_text_EG
+bounds:2001,1348,45,55
+offsets:6,7,59,69
+Scatter_text_T1G
+bounds:293,746,42,55
+offsets:3,9,48,72
+Scatter_text_T2G
+bounds:1098,1600,42,55
+offsets:3,9,48,72
+wild_W
+bounds:1977,740,54,43
+wild_W shadow
+bounds:1229,1213,54,43
+Major_Coin 9G
+bounds:1229,1258,54,42
+offsets:1,0,55,42
+blue/Major_Coin 9G
+bounds:1229,1302,54,42
+offsets:1,0,55,42
+Major_Coin 4G
+bounds:1229,1346,54,41
+offsets:1,0,57,41
+blue/Major_Coin 4G
+bounds:1018,1140,54,41
+offsets:1,0,57,41
+Major_Coin 11G
+bounds:1977,785,54,35
+offsets:4,0,61,35
+blue/Major_Coin 11G
+bounds:1074,1140,54,35
+offsets:4,0,61,35
+Major_Coin 13G
+bounds:1074,1177,54,32
+offsets:6,0,66,32
+blue/Major_Coin 13G
+bounds:1808,2006,54,32
+offsets:6,0,66,32
+Major_Coin 7G
+bounds:1864,2006,53,37
+offsets:10,3,73,42
+grand_diamond
+bounds:1098,1657,49,40
+robber_Ear left
+bounds:1098,1699,44,41
+robber_Ear leftG
+bounds:457,1317,44,41
+robber_Mouth
+bounds:1018,1183,44,28
+robber_MouthG
+bounds:1406,2018,44,28
+safe_loop 1 shadow
+bounds:1219,1956,10,43
+Major_Coin 3
+bounds:457,1360,42,35
+blue/Major_Coin 3
+bounds:457,1397,42,35
+Major_Coin 9
+bounds:232,1282,41,32
+Major_Coin 14
+bounds:2001,1405,41,31
+Major_Coin 16
+bounds:510,1219,41,30
+Major_Coin 4
+bounds:206,1748,41,29
+blue/Major_Coin 4
+bounds:249,1748,41,29
+Major_Coin 12
+bounds:1452,2018,41,27
+blue/Major_Coin 12
+bounds:1495,2018,41,27
+Major_Coin 7
+bounds:1520,1062,41,24
+blue/Major_Coin 7
+bounds:1563,1062,41,24
+Major_Coin 11
+bounds:1606,1062,41,23
+blue/Major_Coin 11
+bounds:1353,1400,41,23
+Major_Coin 13
+bounds:457,1434,41,20
+blue/Major_Coin 13
+bounds:791,1118,41,20
+Scatter_text_R
+bounds:1919,2006,29,40
+wild_I
+bounds:1494,775,30,39
+wild_I shadow
+bounds:326,1984,30,39
+Scatter_text_S
+bounds:2010,1992,28,39
+Scatter_text_C
+bounds:429,1542,26,39
+Scatter_text_A
+bounds:429,1583,26,38
+Scatter_text_T1
+bounds:2021,1438,25,38
+Scatter_text_T2
+bounds:429,1623,25,37
+safe_loop 2
+bounds:2034,542,12,37
+safe_safe_loop 1
+bounds:2034,581,12,37
+Scatter_mon1
+bounds:1396,1400,33,24
+Scatter_mon2
+bounds:1431,1400,33,23
+Scatter_mon3
+bounds:1466,1400,33,23
+Scatter_mon4
+bounds:292,1748,33,23
+robber_O mouth
+bounds:327,1748,29,29
+robber_R_eyeball
+bounds:834,1118,27,20
+Police_Match
+bounds:2033,740,13,26
+Police_MatchG
+bounds:1219,2024,11,22
+robber_L_eyeball
+bounds:326,2025,20,21
+Police_Match shadow
+bounds:1501,1400,14,20
+offsets:0,0,14,21
+robber_L_eye
+bounds:500,1434,8,8
+robber_R_eye
+bounds:500,1444,8,8
+blank
+bounds:1758,1625,1,1
+Shine line 300x/Shine line 300x_0
+bounds:2025,1230,1,1
+offsets:0,88,295,89
+safe_loop 2 shadow
+bounds:1219,1956,10,43
+
+icons_2.webp
+size:936,916
+filter:Linear,Linear
+wild_frontG
+bounds:2,2,196,182
+offsets:29,26,255,235
+Money_5
+bounds:200,2,196,173
+bankB
+bounds:398,2,163,195
+offsets:8,7,179,209
+jackpotB
+bounds:200,177,155,193
+offsets:15,10,184,215
+wild_back
+bounds:2,186,188,181
+Money_3
+bounds:2,369,188,154
+robber_Body
+bounds:563,2,186,168
+robber_BodyG
+bounds:563,172,186,168
+wild_front
+bounds:357,199,185,171
+wildB
+bounds:751,2,157,185
+offsets:13,14,182,213
+Money_2
+bounds:544,342,183,144
+Money_1
+bounds:751,189,179,134
+Police_Police shirtG
+bounds:751,325,173,108
+Scatter_Wheel 1
+bounds:729,435,129,169
+goldbarB
+bounds:2,606,166,147
+offsets:8,33,182,213
+safe_safe frame
+bounds:2,755,162,154
+safe_safe frameG
+bounds:166,755,162,154
+Scatter_Wheel 2
+bounds:170,525,127,157
+safe_Safe background
+bounds:299,606,152,144
+money1B
+bounds:192,372,150,146
+offsets:7,44,178,209
+robber_Nose 1
+bounds:330,752,137,131
+robber_Nose 1G
+bounds:453,606,137,131
+Scatter_Light left 1
+bounds:592,488,131,132
+offsets:11,11,153,154
+Scatter_Light right 1
+bounds:469,739,132,131
+offsets:12,11,156,154
+Police_nose
+bounds:592,622,128,103
+Police_noseG
+bounds:344,488,128,103
+Goldbar_2G
+bounds:344,372,128,98
+offsets:14,9,156,116
+Goldbar_3G
+bounds:725,606,127,94
+offsets:15,8,156,110
+Bank_safe
+bounds:722,702,127,92
+offsets:19,0,162,92
+robber_HatG
+bounds:170,684,118,50
+Goldbar_1
+bounds:603,727,117,75
+Scatter_Wheel 1 background
+bounds:474,488,113,94
+grand_diamondG
+bounds:851,702,81,73
+offsets:7,2,94,76
+Major_Coin 1G
+bounds:474,372,53,50
+offsets:2,1,57,52
+blue/Major_Coin 1G
+bounds:474,424,53,50
+offsets:2,1,57,52
+Major_Coin 6G
+bounds:860,435,53,44
+offsets:2,0,57,44
+blue/Major_Coin 6G
+bounds:860,481,53,44
+offsets:2,0,57,44
+blue/Major_Coin 7G
+bounds:469,872,53,37
+offsets:10,3,73,42
+Major_Coin 10G
+bounds:860,527,52,44
+offsets:2,0,55,44
+blue/Major_Coin 10G
+bounds:860,573,52,44
+offsets:2,0,55,44
+Major_Coin 2
+bounds:524,872,41,41
+blue/Major_Coin 2
+bounds:567,872,41,41
+Major_Coin 1
+bounds:299,520,41,37
+blue/Major_Coin 1
+bounds:299,559,41,37
+Major_Coin 5
+bounds:603,804,41,36
+offsets:0,0,41,39
+blue/Major_Coin 5
+bounds:610,842,41,36
+offsets:0,0,41,39
+Major_Coin 17
+bounds:646,804,41,34
+Major_Coin 18
+bounds:854,619,41,34
+Major_Coin 19
+bounds:854,655,41,34
+Major_Coin 20
+bounds:653,840,41,34
+Major_Coin 21
+bounds:689,804,41,34
+blue/Major_Coin 17
+bounds:653,876,41,34
+blue/Major_Coin 18
+bounds:696,840,41,34
+blue/Major_Coin 19
+bounds:696,876,41,34
+blue/Major_Coin 20
+bounds:732,796,41,34
+blue/Major_Coin 21
+bounds:851,777,41,34
+blue/Major_Coin 9
+bounds:610,880,41,32
+blue/Major_Coin 14
+bounds:775,796,41,31
+blue/Major_Coin 16
+bounds:2,525,41,30
+Major_Coin 10
+bounds:2,557,40,32
+blue/Major_Coin 10
+bounds:44,557,40,32
+Major_Coin 6
+bounds:86,525,40,31
+blue/Major_Coin 6
+bounds:128,525,40,31
+wild_D
+bounds:86,558,39,37
+wild_D shadow
+bounds:127,558,39,37
+offsets:3,0,42,37
+Major_Coin 15
+bounds:739,832,39,34
+blue/Major_Coin 15
+bounds:739,868,39,34
+Major_Coin 8
+bounds:894,777,38,38
+blue/Major_Coin 8
+bounds:818,813,38,38
+Scatter_text_E
+bounds:858,813,29,38
+offsets:1,0,32,38
+wild_L
+bounds:897,619,27,38
+wild_L shadow
+bounds:897,659,27,38
+Bank_A
+bounds:780,829,36,36
+Bank_N
+bounds:889,817,36,36
+Bank_K
+bounds:780,867,34,36
+robber_Ear right
+bounds:816,867,34,36
+robber_Ear rightG
+bounds:852,853,34,36
+Bank_B
+bounds:888,855,33,36
+

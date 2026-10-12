@@ -1,0 +1,350 @@
+holdAndWin.webp
+size:2040,1992
+filter:Linear,Linear
+insafe coins
+bounds:2,2,1994,439
+insafe ref
+bounds:2,443,1440,810
+Shine line 300x/Shine line 300x_0
+bounds:2,1255,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_1
+bounds:898,1255,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_10
+bounds:2,1347,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_11
+bounds:898,1347,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_12
+bounds:2,1439,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_13
+bounds:898,1439,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_14
+bounds:2,1531,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_15
+bounds:898,1531,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_16
+bounds:2,1623,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_17
+bounds:2,1715,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_18
+bounds:2,1807,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_19
+bounds:2,1899,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_2
+bounds:898,1623,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_20
+bounds:898,1715,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_21
+bounds:898,1807,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_22
+bounds:898,1899,894,90
+offsets:53,93,1000,300
+pfaceB
+bounds:1444,443,570,559
+offsets:432,117,1440,810
+toppig_4.1
+bounds:1444,1004,542,111
+toppig_3.1
+bounds:1444,1117,542,78
+pc2/pc_06
+bounds:1794,1197,241,300
+offsets:1,0,300,300
+pc2/pc_14
+bounds:1794,1499,240,300
+offsets:58,0,300,300
+blank 1
+bounds:2037,2,1,1
+open smoke/open smoke_21
+bounds:2037,2,1,1
+
+holdAndWin_2.webp
+size:2044,1992
+filter:Linear,Linear
+insafe_BG
+bounds:2,2,1785,1986
+pc2/pc_05
+bounds:1789,2,253,300
+offsets:0,0,300,300
+pc2/pc_15
+bounds:1789,304,253,300
+offsets:47,0,300,300
+pc2/pc_13
+bounds:1789,606,217,300
+offsets:68,0,300,300
+pc2/pc_07
+bounds:1789,908,216,300
+offsets:15,0,300,300
+pc2/pc_12
+bounds:1789,1210,188,300
+offsets:79,0,300,300
+pc2/pc_08
+bounds:1789,1512,187,300
+offsets:33,0,300,300
+
+holdAndWin_3.webp
+size:2048,1996
+filter:Linear,Linear
+pface
+bounds:2,2,1747,1713
+offsets:124,133,2000,2000
+Shine line 300x/Shine line 300x_23
+bounds:2,1717,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_24
+bounds:2,1809,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_25
+bounds:2,1901,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_26
+bounds:898,1717,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_27
+bounds:898,1809,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_28
+bounds:898,1901,894,90
+offsets:53,93,1000,300
+pc2/pc_01
+bounds:1751,2,292,300
+offsets:0,0,300,300
+pc2/pc_19
+bounds:1751,304,292,300
+offsets:8,0,300,300
+pc2/pc_18
+bounds:1751,606,284,300
+offsets:16,0,300,300
+pc2/pc_02
+bounds:1751,908,283,300
+offsets:0,0,300,300
+pc2/pc_03
+bounds:1751,1210,274,300
+offsets:0,0,300,300
+pc2/pc_09
+bounds:1794,1512,154,300
+offsets:56,0,300,300
+
+holdAndWin_4.webp
+size:2024,1984
+filter:Linear,Linear
+safeenter_1
+bounds:2,2,1344,896
+safeenter_2
+bounds:2,900,1344,896
+Shine line 300x/Shine line 300x_29
+bounds:2,1798,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_3
+bounds:2,1890,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_30
+bounds:898,1798,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_4
+bounds:898,1890,894,90
+offsets:53,93,1000,300
+Safe door
+bounds:1348,2,517,517
+open smoke/open smoke_4
+bounds:1348,521,504,504
+open smoke/open smoke_5
+bounds:1348,1027,504,502
+offsets:0,0,504,504
+pc2/pc_11
+bounds:1867,2,154,300
+offsets:90,0,300,300
+pc2/pc_10
+bounds:1867,304,136,300
+offsets:82,0,300,300
+open smoke/open smoke_0
+bounds:1348,1531,281,205
+offsets:114,149,504,504
+
+holdAndWin_5.webp
+size:1856,1984
+filter:Linear,Linear
+safeenter_3
+bounds:2,2,1344,896
+safeenter_4
+bounds:2,900,1344,896
+Shine line 300x/Shine line 300x_5
+bounds:2,1798,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_6
+bounds:2,1890,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_7
+bounds:898,1798,894,90
+offsets:53,93,1000,300
+Shine line 300x/Shine line 300x_8
+bounds:898,1890,894,90
+offsets:53,93,1000,300
+open smoke/open smoke_6
+bounds:1348,2,504,498
+offsets:0,1,504,504
+open smoke/open smoke_7
+bounds:1348,502,504,498
+offsets:0,2,504,504
+open smoke/open smoke_9
+bounds:1348,1002,504,497
+offsets:0,5,504,504
+
+holdAndWin_6.webp
+size:2048,1996
+filter:Linear,Linear
+Shine line 300x/Shine line 300x_9
+bounds:2,2,894,90
+offsets:53,93,1000,300
+coins L2/coins L2_1
+bounds:898,2,871,235
+offsets:0,59,871,368
+coins L2/coins L2_2
+bounds:2,94,871,235
+offsets:0,61,871,368
+coins L2/coins L2_3
+bounds:875,239,871,226
+offsets:0,63,871,368
+coins L1/coins L1_1
+bounds:2,331,871,221
+offsets:0,62,871,368
+coins L2/coins L2_4
+bounds:875,467,871,219
+offsets:0,65,871,368
+coins L2/coins L2_5
+bounds:2,554,871,219
+offsets:0,64,871,368
+coins L1/coins L1_2
+bounds:875,688,871,215
+offsets:0,66,871,368
+coins L2/coins L2_6
+bounds:2,775,871,208
+offsets:0,69,871,368
+coins L1/coins L1_3
+bounds:875,905,871,206
+offsets:0,68,871,368
+coins L2/coins L2_7
+bounds:2,985,871,196
+offsets:0,75,871,368
+coins L1/coins L1_4
+bounds:875,1113,869,185
+offsets:2,78,871,368
+coins L2/coins L2_8
+bounds:2,1183,836,173
+offsets:17,86,871,368
+coins L2/coins L2_0
+bounds:840,1300,767,96
+offsets:52,132,871,368
+coins L2/coins L2_9
+bounds:2,1358,767,96
+offsets:52,132,871,368
+coins L1/coins L1_0
+bounds:2,1456,767,88
+offsets:53,126,871,368
+coins L1/coins L1_5
+bounds:2,1546,767,88
+offsets:53,126,871,368
+coins L1/coins L1_6
+bounds:2,1636,767,88
+offsets:53,126,871,368
+coins L1/coins L1_7
+bounds:2,1726,767,88
+offsets:53,126,871,368
+coins L1/coins L1_8
+bounds:2,1816,767,88
+offsets:53,126,871,368
+coins L1/coins L1_9
+bounds:2,1906,767,88
+offsets:53,126,871,368
+open smoke/open smoke_3
+bounds:771,1398,493,504
+offsets:7,0,504,504
+open smoke/open smoke_8
+bounds:1266,1398,504,487
+offsets:0,3,504,504
+pc2/pc_17
+bounds:1772,2,274,300
+offsets:26,0,300,300
+pc2/pc_16
+bounds:1772,304,264,300
+offsets:36,0,300,300
+pc2/pc_04
+bounds:1772,606,263,300
+offsets:0,0,300,300
+
+holdAndWin_7.webp
+size:1996,2016
+filter:Linear,Linear
+open smoke/open smoke_2
+bounds:2,2,415,504
+offsets:49,0,504,504
+open smoke/open smoke_10
+bounds:2,508,503,494
+offsets:0,8,504,504
+open smoke/open smoke_11
+bounds:419,2,502,473
+offsets:0,9,504,504
+open smoke/open smoke_12
+bounds:2,1004,500,471
+offsets:1,10,504,504
+open smoke/open smoke_13
+bounds:2,1477,492,466
+offsets:3,13,504,504
+open smoke/open smoke_1
+bounds:496,1477,315,471
+offsets:97,13,504,504
+open smoke/open smoke_14
+bounds:504,1004,420,458
+offsets:45,17,504,504
+open smoke/open smoke_15
+bounds:507,477,422,448
+offsets:44,22,504,504
+open smoke/open smoke_16
+bounds:923,2,399,440
+offsets:57,25,504,504
+open smoke/open smoke_17
+bounds:813,1464,399,433
+offsets:57,28,504,504
+Coin pig/Coin pig_1
+bounds:926,927,427,359
+offsets:209,9,871,368
+Coin pig/Coin pig_2
+bounds:931,444,427,354
+offsets:209,14,871,368
+Coin pig/Coin pig_3
+bounds:1324,2,427,351
+offsets:209,17,871,368
+Coin pig/Coin pig_4
+bounds:1360,355,427,341
+offsets:209,27,871,368
+Coin pig/Coin pig_0
+bounds:1360,698,427,309
+offsets:209,59,871,368
+open smoke/open smoke_18
+bounds:1355,1009,392,357
+offsets:60,67,504,504
+open smoke/open smoke_19
+bounds:1214,1368,390,343
+offsets:61,74,504,504
+open smoke/open smoke_20
+bounds:1606,1368,388,341
+offsets:62,75,504,504
+pc2/pc_00
+bounds:1214,1713,300,300
+Coin pig/Coin pig_5
+bounds:1360,698,427,309
+offsets:209,59,871,368
+
