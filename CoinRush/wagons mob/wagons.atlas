@@ -1,0 +1,389 @@
+wagons.webp
+size:1085,1106
+filter:Linear,Linear
+gold shine
+bounds:2,2,280,280
+Gold_golden_cart_part_1
+bounds:284,2,242,181
+Gold_golden_cart_part_2
+bounds:528,2,239,171
+Silver_golden_cart_part_2
+bounds:769,2,233,168
+Silver_golden_cart_part_1
+bounds:769,172,223,94
+Bronz_golden_cart_part_2
+bounds:528,175,206,160
+Bronz_golden_cart_part_1
+bounds:284,185,201,84
+Gold_golden_cart_part_2G
+bounds:284,271,137,109
+offsets:8,0,152,109
+Gold_golden_cart_part_1G
+bounds:2,284,135,107
+offsets:15,16,166,124
+Wagon shining/Wagon shining_10
+bounds:139,284,135,94
+offsets:7,10,152,109
+Wagon shining/Wagon shining_11
+bounds:139,380,135,94
+offsets:7,10,152,109
+Wagon shining/Wagon shining_12
+bounds:2,393,135,94
+offsets:7,10,152,109
+Wagon shining/Wagon shining_9
+bounds:736,268,135,93
+offsets:7,11,152,109
+Wagon shining/Wagon shining_13
+bounds:873,268,135,93
+offsets:7,11,152,109
+Wagon shining/Wagon shining_14
+bounds:423,337,134,93
+offsets:8,11,152,109
+Wagon shining/Wagon shining_8
+bounds:276,382,134,93
+offsets:8,11,152,109
+Wagon shining/Wagon shining_15
+bounds:139,476,134,92
+offsets:8,11,152,109
+Wagon shining/Wagon shining_16
+bounds:2,489,134,92
+offsets:8,11,152,109
+Wagon shining/Wagon shining_17
+bounds:559,337,134,92
+offsets:8,11,152,109
+Wagon shining/Wagon shining_18
+bounds:695,363,134,91
+offsets:8,12,152,109
+Wagon shining/Wagon shining_19
+bounds:559,431,134,91
+offsets:8,12,152,109
+Wagon shining/Wagon shining_26
+bounds:412,432,134,90
+offsets:8,12,152,109
+Wagon shining/Wagon shining_27
+bounds:275,477,134,90
+offsets:8,12,152,109
+Wagon shining/Wagon shining_25
+bounds:831,363,134,90
+offsets:8,12,152,109
+Wagon shining/Wagon shining_29
+bounds:831,455,134,89
+offsets:8,12,152,109
+Wagon shining/Wagon shining_30
+bounds:695,456,134,89
+offsets:8,12,152,109
+Wagon shining/Wagon shining_28
+bounds:831,546,134,89
+offsets:8,12,152,109
+Wagon shining/Wagon shining_31
+bounds:411,524,134,88
+offsets:8,13,152,109
+Silver_golden_cart_part_2G
+bounds:275,569,133,102
+offsets:7,2,147,106
+Wagon shining/Wagon shining_7
+bounds:138,570,133,92
+offsets:8,12,152,109
+Wagon shining/Wagon shining_6
+bounds:2,583,133,92
+offsets:8,12,152,109
+Wagon shining/Wagon shining_20
+bounds:137,664,133,91
+offsets:9,12,152,109
+Wagon shining/Wagon shining_21
+bounds:2,677,133,90
+offsets:9,12,152,109
+Wagon shining/Wagon shining_22
+bounds:547,524,133,90
+offsets:9,12,152,109
+Wagon shining/Wagon shining_24
+bounds:410,614,133,90
+offsets:9,12,152,109
+Wagon shining/Wagon shining_23
+bounds:272,673,133,90
+offsets:9,12,152,109
+Wagon shining/Wagon shining_32
+bounds:137,757,133,88
+offsets:9,13,152,109
+Wagon shining/Wagon shining_4
+bounds:2,769,132,90
+offsets:9,13,152,109
+Wagon shining/Wagon shining_5
+bounds:682,547,132,90
+offsets:9,13,152,109
+Wagon shining/Wagon shining_34
+bounds:545,616,132,88
+offsets:9,14,152,109
+Wagon shining/Wagon shining_33
+bounds:816,637,132,87
+offsets:9,14,152,109
+Silver_golden_cart_part_1G
+bounds:950,637,132,61
+offsets:7,0,145,61
+Wagon shining/Wagon shining_3
+bounds:950,700,131,88
+offsets:10,14,152,109
+Wagon shining/Wagon shining_35
+bounds:679,639,131,86
+offsets:10,15,152,109
+Wagon shining/Wagon shining_36
+bounds:812,726,130,86
+offsets:10,15,152,109
+Wagon shining/Wagon shining_2
+bounds:944,790,129,85
+offsets:11,16,152,109
+Wagon shining/Wagon shining_37
+bounds:407,706,128,85
+offsets:11,16,152,109
+Wagon shining/Wagon shining_38
+bounds:272,765,126,83
+offsets:12,17,152,109
+Wagon shining/Wagon shining_1
+bounds:136,847,124,81
+offsets:14,18,152,109
+Wagon shining/Wagon shining_39
+bounds:2,861,122,80
+offsets:14,19,152,109
+Bronz_golden_cart_part_2G
+bounds:537,706,119,92
+offsets:2,0,122,95
+Bronz_golden_cart_part_1G
+bounds:400,793,117,59
+offsets:12,0,140,59
+Gold_circle_1G
+bounds:994,172,79,94
+offsets:14,5,95,99
+Silver_circle_1G
+bounds:1004,2,78,85
+Silver_circle_2G
+bounds:967,363,75,83
+Bronz_circle_2G
+bounds:1004,89,78,80
+offsets:0,6,79,89
+Gold_circle_2G
+bounds:1010,268,70,80
+offsets:5,0,75,80
+Bronz_circle_1G
+bounds:967,448,72,75
+offsets:2,7,76,87
+goldCoin/goldCoin_14
+bounds:967,525,70,73
+offsets:5,4,79,81
+goldCoin/goldCoin_16
+bounds:262,850,70,73
+offsets:4,4,79,81
+goldCoinS/goldCoinS_14
+bounds:658,727,70,73
+offsets:5,4,79,81
+goldCoinS/goldCoinS_16
+bounds:730,727,70,73
+offsets:4,4,79,81
+goldCoin/goldCoin_13
+bounds:519,800,68,73
+offsets:7,4,79,81
+goldCoin/goldCoin_17
+bounds:2,943,68,73
+offsets:4,4,79,81
+goldCoinS/goldCoinS_13
+bounds:2,1018,68,73
+offsets:7,4,79,81
+goldCoinS/goldCoinS_17
+bounds:72,943,68,73
+offsets:4,4,79,81
+goldCoin/goldCoin_18
+bounds:334,850,60,73
+offsets:7,4,79,81
+goldCoinS/goldCoinS_18
+bounds:589,800,60,73
+offsets:7,4,79,81
+goldCoin/goldCoin_12
+bounds:72,1018,59,73
+offsets:12,4,79,81
+goldCoinS/goldCoinS_12
+bounds:133,1018,59,73
+offsets:12,4,79,81
+goldCoin/goldCoin_19
+bounds:142,930,49,73
+offsets:13,4,79,81
+goldCoinS/goldCoinS_19
+bounds:193,930,49,73
+offsets:13,4,79,81
+goldCoin/goldCoin_11
+bounds:194,1005,46,73
+offsets:18,4,79,81
+goldCoinS/goldCoinS_11
+bounds:242,1005,46,73
+offsets:18,4,79,81
+goldCoin/goldCoin_20
+bounds:1041,448,42,73
+offsets:17,4,79,81
+goldCoinS/goldCoinS_20
+bounds:1041,523,42,73
+offsets:17,4,79,81
+goldCoin/goldCoin_10
+bounds:1044,350,39,73
+offsets:21,4,79,81
+goldCoinS/goldCoinS_10
+bounds:487,185,39,73
+offsets:21,4,79,81
+goldCoin/goldCoin_21
+bounds:244,930,25,72
+offsets:27,4,79,81
+goldCoin/goldCoin_15
+bounds:271,925,71,71
+offsets:4,5,79,81
+goldCoinS/goldCoinS_15
+bounds:290,998,71,71
+offsets:4,5,79,81
+goldCoin/goldCoin_0
+bounds:344,925,71,69
+offsets:4,6,79,81
+goldCoin/goldCoin_30
+bounds:396,854,71,69
+offsets:4,6,79,81
+goldCoinS/goldCoinS_0
+bounds:363,996,71,69
+offsets:4,6,79,81
+goldCoinS/goldCoinS_30
+bounds:417,925,71,69
+offsets:4,6,79,81
+goldCoin/goldCoin_3
+bounds:436,996,64,71
+offsets:4,5,79,81
+goldCoinS/goldCoinS_3
+bounds:490,877,64,71
+offsets:4,5,79,81
+goldCoin/goldCoin_27
+bounds:502,950,63,71
+offsets:12,5,79,81
+goldCoinS/goldCoinS_27
+bounds:556,877,63,71
+offsets:12,5,79,81
+goldCoin/goldCoin_4
+bounds:502,1023,56,71
+offsets:7,5,79,81
+goldCoinS/goldCoinS_4
+bounds:560,1023,56,71
+offsets:7,5,79,81
+goldCoin/goldCoin_26
+bounds:567,950,54,71
+offsets:18,5,79,81
+goldCoinS/goldCoinS_26
+bounds:621,877,54,71
+offsets:18,5,79,81
+goldCoin/goldCoin_5
+bounds:651,802,44,71
+offsets:12,5,79,81
+goldCoinS/goldCoinS_5
+bounds:618,1023,44,71
+offsets:12,5,79,81
+goldCoin/goldCoin_25
+bounds:623,950,41,71
+offsets:24,5,79,81
+goldCoinS/goldCoinS_25
+bounds:664,1023,41,71
+offsets:24,5,79,81
+goldCoin/goldCoin_6
+bounds:666,950,36,71
+offsets:16,5,79,81
+goldCoinS/goldCoinS_6
+bounds:677,877,36,71
+offsets:16,5,79,81
+goldCoin/goldCoin_24
+bounds:704,950,33,71
+offsets:28,5,79,81
+goldCoinS/goldCoinS_24
+bounds:715,877,33,71
+offsets:28,5,79,81
+goldCoinS/goldCoinS_21
+bounds:697,802,25,71
+offsets:27,5,79,81
+goldCoin/goldCoin_9
+bounds:724,802,22,71
+offsets:28,5,79,81
+goldCoinS/goldCoinS_9
+bounds:748,802,22,71
+offsets:28,5,79,81
+goldCoin/goldCoin_7
+bounds:487,260,19,71
+offsets:26,5,79,81
+goldCoinS/goldCoinS_7
+bounds:707,1023,19,71
+offsets:26,5,79,81
+goldCoin/goldCoin_23
+bounds:508,260,16,71
+offsets:35,5,79,81
+goldCoinS/goldCoinS_23
+bounds:728,1023,16,71
+offsets:35,5,79,81
+goldCoin/goldCoin_22
+bounds:739,950,15,71
+offsets:33,5,79,81
+goldCoinS/goldCoinS_22
+bounds:750,877,15,71
+offsets:33,5,79,81
+goldCoin/goldCoin_8
+bounds:816,547,13,71
+offsets:32,5,79,81
+goldCoinS/goldCoinS_8
+bounds:746,1023,13,71
+offsets:32,5,79,81
+goldCoin/goldCoin_1
+bounds:756,950,70,69
+offsets:4,6,79,81
+goldCoinS/goldCoinS_1
+bounds:767,877,70,69
+offsets:4,6,79,81
+goldCoinS/goldCoinS_29
+bounds:761,1021,70,69
+offsets:5,6,79,81
+goldCoin/goldCoin_29
+bounds:828,948,69,69
+offsets:6,6,79,81
+goldCoin/goldCoin_2
+bounds:839,877,66,69
+offsets:4,6,79,81
+goldCoinS/goldCoinS_2
+bounds:833,1019,66,69
+offsets:4,6,79,81
+goldCoin/goldCoin_28
+bounds:899,948,65,69
+offsets:10,6,79,81
+goldCoinS/goldCoinS_28
+bounds:907,877,65,69
+offsets:10,6,79,81
+Silver_circle_2
+bounds:772,814,51,55
+offsets:0,1,51,56
+Gold_circle_1
+bounds:825,814,52,54
+Silver coin_0001G
+bounds:967,600,53,35
+offsets:13,1,79,36
+Gold_circle_2
+bounds:879,814,47,51
+Bronz_circle_2
+bounds:423,271,45,51
+Gold coin_0001G
+bounds:290,1071,51,33
+offsets:10,2,73,35
+Silver_circle_1
+bounds:901,1019,45,50
+Bronz coin_0001G
+bounds:343,1071,47,27
+offsets:6,0,59,27
+Bronz_circle_1
+bounds:948,1019,40,45
+Gold coin_0001
+bounds:1044,425,36,17
+Silver coin_0001
+bounds:695,337,34,15
+Bronz coin_0001
+bounds:833,1090,30,14
+Wagon shining/Wagon shining_0
+bounds:272,664,1,1
+Wagon shining/Wagon shining_40
+bounds:272,664,1,1
+blank 1
+bounds:272,664,1,1
+

@@ -1,0 +1,905 @@
+icons.webp
+size:2048,2042
+filter:Linear,Linear
+icon gem2/gem2_0
+bounds:2,2,379,351
+offsets:27,18,421,432
+icon gem4/gem4_0
+bounds:383,2,377,366
+offsets:27,38,424,435
+icon gem3/gem3_0
+bounds:2,355,372,370
+offsets:31,34,445,456
+icon gem4/gem4_8
+bounds:762,2,317,285
+offsets:8,32,326,335
+icon gem4/gem4_9
+bounds:1081,2,310,313
+offsets:15,9,326,335
+coinBG
+bounds:762,289,309,310
+offsets:36,40,379,389
+coinSG
+bounds:376,370,307,308
+offsets:36,41,379,389
+icon coinG2/coin_0
+bounds:1393,2,302,301
+offsets:84,90,470,481
+icon gem2/gem2_3
+bounds:1697,2,298,272
+offsets:19,13,324,333
+icon gem2/gem2_8
+bounds:1697,276,297,274
+offsets:11,13,324,333
+icon gem2/gem2_4
+bounds:1393,305,297,273
+offsets:20,13,324,333
+icon gem2/gem2_2
+bounds:1073,317,297,272
+offsets:19,13,324,333
+icon gem2/gem2_6
+bounds:1692,552,297,272
+offsets:19,13,324,333
+icon gem2/gem2_9
+bounds:1372,580,296,280
+offsets:15,13,324,333
+icon gem2/gem2_1
+bounds:1073,591,295,272
+offsets:19,13,324,333
+icon gem2/gem2_11
+bounds:1670,826,294,272
+offsets:20,13,324,333
+icon gem4/gem4_12
+bounds:1370,862,293,283
+offsets:20,29,326,335
+shovelS
+bounds:1665,1100,279,293
+offsets:47,49,364,373
+icon gem4/gem4_14
+bounds:685,601,292,283
+offsets:21,29,326,335
+icon gem4/gem4_13
+bounds:376,680,292,283
+offsets:21,29,326,335
+icon gem4/gem4_7
+bounds:2,727,292,283
+offsets:21,29,326,335
+icon gem4/gem4_15
+bounds:979,865,292,282
+offsets:20,30,326,335
+icon gem3/gem3_8
+bounds:670,886,277,292
+offsets:37,20,342,351
+gem2B
+bounds:296,965,292,276
+offsets:21,11,324,333
+icon gem2/gem2_16
+bounds:2,1012,292,272
+offsets:21,13,324,333
+gem4B
+bounds:1273,1147,291,286
+offsets:20,27,326,335
+icon gem4/gem4_10
+bounds:949,1149,273,291
+offsets:35,22,326,335
+icon coinG/coin_0
+bounds:590,1180,290,289
+offsets:92,97,471,483
+gem3B
+bounds:296,1243,286,290
+offsets:24,23,342,351
+icon gem4/gem4_11
+bounds:2,1286,290,282
+offsets:21,29,326,335
+icon gem3/gem3_13
+bounds:2,1570,289,287
+offsets:25,24,342,351
+icon gem4/gem4_2
+bounds:1566,1395,289,283
+offsets:23,28,326,335
+icon gem4/gem4_1
+bounds:1224,1435,289,282
+offsets:22,29,326,335
+icon gem2/gem2_15
+bounds:882,1442,289,272
+offsets:21,13,324,333
+icon gem2/gem2_7
+bounds:584,1471,289,272
+offsets:22,13,324,333
+icon gem3/gem3_12
+bounds:294,1535,288,287
+offsets:25,24,342,351
+icon gem3/gem3_14
+bounds:584,1745,288,287
+offsets:25,24,342,351
+icon gem3/gem3_7
+bounds:874,1745,288,287
+offsets:25,24,342,351
+icon gem3/gem3_15
+bounds:1164,1719,288,286
+offsets:24,25,342,351
+icon gem4/gem4_6
+bounds:1454,1719,288,283
+offsets:23,28,326,335
+icon gem2/gem2_12
+bounds:1744,1680,288,272
+offsets:22,13,324,333
+helmet
+bounds:293,1824,279,216
+offsets:107,145,493,506
+shovelB
+bounds:1857,1395,189,255
+offsets:92,68,364,373
+icon Helmet/Helmet_9
+bounds:2,1859,197,148
+offsets:96,121,379,389
+circle swipe/circle swipe_7
+bounds:979,601,91,141
+offsets:6,3,150,150
+circle swipe/circle swipe_13
+bounds:201,1859,89,130
+offsets:56,7,150,150
+circle swipe/circle swipe_6
+bounds:1966,826,79,130
+offsets:4,10,150,150
+circle swipe/circle swipe_14
+bounds:1273,865,89,120
+offsets:56,6,150,150
+circle swipe/circle swipe_5
+bounds:979,744,73,118
+offsets:0,14,150,150
+circle swipe/circle swipe_4
+bounds:685,370,69,102
+offsets:0,25,150,150
+circle swipe/circle swipe_15
+bounds:1273,987,86,101
+offsets:59,7,150,150
+circle swipe/circle swipe_3
+bounds:882,1180,65,97
+offsets:0,26,150,150
+circle swipe/circle swipe_16
+bounds:685,474,71,80
+offsets:72,16,150,150
+circle swipe/circle swipe_2
+bounds:882,1279,59,78
+offsets:0,36,150,150
+bonus_U
+bounds:882,1359,58,76
+bonus_S
+bounds:1744,1954,56,75
+bonus_N
+bounds:1802,1954,56,74
+bonus_O
+bounds:1991,552,54,73
+bonus_B
+bounds:1991,627,54,72
+circle swipe/circle swipe_1
+bounds:590,965,57,70
+offsets:0,40,150,150
+circle swipe/circle swipe_17
+bounds:590,1037,57,58
+offsets:78,22,150,150
+bonus_gliter
+bounds:201,1991,35,46
+offsets:0,1,35,48
+blank
+bounds:875,1716,1,1
+circle swipe/circle swipe_0
+bounds:875,1716,1,1
+circle swipe/circle swipe_18
+bounds:875,1716,1,1
+icon gem2/gem2_5
+bounds:1393,305,297,273
+offsets:20,13,324,333
+icon gem4/gem4_16
+bounds:383,2,377,366
+offsets:27,38,424,435
+
+icons_2.webp
+size:2036,2039
+filter:Linear,Linear
+icon gem2/gem2_13
+bounds:2,2,288,272
+offsets:22,13,324,333
+icon gem2/gem2_14
+bounds:292,2,288,272
+offsets:22,13,324,333
+icon gem4/gem4_3
+bounds:582,2,287,284
+offsets:25,28,326,335
+icon gem3/gem3_1
+bounds:2,276,286,285
+offsets:24,26,342,351
+icon gem3/gem3_11
+bounds:290,276,286,285
+offsets:24,26,342,351
+icon gem4/gem4_4
+bounds:871,2,286,285
+offsets:26,27,326,335
+icon gem3/gem3_16
+bounds:578,288,286,285
+offsets:24,26,342,351
+coinBB
+bounds:2,563,233,285
+offsets:74,52,379,389
+coinGB
+bounds:237,563,233,285
+offsets:74,52,379,389
+coinSB
+bounds:1159,2,233,285
+offsets:74,52,379,389
+icon gem3/gem3_6
+bounds:1394,2,284,283
+offsets:24,27,342,351
+icon gem3/gem3_2
+bounds:1680,2,284,282
+offsets:24,28,342,351
+icon gem2/gem2_10
+bounds:1680,286,284,276
+offsets:27,12,324,333
+icon gem3/gem3_10
+bounds:1394,287,282,278
+offsets:27,28,342,351
+icon gem3/gem3_3
+bounds:1678,564,281,281
+offsets:25,28,342,351
+icon gem3/gem3_4
+bounds:866,289,280,281
+offsets:25,28,342,351
+icon gem3/gem3_9
+bounds:1148,567,279,276
+offsets:31,29,342,351
+AxeS
+bounds:866,572,252,257
+offsets:50,29,312,320
+icon bonus/bonus_0
+bounds:472,575,249,234
+offsets:112,130,462,474
+icon Lamp/Lamp_0
+bounds:1148,289,178,242
+offsets:86,81,390,400
+dynamitS
+bounds:1429,567,235,239
+offsets:38,26,308,315
+icon coinB/coin_11
+bounds:723,575,131,239
+offsets:139,75,379,389
+icon coinG/coin_11
+bounds:1429,808,131,239
+offsets:139,75,379,389
+icon coinS/coin_11
+bounds:472,811,131,239
+offsets:139,75,379,389
+icon coinB/coin_9
+bounds:605,816,117,239
+offsets:145,75,379,389
+icon coinG/coin_9
+bounds:724,816,117,239
+offsets:145,75,379,389
+icon coinS/coin_9
+bounds:843,831,117,239
+offsets:145,75,379,389
+gem1B
+bounds:962,845,217,238
+offsets:48,31,323,331
+icon coinB/coin_12
+bounds:1181,845,237,235
+offsets:71,77,379,389
+icon coinG/coin_12
+bounds:2,850,237,235
+offsets:71,77,379,389
+icon coinS/coin_12
+bounds:241,1052,237,235
+offsets:71,77,379,389
+icon coinB/coin_10
+bounds:2,1087,237,233
+offsets:71,78,379,389
+icon coinG/coin_10
+bounds:480,1057,237,233
+offsets:71,78,379,389
+icon coinS/coin_10
+bounds:241,1289,237,233
+offsets:71,78,379,389
+icon coinB/coin_8
+bounds:2,1322,215,237
+offsets:71,76,379,389
+icon coinG/coin_8
+bounds:719,1072,215,237
+offsets:71,76,379,389
+icon coinS/coin_8
+bounds:480,1292,215,237
+offsets:71,76,379,389
+icon coinB/coin_13
+bounds:219,1524,193,237
+offsets:78,76,379,389
+icon coinG/coin_13
+bounds:2,1561,193,237
+offsets:78,76,379,389
+icon coinS/coin_13
+bounds:2,1800,193,237
+offsets:78,76,379,389
+icon coinB/coin_5
+bounds:197,1763,191,237
+offsets:109,76,379,389
+icon coinG/coin_5
+bounds:390,1763,191,237
+offsets:109,76,379,389
+icon coinS/coin_5
+bounds:583,1531,191,237
+offsets:109,76,379,389
+icon coinB/coin_7
+bounds:583,1770,235,233
+offsets:73,78,379,389
+icon coinG/coin_7
+bounds:776,1311,235,233
+offsets:73,78,379,389
+icon coinS/coin_7
+bounds:1562,847,235,233
+offsets:73,78,379,389
+Axe
+bounds:1799,847,235,227
+offsets:114,82,395,405
+icon coinB/coin_2
+bounds:1799,1076,219,235
+offsets:89,77,379,389
+icon coinG/coin_2
+bounds:820,1546,219,235
+offsets:89,77,379,389
+icon coinS/coin_2
+bounds:820,1783,219,235
+offsets:89,77,379,389
+icon coinB/coin_14
+bounds:1013,1085,218,235
+offsets:71,77,379,389
+icon coinG/coin_14
+bounds:1233,1082,218,235
+offsets:71,77,379,389
+icon coinS/coin_14
+bounds:1453,1082,218,235
+offsets:71,77,379,389
+icon coinB/coin_6
+bounds:1673,1313,215,235
+offsets:93,77,379,389
+icon coinG/coin_6
+bounds:1233,1319,215,235
+offsets:93,77,379,389
+icon coinS/coin_6
+bounds:1450,1319,215,235
+offsets:93,77,379,389
+icon coinB/coin_3
+bounds:1667,1550,204,235
+offsets:101,77,379,389
+icon coinG/coin_3
+bounds:1041,1787,204,235
+offsets:101,77,379,389
+icon coinS/coin_3
+bounds:1247,1787,204,235
+offsets:101,77,379,389
+icon coinB/coin_4
+bounds:1453,1556,191,235
+offsets:109,77,379,389
+icon coinG/coin_4
+bounds:1453,1793,191,235
+offsets:109,77,379,389
+icon coinS/coin_4
+bounds:1646,1787,191,235
+offsets:109,77,379,389
+dynamit
+bounds:1041,1556,231,219
+offsets:97,80,400,410
+bonusB
+bounds:1041,1322,189,228
+offsets:90,77,356,365
+lampB
+bounds:1274,1556,137,226
+offsets:66,42,300,307
+AxeB
+bounds:1839,1787,185,223
+offsets:90,43,312,320
+icon Helmet/Helmet_4
+bounds:241,850,197,141
+offsets:91,128,379,389
+icon Lamp/Lamp_1
+bounds:1890,1313,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_11
+bounds:1890,1501,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_12
+bounds:414,1531,137,186
+offsets:66,62,300,307
+circle swipe/circle swipe_10
+bounds:1673,1082,114,145
+offsets:24,2,150,150
+icon Helmet/Helmet_5
+bounds:241,850,197,141
+offsets:91,128,379,389
+icon bonus/bonus_16
+bounds:472,575,249,234
+offsets:112,130,462,474
+icon gem3/gem3_5
+bounds:866,289,280,281
+offsets:25,28,342,351
+icon gem4/gem4_5
+bounds:871,2,286,285
+offsets:26,27,326,335
+
+icons_3.webp
+size:2042,2019
+filter:Linear,Linear
+icon coinB/coin_0
+bounds:2,2,233,233
+offsets:74,78,379,389
+icon coinB/coin_16
+bounds:237,2,233,233
+offsets:73,78,379,389
+icon coinG/coin_16
+bounds:472,2,233,233
+offsets:73,78,379,389
+icon coinS/coin_0
+bounds:707,2,233,233
+offsets:74,78,379,389
+icon coinS/coin_16
+bounds:942,2,233,233
+offsets:73,78,379,389
+icon coinB/coin_15
+bounds:1177,2,232,233
+offsets:71,78,379,389
+icon coinG/coin_15
+bounds:1411,2,232,233
+offsets:71,78,379,389
+icon coinS/coin_15
+bounds:1645,2,232,233
+offsets:71,78,379,389
+icon coinB/coin_1
+bounds:2,237,231,233
+offsets:77,78,379,389
+icon coinG/coin_1
+bounds:2,472,231,233
+offsets:77,78,379,389
+icon coinS/coin_1
+bounds:2,707,231,233
+offsets:77,78,379,389
+icon gem1/gem1_8
+bounds:2,942,221,232
+offsets:55,39,323,331
+showel
+bounds:2,1176,211,229
+offsets:102,103,406,416
+icon map/map_0
+bounds:2,1407,228,210
+offsets:82,101,385,395
+icon gem1/gem1_13
+bounds:215,1176,219,227
+offsets:48,37,323,331
+icon gem1/gem1_14
+bounds:225,942,219,227
+offsets:48,37,323,331
+icon gem1/gem1_12
+bounds:2,1619,218,227
+offsets:49,37,323,331
+icon gem1/gem1_0
+bounds:222,1619,211,227
+offsets:99,83,420,430
+icon gem1/gem1_7
+bounds:435,1405,219,226
+offsets:48,38,323,331
+icon gem1/gem1_15
+bounds:436,1171,217,226
+offsets:49,38,323,331
+icon gem1/gem1_1
+bounds:435,1633,217,225
+offsets:48,38,323,331
+icon gem1/gem1_11
+bounds:654,1633,217,225
+offsets:48,38,323,331
+icon gem1/gem1_16
+bounds:235,237,217,225
+offsets:48,38,323,331
+icon gem1/gem1_9
+bounds:235,464,224,223
+offsets:49,47,323,331
+icon gem1/gem1_2
+bounds:454,237,217,224
+offsets:48,39,323,331
+icon gem1/gem1_6
+bounds:235,689,217,224
+offsets:48,39,323,331
+icon gem1/gem1_3
+bounds:446,915,217,223
+offsets:48,40,323,331
+icon gem1/gem1_4
+bounds:454,689,215,223
+offsets:49,40,323,331
+icon gem1/gem1_10
+bounds:461,463,220,220
+offsets:47,43,323,331
+showel3
+bounds:232,1405,192,212
+offsets:90,87,364,373
+dynamiteB
+bounds:673,237,178,210
+offsets:74,40,308,315
+showel2
+bounds:655,1140,193,209
+offsets:90,87,364,373
+showel1
+bounds:665,914,191,207
+offsets:90,92,364,373
+helmetB
+bounds:671,685,195,203
+offsets:92,93,379,389
+mapB
+bounds:683,449,175,203
+offsets:63,57,296,304
+icon Helmet/Helmet_10
+bounds:2,1860,196,157
+offsets:96,110,379,389
+icon Helmet/Helmet_7
+bounds:200,1860,196,155
+offsets:92,116,379,389
+icon Helmet/Helmet_12
+bounds:398,1860,196,153
+offsets:92,117,379,389
+icon Helmet/Helmet_13
+bounds:596,1860,196,153
+offsets:92,117,379,389
+icon Helmet/Helmet_14
+bounds:794,1860,196,153
+offsets:92,117,379,389
+icon Helmet/Helmet_15
+bounds:853,237,196,152
+offsets:92,118,379,389
+icon Helmet/Helmet_11
+bounds:656,1351,196,151
+offsets:91,119,379,389
+icon Helmet/Helmet_1
+bounds:850,1123,196,150
+offsets:91,120,379,389
+icon Helmet/Helmet_6
+bounds:858,890,196,148
+offsets:91,121,379,389
+icon Helmet/Helmet_2
+bounds:860,391,196,146
+offsets:91,123,379,389
+icon Helmet/Helmet_3
+bounds:860,539,196,141
+offsets:91,128,379,389
+icon bonus/bonus_9
+bounds:868,682,195,181
+offsets:85,99,356,365
+icon Helmet/Helmet_0
+bounds:1051,237,195,151
+offsets:92,119,379,389
+icon Helmet/Helmet_16
+bounds:1058,390,195,151
+offsets:92,119,379,389
+icon bonus/bonus_11
+bounds:854,1275,192,181
+offsets:87,100,356,365
+icon bonus/bonus_15
+bounds:873,1458,192,181
+offsets:86,100,356,365
+icon bonus/bonus_7
+bounds:873,1641,192,181
+offsets:86,100,356,365
+icon bonus/bonus_12
+bounds:992,1824,190,180
+offsets:87,101,356,365
+icon bonus/bonus_1
+bounds:1048,1040,190,179
+offsets:89,101,356,365
+icon bonus/bonus_10
+bounds:1048,1221,188,188
+offsets:93,100,356,365
+Axe1
+bounds:1067,1411,188,180
+offsets:90,64,312,320
+icon bonus/bonus_8
+bounds:1238,1221,187,180
+offsets:94,102,356,365
+icon bonus/bonus_14
+bounds:1067,1593,187,179
+offsets:88,101,356,365
+icon Helmet/Helmet_8
+bounds:1056,865,187,153
+offsets:95,119,379,389
+icon bonus/bonus_6
+bounds:1240,1020,186,178
+offsets:92,102,356,365
+icon Lamp/Lamp_14
+bounds:1879,2,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_15
+bounds:1879,190,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_16
+bounds:1184,1774,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_7
+bounds:1065,543,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_2
+bounds:1204,543,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_3
+bounds:1245,731,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_4
+bounds:1255,237,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_6
+bounds:1343,425,137,186
+offsets:66,62,300,307
+icon Lamp/Lamp_13
+bounds:1394,237,136,186
+offsets:67,62,300,307
+icon bonus/bonus_13
+bounds:1256,1593,185,178
+offsets:89,102,356,365
+icon Lamp/Lamp_10
+bounds:1257,1403,140,185
+offsets:65,62,300,307
+Axe2
+bounds:1399,1403,129,185
+offsets:95,61,312,320
+Axe3
+bounds:1427,1200,164,184
+offsets:92,61,312,320
+Sparcle 1000x/Sparcle_23
+bounds:1323,1773,154,184
+offsets:24,11,206,206
+Sparcle 1000x/Sparcle_24
+bounds:1593,237,152,184
+offsets:25,11,206,206
+Sparcle 1000x/Sparcle_25
+bounds:1747,378,151,184
+offsets:26,11,206,206
+icon bonus/bonus_2
+bounds:1443,1590,183,176
+offsets:94,103,356,365
+Sparcle 1000x/Sparcle_26
+bounds:1593,423,150,183
+offsets:27,11,206,206
+icon map/map_7
+bounds:1530,1386,182,161
+offsets:59,78,296,304
+icon Lamp/Lamp_8
+bounds:1900,378,140,182
+offsets:67,63,300,307
+icon map/map_12
+bounds:1479,1768,181,160
+offsets:60,79,296,304
+icon map/map_13
+bounds:1628,1549,181,159
+offsets:60,80,296,304
+icon map/map_14
+bounds:1811,564,181,159
+offsets:60,80,296,304
+Sparcle 1000x/Sparcle_27
+bounds:1593,608,149,181
+offsets:28,12,206,206
+icon Lamp/Lamp_9
+bounds:1428,613,145,180
+offsets:66,64,300,307
+icon map/map_15
+bounds:1811,725,179,161
+offsets:61,78,296,304
+Sparcle 1000x/Sparcle_43
+bounds:1384,795,157,179
+offsets:24,13,206,206
+dynamit1
+bounds:1593,791,178,169
+offsets:74,61,308,315
+Sparcle 1000x/Sparcle_22
+bounds:1428,976,157,178
+offsets:23,14,206,206
+Sparcle 1000x/Sparcle_44
+bounds:1587,962,155,178
+offsets:25,13,206,206
+Sparcle 1000x/Sparcle_28
+bounds:1593,1142,149,178
+offsets:28,14,206,206
+Sparcle 1000x/Sparcle_33
+bounds:1714,1322,157,177
+offsets:23,14,206,206
+dynamit2
+bounds:1873,888,166,176
+offsets:74,72,308,315
+Sparcle 1000x/Sparcle_42
+bounds:1873,1066,156,176
+offsets:24,14,206,206
+Sparcle 1000x/Sparcle_32
+bounds:1873,1244,155,176
+offsets:25,14,206,206
+icon map/map_11
+bounds:1811,1501,175,163
+offsets:63,77,296,304
+icon map/map_16
+bounds:1811,1666,175,161
+offsets:63,78,296,304
+icon map/map_9
+bounds:1662,1829,175,156
+offsets:54,84,296,304
+Sparcle 1000x/Sparcle_29
+bounds:1839,1829,149,175
+offsets:28,15,206,206
+bonusIcon
+bounds:656,1504,152,123
+offsets:65,32,282,187
+bonusIcon2
+bounds:1065,731,152,123
+offsets:65,32,282,187
+circle swipe/circle swipe_11
+bounds:1744,962,114,145
+offsets:30,1,150,150
+circle swipe/circle swipe_9
+bounds:1744,1109,116,144
+offsets:17,3,150,150
+circle swipe/circle swipe_8
+bounds:1482,425,105,143
+offsets:13,3,150,150
+icon Lamp/Lamp_5
+bounds:1255,237,137,186
+offsets:66,62,300,307
+icon gem1/gem1_5
+bounds:454,689,215,223
+offsets:49,40,323,331
+
+icons_4.webp
+size:1138,1185
+filter:Linear,Linear
+icon map/map_1
+bounds:2,2,174,163
+offsets:64,77,296,304
+Sparcle 1000x/Sparcle_31
+bounds:2,167,155,174
+offsets:25,15,206,206
+Sparcle 1000x/Sparcle_41
+bounds:2,343,155,172
+offsets:25,16,206,206
+icon map/map_8
+bounds:2,517,172,149
+offsets:66,84,296,304
+Sparcle 1000x/Sparcle_30
+bounds:159,167,149,172
+offsets:28,17,206,206
+icon bonus/bonus_3
+bounds:159,341,169,171
+offsets:103,107,356,365
+Sparcle 1000x/Sparcle_35
+bounds:310,2,159,171
+offsets:22,17,206,206
+Sparcle 1000x/Sparcle_36
+bounds:2,668,159,171
+offsets:22,17,206,206
+Sparcle 1000x/Sparcle_34
+bounds:2,841,158,171
+offsets:22,17,206,206
+icon map/map_6
+bounds:310,175,170,163
+offsets:66,77,296,304
+Sparcle 1000x/Sparcle_45
+bounds:471,2,154,170
+offsets:25,17,206,206
+Sparcle 1000x/Sparcle_21
+bounds:2,1014,159,169
+offsets:22,18,206,206
+Sparcle 1000x/Sparcle_37
+bounds:162,841,158,169
+offsets:22,18,206,206
+icon bonus/bonus_4
+bounds:163,668,163,168
+offsets:106,109,356,365
+icon map/map_2
+bounds:163,1012,168,163
+offsets:67,77,296,304
+dynamit3
+bounds:322,838,167,159
+offsets:75,71,308,315
+Sparcle 1000x/Sparcle_38
+bounds:333,999,157,166
+offsets:23,19,206,206
+Sparcle 1000x/Sparcle_40
+bounds:328,514,155,166
+offsets:25,19,206,206
+Sparcle 1000x/Sparcle_11
+bounds:330,340,163,159
+offsets:20,23,206,206
+Sparcle 1000x/Sparcle_10
+bounds:482,174,163,159
+offsets:20,23,206,206
+Sparcle 1000x/Sparcle_39
+bounds:627,2,156,163
+offsets:24,21,206,206
+icon map/map_3
+bounds:485,501,159,162
+offsets:72,78,296,304
+Sparcle 1000x/Sparcle_9
+bounds:495,335,162,159
+offsets:20,23,206,206
+Sparcle 1000x/Sparcle_12
+bounds:647,167,162,157
+offsets:20,24,206,206
+icon map/map_4
+bounds:785,2,156,162
+offsets:73,78,296,304
+Sparcle 1000x/Sparcle_13
+bounds:485,665,162,155
+offsets:20,25,206,206
+Sparcle 1000x/Sparcle_16
+bounds:646,496,161,159
+offsets:21,23,206,206
+Sparcle 1000x/Sparcle_17
+bounds:659,326,161,159
+offsets:21,23,206,206
+Sparcle 1000x/Sparcle_18
+bounds:491,822,161,159
+offsets:21,23,206,206
+Sparcle 1000x/Sparcle_19
+bounds:649,657,161,159
+offsets:21,23,206,206
+Sparcle 1000x/Sparcle_15
+bounds:811,166,161,158
+offsets:21,24,206,206
+Sparcle 1000x/Sparcle_8
+bounds:943,2,161,157
+offsets:21,24,206,206
+Sparcle 1000x/Sparcle_20
+bounds:809,487,160,159
+offsets:21,23,206,206
+Sparcle 1000x/Sparcle_14
+bounds:822,326,160,157
+offsets:21,24,206,206
+Sparcle 1000x/Sparcle_7
+bounds:974,161,157,155
+offsets:23,25,206,206
+icon map/map_10
+bounds:492,983,154,155
+offsets:79,84,296,304
+Sparcle 1000x/Sparcle_6
+bounds:328,682,153,151
+offsets:25,27,206,206
+bonusIcon2B
+bounds:984,318,152,144
+offsets:65,22,282,187
+bonusIconB
+bounds:984,464,152,144
+offsets:65,22,282,187
+Sparcle 1000x/Sparcle_5
+bounds:176,514,150,147
+offsets:27,29,206,206
+Sparcle 1000x/Sparcle_4
+bounds:648,983,149,145
+offsets:28,30,206,206
+Sparcle 1000x/Sparcle_0
+bounds:654,818,149,140
+offsets:28,32,206,206
+Sparcle 1000x/Sparcle_1
+bounds:971,610,149,140
+offsets:28,32,206,206
+Sparcle 1000x/Sparcle_2
+bounds:812,648,149,140
+offsets:28,32,206,206
+Sparcle 1000x/Sparcle_3
+bounds:963,752,149,140
+offsets:28,32,206,206
+Sparcle 1000x/Sparcle_46
+bounds:812,790,149,140
+offsets:28,32,206,206
+Sparcle 1000x/Sparcle_47
+bounds:963,894,149,140
+offsets:28,32,206,206
+circle swipe/circle swipe_12
+bounds:799,1036,102,140
+offsets:43,3,150,150
+icon bonus/bonus_5
+bounds:163,668,163,168
+offsets:106,109,356,365
+icon map/map_5
+bounds:785,2,156,162
+offsets:73,78,296,304
+Sparcle 1000x/Sparcle_48
+bounds:654,818,149,140
+offsets:28,32,206,206
+

@@ -1,0 +1,565 @@
+boardfx.webp
+size:2048,2048
+filter:Linear,Linear
+board Particles/board Particles_26
+bounds:2,2,1179,597
+offsets:356,335,1920,1080
+board Particles/board Particles_25
+bounds:2,601,1158,627
+offsets:368,317,1920,1080
+board Particles/board Particles_24
+bounds:2,1230,1139,631
+offsets:379,309,1920,1080
+bonus active light
+bounds:2,1863,987,159
+offsets:1,0,988,180
+win/Rectangle
+bounds:1143,1230,900,12
+offsets:4,0,909,12
+board Particles/board Particles_8
+bounds:1143,1244,894,593
+offsets:526,253,1920,1080
+board Particles/board Particles_7
+bounds:1162,601,881,585
+offsets:531,253,1920,1080
+board Particles/board Particles_5
+bounds:1183,2,856,570
+offsets:541,256,1920,1080
+win/Win
+bounds:991,1863,753,157
+offsets:25,7,836,164
+Board_shine/Board_shine_17
+bounds:1746,1839,108,207
+offsets:478,196,636,428
+pc/pc_36
+bounds:1856,1839,18,191
+offsets:96,7,200,205
+pc/pc_27
+bounds:1876,1839,168,179
+offsets:13,13,200,205
+Board_shine/Board_shine_21
+bounds:1143,1839,20,17
+offsets:545,363,636,428
+Board_shine/Board_shine_22
+bounds:1165,1839,10,16
+offsets:553,363,636,428
+Board_shine/Board_shine_23
+bounds:2039,1244,6,15
+offsets:557,364,636,428
+Board_shine/Board_shine_24
+bounds:1856,2032,4,14
+offsets:558,365,636,428
+blank 1
+bounds:2045,2,1,1
+board Particles/board Particles_0
+bounds:2045,2,1,1
+
+boardfx_2.webp
+size:2045,2044
+filter:Linear,Linear
+board Particles/board Particles_23
+bounds:2,2,1120,640
+offsets:390,302,1920,1080
+board Particles/board Particles_28
+bounds:2,644,1107,567
+offsets:393,367,1920,1080
+board Particles/board Particles_22
+bounds:2,1213,1101,648
+offsets:401,296,1920,1080
+board Particles/board Particles_11
+bounds:1111,644,932,614
+offsets:509,264,1920,1080
+board Particles/board Particles_10
+bounds:1124,2,917,607
+offsets:517,259,1920,1080
+Board_R
+bounds:1105,1260,913,624
+Jackpot lines export/Jackpot lines export_0
+bounds:2,1886,203,98
+offsets:34,232,960,540
+pc/pc_24
+bounds:207,1863,178,179
+offsets:11,13,200,205
+pc/pc_25
+bounds:387,1863,177,179
+offsets:11,13,200,205
+pc/pc_23
+bounds:566,1863,176,179
+offsets:13,13,200,205
+pc/pc_26
+bounds:744,1863,174,179
+offsets:11,13,200,205
+pc/pc_22
+bounds:920,1863,172,179
+offsets:16,13,200,205
+pc/pc_12
+bounds:2020,1260,21,177
+offsets:82,14,200,205
+Jackpot lines export/Jackpot lines export_38
+bounds:1094,1886,165,125
+offsets:468,257,960,540
+Board_shine/Board_shine_3
+bounds:1261,1886,71,146
+offsets:68,42,636,428
+Board_shine/Board_shine_18
+bounds:1334,1886,84,143
+offsets:500,256,636,428
+Board_shine/Board_shine_2
+bounds:1420,1886,50,101
+offsets:74,49,636,428
+Board_shine/Board_shine_19
+bounds:1472,1886,60,92
+offsets:518,302,636,428
+Board_shine/Board_shine_1
+bounds:1534,1886,37,75
+offsets:79,54,636,428
+Board_shine/Board_shine_0
+bounds:1534,1963,32,67
+offsets:81,55,636,428
+Board_shine/Board_shine_20
+bounds:1420,1989,37,49
+offsets:534,337,636,428
+
+boardfx_3.webp
+size:2042,2048
+filter:Linear,Linear
+board Particles/board Particles_30
+bounds:2,2,1099,518
+offsets:373,388,1920,1080
+board Particles/board Particles_27
+bounds:2,522,1098,587
+offsets:403,355,1920,1080
+board Particles/board Particles_29
+bounds:2,1111,1087,570
+offsets:383,374,1920,1080
+board Particles/board Particles_12
+bounds:1091,1111,949,624
+offsets:499,266,1920,1080
+board Particles/board Particles_9
+bounds:1103,2,906,601
+offsets:521,255,1920,1080
+bonus active line square
+bounds:2,1737,823,216
+offsets:228,227,1279,670
+Jackpot lines export/Jackpot lines export_17
+bounds:1102,605,602,427
+offsets:0,69,960,540
+Board_shine/Board_shine_10
+bounds:1706,605,304,370
+offsets:157,34,636,428
+Board_shine/Board_shine_14
+bounds:827,1683,197,363
+offsets:378,41,636,428
+Jackpot lines export/Jackpot lines export_2
+bounds:1026,1737,321,276
+offsets:0,88,960,540
+Jackpot lines export/Jackpot lines export_35
+bounds:1349,1737,301,277
+offsets:359,161,960,540
+Board_shine/Board_shine_5
+bounds:1652,1737,131,294
+offsets:61,35,636,428
+Board_shine/Board_shine_16
+bounds:1785,1737,136,281
+offsets:450,123,636,428
+Board_shine/Board_shine_4
+bounds:1923,1737,98,211
+offsets:63,37,636,428
+pc/pc_13
+bounds:2012,2,28,177
+offsets:83,14,200,205
+
+boardfx_4.webp
+size:2047,1978
+filter:Linear,Linear
+board Particles/board Particles_21
+bounds:2,2,1084,651
+offsets:411,291,1920,1080
+board Particles/board Particles_20
+bounds:2,655,1065,658
+offsets:422,286,1920,1080
+board Particles/board Particles_19
+bounds:2,1315,1047,661
+offsets:432,283,1920,1080
+board Particles/board Particles_15
+bounds:1051,1315,994,658
+offsets:469,274,1920,1080
+board Particles/board Particles_13
+bounds:1069,655,965,633
+offsets:489,270,1920,1080
+board Particles/board Particles_6
+bounds:1088,2,869,576
+offsets:536,254,1920,1080
+pc/pc_33
+bounds:1959,2,81,179
+offsets:57,13,200,205
+pc/pc_15
+bounds:1959,183,75,179
+offsets:64,13,200,205
+pc/pc_34
+bounds:1959,364,59,179
+offsets:70,13,200,205
+
+boardfx_5.webp
+size:2029,1986
+filter:Linear,Linear
+Board_RG
+bounds:2,2,1043,747
+offsets:48,20,1139,778
+board Particles/board Particles_17
+bounds:2,751,1035,666
+offsets:450,277,1920,1080
+board Particles/board Particles_14
+bounds:1047,2,980,645
+offsets:479,272,1920,1080
+Board_S
+bounds:1047,649,978,658
+Board_B
+bounds:1039,1309,978,647
+offsets:0,6,978,653
+board Particles/board Particles_4
+bounds:2,1419,842,565
+offsets:547,258,1920,1080
+Board_shine/Board_shine_6
+bounds:846,1419,173,357
+offsets:58,35,636,428
+pc/pc_21
+bounds:846,1778,166,179
+offsets:21,13,200,205
+
+boardfx_6.webp
+size:2048,2039
+filter:Linear,Linear
+board Particles/board Particles_18
+bounds:2,2,1030,652
+offsets:441,280,1920,1080
+board Particles/board Particles_16
+bounds:2,656,1015,669
+offsets:459,275,1920,1080
+Board_G
+bounds:1034,2,978,636
+board Particles/board Particles_3
+bounds:2,1327,830,558
+offsets:552,262,1920,1080
+board Particles/board Particles_2
+bounds:834,1327,818,551
+offsets:557,266,1920,1080
+board Particles/board Particles_1
+bounds:1019,656,808,543
+offsets:561,271,1920,1080
+Active reel/Active reel_8
+bounds:1654,1201,392,655
+offsets:61,17,464,693
+Board_shine/Board_shine_15
+bounds:1829,640,164,344
+offsets:417,60,636,428
+Jackpot lines export/Jackpot lines export_37
+bounds:1829,986,200,199
+offsets:450,204,960,540
+pc/pc_28
+bounds:1654,1858,160,179
+offsets:16,13,200,205
+pc/pc_20
+bounds:1816,1858,157,179
+offsets:26,13,200,205
+pc/pc_14
+bounds:1995,640,51,179
+offsets:74,13,200,205
+pc/pc_10
+bounds:1975,1858,67,177
+offsets:55,14,200,205
+
+boardfx_7.webp
+size:2047,2014
+filter:Linear,Linear
+Active reel/Active reel_13
+bounds:2,2,396,655
+offsets:11,17,464,693
+Active reel/Active reel_18
+bounds:2,659,394,655
+offsets:59,17,464,693
+Active reel/Active reel_3
+bounds:2,1316,393,655
+offsets:11,17,464,693
+Active reel/Active reel_16
+bounds:397,1316,441,650
+offsets:12,22,464,693
+Active reel/Active reel_6
+bounds:398,659,441,650
+offsets:12,22,464,693
+Active reel/Active reel_1
+bounds:400,2,397,650
+offsets:11,22,464,693
+Active reel/Active reel_11
+bounds:799,2,396,650
+offsets:11,22,464,693
+Active reel/Active reel_14
+bounds:840,1311,442,648
+offsets:11,18,464,693
+Active reel/Active reel_4
+bounds:841,654,442,648
+offsets:11,18,464,693
+Active reel/Active reel_19
+bounds:1197,2,392,648
+offsets:60,18,464,693
+Active reel/Active reel_9
+bounds:1591,2,392,648
+offsets:60,18,464,693
+Active reel/Active reel_17
+bounds:1284,1304,434,646
+offsets:19,15,464,693
+Active reel/Active reel_7
+bounds:1285,652,434,646
+offsets:19,15,464,693
+Board_shine/Board_shine_11
+bounds:1721,652,304,370
+offsets:220,34,636,428
+Board_shine/Board_shine_9
+bounds:1721,1024,304,370
+offsets:93,34,636,428
+Board_shine/Board_shine_12
+bounds:1720,1396,286,370
+offsets:279,34,636,428
+Jackpot lines export/Jackpot lines export_36
+bounds:1720,1768,293,244
+offsets:363,177,960,540
+pc/pc_38
+bounds:1985,2,60,177
+offsets:81,14,200,205
+pc/pc_11
+bounds:1985,181,44,177
+offsets:68,14,200,205
+pc/pc_37
+bounds:2008,1396,37,177
+offsets:91,14,200,205
+pc/pc_35
+bounds:2008,1575,36,177
+offsets:84,14,200,205
+
+boardfx_8.webp
+size:2037,2040
+filter:Linear,Linear
+Active reel/Active reel_12
+bounds:2,2,397,646
+offsets:11,15,464,693
+Active reel/Active reel_2
+bounds:2,650,392,646
+offsets:11,15,464,693
+Active reel/Active reel_15
+bounds:2,1298,442,643
+offsets:11,15,464,693
+Active reel/Active reel_5
+bounds:396,650,442,643
+offsets:11,15,464,693
+Active reel/Active reel_10
+bounds:401,2,386,643
+offsets:59,15,464,693
+Active reel/Active reel_0
+bounds:789,2,383,643
+offsets:62,15,464,693
+Jackpot lines export/Jackpot lines export_18
+bounds:1174,2,602,426
+offsets:6,70,960,540
+Jackpot lines export/Jackpot lines export_19
+bounds:1174,430,602,425
+offsets:11,71,960,540
+Jackpot lines export/Jackpot lines export_20
+bounds:446,1295,600,422
+offsets:20,74,960,540
+Jackpot lines export/Jackpot lines export_21
+bounds:840,857,598,421
+offsets:25,76,960,540
+Jackpot lines export/Jackpot lines export_16
+bounds:1440,857,595,428
+offsets:0,68,960,540
+Jackpot lines export/Jackpot lines export_22
+bounds:1048,1287,595,418
+offsets:31,79,960,540
+glow circle
+bounds:1645,1287,366,560
+Board_GG
+bounds:1048,1707,482,331
+offsets:5,3,491,337
+Board_shine/Board_shine_13
+bounds:1778,2,243,369
+offsets:332,35,636,428
+Board_shine/Board_shine_7
+bounds:1778,373,230,369
+offsets:49,34,636,428
+Jackpot lines export/Jackpot lines export_3
+bounds:446,1719,361,310
+offsets:0,72,960,540
+pc/pc_29
+bounds:1532,1849,148,179
+offsets:21,13,200,205
+pc/pc_19
+bounds:1682,1849,145,179
+offsets:33,13,200,205
+pc/pc_30
+bounds:1829,1849,136,179
+offsets:27,13,200,205
+pc/pc_18
+bounds:840,647,130,179
+offsets:40,13,200,205
+pc/pc_31
+bounds:972,647,119,179
+offsets:36,13,200,205
+pc/pc_17
+bounds:809,1719,114,179
+offsets:47,13,200,205
+pc/pc_32
+bounds:925,1719,101,179
+offsets:46,13,200,205
+Active reel/Active reel_20
+bounds:789,2,383,643
+offsets:62,15,464,693
+
+boardfx_9.webp
+size:2048,2048
+filter:Linear,Linear
+Jackpot lines export/Jackpot lines export_23
+bounds:2,2,588,414
+offsets:41,84,960,540
+Jackpot lines export/Jackpot lines export_15
+bounds:592,2,586,430
+offsets:0,66,960,540
+Jackpot lines export/Jackpot lines export_24
+bounds:2,418,576,406
+offsets:56,93,960,540
+Jackpot lines export/Jackpot lines export_14
+bounds:1180,2,572,430
+offsets:0,65,960,540
+Jackpot lines export/Jackpot lines export_25
+bounds:2,826,558,391
+offsets:77,110,960,540
+Jackpot lines export/Jackpot lines export_13
+bounds:2,1219,548,429
+offsets:0,64,960,540
+Jackpot lines export/Jackpot lines export_12
+bounds:552,1219,534,428
+offsets:0,62,960,540
+Jackpot lines export/Jackpot lines export_26
+bounds:562,826,532,374
+offsets:106,128,960,540
+Jackpot lines export/Jackpot lines export_11
+bounds:1088,1202,524,422
+offsets:0,61,960,540
+Jackpot lines export/Jackpot lines export_10
+bounds:1088,1626,522,416
+offsets:0,59,960,540
+Jackpot lines export/Jackpot lines export_9
+bounds:1096,434,516,401
+offsets:0,56,960,540
+Jackpot lines export/Jackpot lines export_8
+bounds:2,1650,504,396
+offsets:0,55,960,540
+Jackpot lines export/Jackpot lines export_27
+bounds:580,434,502,373
+offsets:139,130,960,540
+Jackpot lines export/Jackpot lines export_7
+bounds:508,1650,485,389
+offsets:0,54,960,540
+Jackpot lines export/Jackpot lines export_5
+bounds:1614,434,432,356
+offsets:0,56,960,540
+Jackpot lines export/Jackpot lines export_4
+bounds:1096,837,399,336
+offsets:0,61,960,540
+Board_shine/Board_shine_8
+bounds:1754,2,280,370
+offsets:56,34,636,428
+Jackpot lines export/Jackpot lines export_30
+bounds:1497,837,368,358
+offsets:286,135,960,540
+Jackpot lines export/Jackpot lines export_31
+bounds:1612,1626,349,354
+offsets:308,135,960,540
+Jackpot lines export/Jackpot lines export_32
+bounds:1614,1197,335,347
+offsets:325,137,960,540
+pc/pc_16
+bounds:1951,792,95,179
+offsets:56,13,200,205
+pc/pc_8
+bounds:1867,973,106,177
+offsets:33,14,200,205
+pc/pc_9
+bounds:995,1649,87,177
+offsets:44,14,200,205
+pc/pc_39
+bounds:1867,792,81,177
+offsets:72,14,200,205
+
+boardfx_10.webp
+size:1230,1124
+filter:Linear,Linear
+Jackpot lines export/Jackpot lines export_6
+bounds:2,2,460,378
+offsets:0,54,960,540
+Jackpot lines export/Jackpot lines export_28
+bounds:464,2,454,372
+offsets:190,132,960,540
+Jackpot lines export/Jackpot lines export_29
+bounds:464,376,435,369
+offsets:213,133,960,540
+Jackpot lines export/Jackpot lines export_33
+bounds:901,376,317,334
+offsets:345,140,960,540
+Jackpot lines export/Jackpot lines export_34
+bounds:920,2,308,311
+offsets:354,147,960,540
+Jackpot lines export/Jackpot lines export_1
+bounds:901,712,280,231
+offsets:0,115,960,540
+pc/pc_40
+bounds:2,945,100,177
+offsets:63,14,200,205
+pc/pc_45
+bounds:2,747,163,175
+offsets:26,15,200,205
+pc/pc_4
+bounds:104,945,158,175
+offsets:12,15,200,205
+pc/pc_44
+bounds:167,747,156,175
+offsets:32,15,200,205
+pc/pc_5
+bounds:264,945,149,175
+offsets:14,15,200,205
+pc/pc_43
+bounds:325,747,145,175
+offsets:39,15,200,205
+pc/pc_6
+bounds:415,945,137,175
+offsets:19,15,200,205
+pc/pc_42
+bounds:472,747,132,175
+offsets:47,15,200,205
+pc/pc_7
+bounds:554,945,123,175
+offsets:25,15,200,205
+pc/pc_41
+bounds:606,747,117,175
+offsets:55,15,200,205
+pc/pc_0
+bounds:725,747,174,173
+offsets:13,16,200,205
+pc/pc_48
+bounds:725,922,174,173
+offsets:13,16,200,205
+pc/pc_1
+bounds:901,945,173,173
+offsets:12,16,200,205
+pc/pc_47
+bounds:2,382,172,173
+offsets:16,16,200,205
+pc/pc_2
+bounds:2,557,170,173
+offsets:11,16,200,205
+pc/pc_46
+bounds:174,557,168,173
+offsets:21,16,200,205
+pc/pc_3
+bounds:176,382,165,173
+offsets:11,16,200,205
+
