@@ -1,0 +1,204 @@
+symbols.webp
+	size: 1542, 1540
+	filter: Linear, Linear
+	pma: true
+fx/bit
+	bounds: 1517, 402, 24, 24
+fx/dot
+	bounds: 1468, 611, 48, 48
+fx/flare
+	bounds: 1, 623, 256, 256
+fx/px
+	bounds: 1471, 358, 32, 32
+fx/spark
+	bounds: 1053, 1, 64, 16
+fx/streak
+	bounds: 621, 1491, 512, 48
+h1/body
+	bounds: 1, 133, 212, 242
+h1/glow
+	bounds: 1, 377, 236, 244
+h1/rim_lit
+	bounds: 531, 959, 198, 212
+h1/visor_lit
+	bounds: 1435, 34, 59, 51
+h2/body
+	bounds: 1386, 1350, 148, 189
+h2/eyes_lit
+	bounds: 620, 1, 114, 42
+h2/glow
+	bounds: 513, 725, 190, 232
+h2/line0_lit
+	bounds: 1069, 136, 144, 69
+h2/line1_lit
+	bounds: 1301, 904, 148, 71
+h2/line2_lit
+	bounds: 1237, 251, 124, 68
+h3/body
+	bounds: 731, 894, 191, 174
+h3/frame_lit
+	bounds: 620, 45, 124, 111
+h3/glow
+	bounds: 215, 125, 202, 194
+h3/holo
+	bounds: 662, 1195, 66, 66
+h3/keys0_lit
+	bounds: 1380, 49, 53, 61
+h3/keys1_lit
+	bounds: 1468, 661, 54, 83
+h3/keys2_lit
+	bounds: 1315, 141, 51, 79
+h3/screen_lit
+	bounds: 1363, 222, 95, 82
+h4/blast
+	bounds: 1069, 207, 160, 100
+h4/body
+	bounds: 1, 2, 189, 129
+h4/coil_lit
+	bounds: 1327, 36, 51, 74
+h4/disp_lit
+	bounds: 1471, 392, 44, 34
+h4/glow
+	bounds: 1235, 569, 142, 142
+h4/muzzle_lit
+	bounds: 1471, 428, 50, 64
+l1/body
+	bounds: 1110, 723, 158, 161
+l1/core_lit
+	bounds: 1237, 321, 132, 151
+l1/glow
+	bounds: 659, 341, 180, 186
+l2/bar0_lit
+	bounds: 1518, 622, 23, 37
+l2/bar1_lit
+	bounds: 1493, 563, 24, 46
+l2/bar2_lit
+	bounds: 705, 903, 24, 54
+l2/bar3_lit
+	bounds: 259, 833, 22, 46
+l2/bars_dark
+	bounds: 1496, 41, 43, 44
+l2/body
+	bounds: 1067, 583, 166, 138
+l2/glow
+	bounds: 705, 721, 197, 171
+l2/rim_lit
+	bounds: 1068, 443, 164, 138
+l3/body
+	bounds: 1069, 309, 166, 132
+l3/glow
+	bounds: 904, 732, 204, 157
+l3/ring0_lit
+	bounds: 592, 1177, 68, 67
+l3/ring1_lit
+	bounds: 1301, 977, 121, 100
+l3/ring2_lit
+	bounds: 1234, 474, 166, 93
+m_10x/body
+	bounds: 1138, 1337, 246, 202
+m_10x/body_cut
+	bounds: 283, 969, 246, 202
+m_10x/char0
+	bounds: 1270, 713, 69, 171
+m_10x/char1
+	bounds: 953, 1, 98, 171
+m_10x/char2
+	bounds: 341, 6, 84, 117
+m_10x/glow
+	bounds: 621, 1263, 284, 226
+m_10x/halo0
+	bounds: 419, 137, 78, 182
+m_10x/halo1
+	bounds: 620, 158, 111, 179
+m_10x/halo2
+	bounds: 427, 2, 93, 133
+m_10x/shadow0
+	bounds: 867, 540, 77, 179
+m_10x/shadow1
+	bounds: 841, 349, 105, 178
+m_10x/shadow2
+	bounds: 746, 34, 92, 124
+m_2x/body
+	bounds: 920, 1083, 190, 188
+m_2x/body_cut
+	bounds: 1112, 1079, 190, 188
+m_2x/char0
+	bounds: 1341, 736, 104, 166
+m_2x/char1
+	bounds: 1452, 87, 81, 107
+m_2x/glow
+	bounds: 283, 755, 228, 212
+m_2x/halo0
+	bounds: 948, 373, 118, 177
+m_2x/halo1
+	bounds: 1379, 611, 87, 123
+m_2x/shadow0
+	bounds: 847, 174, 112, 173
+m_2x/shadow1
+	bounds: 1236, 25, 89, 114
+m_4x/body
+	bounds: 485, 532, 192, 191
+m_4x/body_cut
+	bounds: 465, 339, 192, 191
+m_4x/char0
+	bounds: 1424, 998, 111, 170
+m_4x/char1
+	bounds: 1460, 196, 81, 108
+m_4x/glow
+	bounds: 907, 1273, 229, 216
+m_4x/halo0
+	bounds: 499, 156, 119, 181
+m_4x/halo1
+	bounds: 1451, 872, 90, 124
+m_4x/shadow0
+	bounds: 946, 552, 119, 178
+m_4x/shadow1
+	bounds: 1145, 19, 89, 115
+m_5x/body
+	bounds: 924, 891, 186, 190
+m_5x/body_cut
+	bounds: 679, 529, 186, 190
+m_5x/char0
+	bounds: 1371, 306, 98, 166
+m_5x/char1
+	bounds: 1231, 141, 82, 108
+m_5x/glow
+	bounds: 259, 541, 224, 212
+m_5x/halo0
+	bounds: 1424, 1170, 111, 178
+m_5x/halo1
+	bounds: 1447, 746, 92, 124
+m_5x/shadow0
+	bounds: 961, 198, 106, 173
+m_5x/shadow1
+	bounds: 1402, 494, 89, 115
+m_7x/body
+	bounds: 731, 1070, 187, 191
+m_7x/body_cut
+	bounds: 1112, 886, 187, 191
+m_7x/char0
+	bounds: 847, 1, 104, 171
+m_7x/char1
+	bounds: 1368, 112, 82, 108
+m_7x/glow
+	bounds: 239, 321, 224, 218
+m_7x/halo0
+	bounds: 1304, 1083, 118, 184
+m_7x/halo1
+	bounds: 522, 30, 96, 124
+m_7x/shadow0
+	bounds: 733, 160, 112, 179
+m_7x/shadow1
+	bounds: 1053, 19, 90, 115
+s/body
+	bounds: 1, 881, 280, 293
+s/body_cut
+	bounds: 339, 1246, 280, 293
+s/glow
+	bounds: 1, 1176, 336, 363
+s/shackle
+	bounds: 192, 2, 147, 121
+s/word
+	bounds: 1138, 1269, 245, 66
+s/word_lit
+	bounds: 339, 1173, 251, 71

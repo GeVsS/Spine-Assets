@@ -1,0 +1,10 @@
+transition_hack.webp
+	size: 1836, 1776
+	filter: Linear, Linear
+	pma: true
+a
+	bounds: 1, 889, 1800, 886
+b
+	bounds: 1, 1, 1800, 886
+fx/px
+	bounds: 1803, 1743, 32, 32

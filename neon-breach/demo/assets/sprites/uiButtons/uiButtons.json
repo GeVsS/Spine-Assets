@@ -1,0 +1,641 @@
+{
+ "frames": {
+  "autoSpin_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 2,
+    "y": 1504,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "bet.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1544,
+    "y": 2,
+    "w": 492,
+    "h": 492
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 16,
+    "w": 492,
+    "h": 492
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "bet_blank.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 2,
+    "y": 516,
+    "w": 492,
+    "h": 492
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 16,
+    "w": 492,
+    "h": 492
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "bet_blank_disabled.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 496,
+    "y": 516,
+    "w": 492,
+    "h": 492
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 16,
+    "w": 492,
+    "h": 492
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "bet_blank_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "bet_blank_pressed.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 496,
+    "y": 1010,
+    "w": 467,
+    "h": 467
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 22,
+    "y": 28,
+    "w": 467,
+    "h": 467
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "bet_disabled.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 990,
+    "y": 516,
+    "w": 492,
+    "h": 492
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 16,
+    "w": 492,
+    "h": 492
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "bet_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 516,
+    "y": 2,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "bet_pressed.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 965,
+    "y": 1010,
+    "w": 467,
+    "h": 467
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 22,
+    "y": 28,
+    "w": 467,
+    "h": 467
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "betAmount_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 260,
+    "y": 1504,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "blank_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 518,
+    "y": 1504,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "buyBonus_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 776,
+    "y": 1504,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "dataBoost_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1034,
+    "y": 1504,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "decrease_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1292,
+    "y": 1504,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "increase_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1550,
+    "y": 1504,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "info_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 2,
+    "y": 1762,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "menu_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 260,
+    "y": 1762,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "menuExit_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 518,
+    "y": 1762,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "payTable_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 776,
+    "y": 1762,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "settings_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1034,
+    "y": 1762,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "soundOff_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1292,
+    "y": 1762,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "soundOn_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1550,
+    "y": 1762,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "stop.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1484,
+    "y": 516,
+    "w": 492,
+    "h": 492
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 16,
+    "w": 492,
+    "h": 492
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "stop_disabled.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 2,
+    "y": 1010,
+    "w": 492,
+    "h": 492
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 16,
+    "w": 492,
+    "h": 492
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "stop_hover.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1030,
+    "y": 2,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "stop_pressed.png": {
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "frame": {
+    "x": 1434,
+    "y": 1010,
+    "w": 467,
+    "h": 467
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 22,
+    "y": 28,
+    "w": 467,
+    "h": 467
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  }
+ },
+ "meta": {
+  "app": "neon-breach/art/tools",
+  "format": "RGBA8888",
+  "scale": "1",
+  "image": "uiButtons.webp",
+  "size": {
+   "w": 2038,
+   "h": 2020
+  },
+  "related_multi_packs": [
+   "uiButtons-1.json"
+  ]
+ }
+}

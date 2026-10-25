@@ -1,0 +1,12 @@
+{
+ "frames": {
+  "win_backdrop.png": {
+   "frame": { "x": 0, "y": 0, "w": 512, "h": 160 },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 160 },
+   "sourceSize": { "w": 512, "h": 160 }
+  }
+ },
+ "meta": { "image": "win_backdrop.webp", "format": "RGBA8888", "size": { "w": 512, "h": 160 }, "scale": "1" }
+}

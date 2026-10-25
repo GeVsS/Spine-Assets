@@ -1,0 +1,46 @@
+mm_bg_feature.webp
+size:2048,1008
+filter:Linear,Linear
+rooftop/bg_bonus_base
+bounds:0,0,2048,1008
+
+mm_bg_feature_fx.webp
+	size: 1838, 981
+	filter: Linear, Linear
+	pma: true
+rooftop/battery_lit
+	bounds: 1306, 113, 60, 97
+rooftop/beacon
+	bounds: 1368, 146, 64, 64
+rooftop/chip_lit
+	bounds: 1674, 468, 142, 245
+rooftop/cube_lit
+	bounds: 1674, 274, 151, 192
+rooftop/cube_small_lit
+	bounds: 1434, 139, 35, 71
+rooftop/fog
+	bounds: 1, 50, 1024, 160
+rooftop/gun_lit
+	bounds: 1539, 38, 119, 235
+rooftop/hacker_lit
+	bounds: 1674, 715, 148, 265
+rooftop/pink_lit
+	bounds: 1368, 56, 33, 88
+rooftop/pink_off
+	bounds: 1471, 120, 35, 90
+rooftop/rain
+	bounds: 1, 212, 1536, 768
+rooftop/robot_lit
+	bounds: 1189, 83, 115, 127
+rooftop/teal_c2_lit
+	bounds: 41, 4, 37, 44
+rooftop/teal_c_lit
+	bounds: 1, 1, 38, 47
+rooftop/teal_c_off
+	bounds: 1189, 23, 41, 58
+rooftop/tenx_lit
+	bounds: 1660, 19, 177, 253
+rooftop/tower_lit
+	bounds: 1539, 275, 133, 705
+rooftop/wisp
+	bounds: 1027, 50, 160, 160

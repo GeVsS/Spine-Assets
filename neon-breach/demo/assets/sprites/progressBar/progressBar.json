@@ -1,0 +1,75 @@
+{
+ "frames": {
+  "progressBar.png": {
+   "frame": {
+    "x": 2,
+    "y": 169,
+    "w": 472,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 16,
+    "w": 472,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 492,
+    "h": 87
+   }
+  },
+  "progressBarBackground.png": {
+   "frame": {
+    "x": 2,
+    "y": 91,
+    "w": 481,
+    "h": 76
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 6,
+    "y": 6,
+    "w": 481,
+    "h": 76
+   },
+   "sourceSize": {
+    "w": 492,
+    "h": 87
+   }
+  },
+  "progressBarFrame.png": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 492,
+    "h": 87
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 492,
+    "h": 87
+   },
+   "sourceSize": {
+    "w": 492,
+    "h": 87
+   }
+  }
+ },
+ "meta": {
+  "app": "https://www.codeandweb.com/texturepacker",
+  "version": "1.0",
+  "image": "progressBar.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 496,
+   "h": 227
+  },
+  "scale": "0.25"
+ }
+}

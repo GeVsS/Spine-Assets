@@ -1,0 +1,58 @@
+loader.webp
+	size: 1811, 582
+	filter: Linear, Linear
+	pma: true
+fx/bit
+	bounds: 1365, 115, 24, 24
+fx/dot
+	bounds: 1331, 141, 48, 48
+fx/flare
+	bounds: 1554, 325, 256, 256
+fx/px
+	bounds: 1331, 107, 32, 32
+fx/spark
+	bounds: 772, 1, 64, 16
+loader/breach0_dark
+	bounds: 1665, 225, 101, 98
+loader/breach0_lit
+	bounds: 483, 10, 151, 147
+loader/breach1_dark
+	bounds: 1665, 123, 98, 100
+loader/breach1_lit
+	bounds: 334, 6, 147, 151
+loader/breach2_dark
+	bounds: 1614, 24, 91, 97
+loader/breach2_lit
+	bounds: 919, 9, 134, 148
+loader/breach3_dark
+	bounds: 1707, 29, 94, 92
+loader/breach3_lit
+	bounds: 1400, 225, 141, 139
+loader/breach4_dark
+	bounds: 1523, 84, 89, 104
+loader/breach4_lit
+	bounds: 636, 2, 134, 155
+loader/breach5_dark
+	bounds: 1331, 13, 98, 92
+loader/breach5_lit
+	bounds: 772, 19, 145, 138
+loader/flat
+	bounds: 1033, 366, 519, 215
+loader/logo
+	bounds: 1, 159, 1030, 422
+loader/neon0_dark
+	bounds: 1400, 107, 121, 116
+loader/neon0_lit
+	bounds: 1215, 191, 183, 173
+loader/neon1_dark
+	bounds: 1055, 62, 104, 102
+loader/neon1_lit
+	bounds: 174, 4, 158, 153
+loader/neon2_dark
+	bounds: 1215, 88, 114, 101
+loader/neon2_lit
+	bounds: 1, 5, 171, 152
+loader/neon3_dark
+	bounds: 1543, 190, 120, 133
+loader/neon3_lit
+	bounds: 1033, 166, 180, 198

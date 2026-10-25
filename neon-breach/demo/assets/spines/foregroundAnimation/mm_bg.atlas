@@ -1,0 +1,38 @@
+mm_bg.webp
+size:2048,1008
+filter:Linear,Linear
+alley/bg_base
+bounds:0,0,2048,1008
+
+mm_bg_fx.webp
+	size: 2009, 963
+	filter: Linear, Linear
+	pma: true
+alley/battery_lit
+	bounds: 198, 29, 91, 163
+alley/battery_off
+	bounds: 98, 24, 98, 168
+alley/beacon
+	bounds: 1751, 432, 64, 64
+alley/chip_lit
+	bounds: 1751, 66, 161, 270
+alley/cube_lit
+	bounds: 291, 30, 93, 162
+alley/cube_off
+	bounds: 1, 19, 95, 173
+alley/fog
+	bounds: 386, 32, 1024, 160
+alley/gun_lit
+	bounds: 1822, 338, 182, 335
+alley/hacker_lit
+	bounds: 1574, 498, 246, 464
+alley/padlock_lit
+	bounds: 1677, 75, 72, 421
+alley/rain
+	bounds: 1, 194, 1536, 768
+alley/robot_lit
+	bounds: 1822, 675, 186, 287
+alley/tower_lit
+	bounds: 1574, 1, 101, 495
+alley/wisp
+	bounds: 1412, 32, 160, 160

@@ -1,0 +1,258 @@
+/* Painted popup kit (style A "emblem console", user's pick 2026-10-18). Images are built by
+   art/tools/build_popup_kit.py (buttons, plate, glass, slider, icons) and build_info_frame.py (the frame = the board
+   frame). No text in any image: every label is live text. Loaded globally from app.html / Storybook's preview-head,
+   so the SDK packages and the game's own screens share one set of classes. URLs are relative to this file.
+   Slice margins (px of the image): frame 90 top/bottom, 120 left/right; keys 74 left/right; plate 72; glass 44;
+   track 36 left/right, 10 top/bottom. */
+
+/* popup body: the board frame, with the board's circuit art behind dark glass inside the neon tube */
+.nb-frame {
+	--nb-bx: 3.6rem;
+	--nb-by: 2.7rem;
+	position: relative;
+	border-style: solid;
+	border-width: var(--nb-by) var(--nb-bx);
+	border-image: url('info_frame.webp') 90 120 stretch;
+	border-image-width: var(--nb-by) var(--nb-bx);
+	background: none;
+	isolation: isolate;
+}
+.nb-frame::before {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	inset: calc(var(--nb-by) * -0.6) calc(var(--nb-bx) * -0.7);
+	background:
+		linear-gradient(rgba(6, 6, 14, 0.8), rgba(6, 6, 14, 0.9)),
+		url('info_panel.webp') center / cover;
+	--c: calc(var(--nb-bx) * 0.6);
+	--d: calc(var(--nb-by) * 0.45);
+	clip-path: polygon(var(--c) 0, calc(100% - var(--c)) 0, 100% var(--d), 100% calc(100% - var(--d)),
+		calc(100% - var(--c)) 100%, var(--c) 100%, 0 calc(100% - var(--d)), 0 var(--d));
+}
+
+/* title plate (3-slice): bolted gunmetal with a magenta-to-cyan neon edge; text stays live */
+.nb-plate {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+	height: 2.9rem;
+	padding: 0 0.3rem;
+	border-style: solid;
+	border-width: 0 2.2rem;
+	border-image: url('kit_plate.webp') 0 72 fill / 0 2.2rem stretch;
+	background: none;
+	box-shadow: none;
+	white-space: nowrap;
+	color: #e6fdff;
+	text-shadow: 0 0 6px rgba(25, 240, 255, 0.9), 0 2px 0 rgba(0, 0, 0, 0.8);
+	letter-spacing: 0.06em;
+}
+
+/* recessed dark glass (9-slice) for info boxes, read-outs and message screens */
+.nb-glass {
+	box-sizing: border-box;
+	border-style: solid;
+	border-width: 0.85rem;
+	border-image: url('kit_glass.webp') 44 fill / 0.85rem stretch;
+	background: none;
+	box-shadow: none;
+}
+
+/* keys (3-slice): magenta = the main action, gunmetal = secondary, cyan = selected / on */
+.nb-key {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.4em;
+	box-sizing: border-box;
+	min-height: 2.6em;
+	padding: 0.25em 0.3em;
+	border-style: solid;
+	border-width: 0 1.6em;
+	--nb-src: url('kit_btn_gunmetal.webp');
+	border-image: var(--nb-src) 0 74 fill / 0 1.6em stretch;
+	/* the same picture stretched underneath: where the stretched middle meets the caps, browsers leave a hairline at
+	   fractional pixels that showed as a thin dark line; now the key's own colour shows there */
+	background: var(--nb-src) 0 0 / 100% 100% no-repeat border-box;
+	box-shadow: none;
+	border-radius: 0;
+	font: inherit;
+	color: #fff;
+	letter-spacing: 0.05em;
+	text-shadow: 0 2px 0 rgba(0, 0, 0, 0.85);
+	cursor: pointer;
+	user-select: none;
+	-webkit-tap-highlight-color: transparent;
+}
+.nb-key:hover:not(:disabled) { filter: brightness(1.12); }
+.nb-key:active:not(:disabled) { --nb-src: url('kit_btn_gunmetal_pressed.webp'); transform: translateY(1px); }
+.nb-key:disabled { --nb-src: url('kit_btn_gunmetal_disabled.webp'); color: #9a9aa2; cursor: not-allowed; }
+.nb-key:focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
+.nb-key--magenta { --nb-src: url('kit_btn_magenta.webp'); text-shadow: 0 2px 0 rgba(70, 0, 55, 0.9); }
+.nb-key--magenta:active:not(:disabled) { --nb-src: url('kit_btn_magenta_pressed.webp'); }
+.nb-key--magenta:disabled { --nb-src: url('kit_btn_magenta_disabled.webp'); }
+.nb-key--cyan { --nb-src: url('kit_btn_cyan.webp'); color: #032a30; text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5); }
+.nb-key--cyan:active:not(:disabled) { --nb-src: url('kit_btn_cyan_pressed.webp'); }
+.nb-key--cyan:disabled { --nb-src: url('kit_btn_cyan_disabled.webp'); }
+
+/* square and round keys (fixed aspect) hold an .nb-icon */
+.nb-sq,
+.nb-round {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+	width: 3.2rem;
+	height: 3.2rem;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	background: url('kit_key_square.webp') center / 100% 100% no-repeat;
+	box-shadow: none;
+	cursor: pointer;
+	-webkit-tap-highlight-color: transparent;
+}
+.nb-sq:hover:not(:disabled),
+.nb-round:hover:not(:disabled) { filter: brightness(1.12); }
+.nb-sq:active:not(:disabled) { background-image: url('kit_key_square_pressed.webp'); }
+.nb-sq:disabled { background-image: url('kit_key_square_disabled.webp'); cursor: not-allowed; }
+.nb-round { border-radius: 50%; background-image: url('kit_key_round.webp'); }
+.nb-round:active:not(:disabled) { background-image: url('kit_key_round_pressed.webp'); }
+.nb-round:disabled { background-image: url('kit_key_round_disabled.webp'); cursor: not-allowed; }
+.nb-sq:focus-visible,
+.nb-round:focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
+.nb-sq:disabled .nb-icon,
+.nb-round:disabled .nb-icon { opacity: 0.35; filter: grayscale(1); }
+
+/* painted neon icons: one 3x3 sheet (speaker, mute, plus / minus, close, left / right, play, replay) */
+.nb-icon {
+	display: inline-block;
+	width: 1.6rem;
+	height: 1.6rem;
+	flex: 0 0 auto;
+	background: url('kit_icons.webp') 0 0 / 300% 300% no-repeat;
+	pointer-events: none;
+}
+.nb-icon--speaker { background-position: 0 0; }
+.nb-icon--mute { background-position: 50% 0; }
+.nb-icon--plus { background-position: 100% 0; }
+.nb-icon--minus { background-position: 0 50%; }
+.nb-icon--close { background-position: 50% 50%; }
+.nb-icon--left { background-position: 100% 50%; }
+.nb-icon--right { background-position: 0 100%; }
+.nb-icon--play { background-position: 50% 100%; }
+.nb-icon--replay { background-position: 100% 100%; }
+
+/* slider: painted rail ends and edges, the value glows inside the groove, painted knob */
+input[type='range'].nb-slider {
+	-webkit-appearance: none;
+	appearance: none;
+	box-sizing: border-box;
+	height: 1.1rem;
+	margin: 0;
+	border-style: solid;
+	/* the ends are only the 12 px metal bezel, so the value fills the groove end to end (a 36 px end left a dark
+	   gap at both ends, user 2026-10-21) */
+	border-width: 0.3rem 0.37rem;
+	border-image: url('kit_track.webp') 10 12 / 0.3rem 0.37rem stretch;
+	background:
+		linear-gradient(90deg, #ff2bd6, #19f0ff) 0 0 / var(--v, 50%) 100% no-repeat,
+		#05080c;
+	background-clip: padding-box;
+	box-shadow: none;
+	border-radius: 0;
+	cursor: pointer;
+}
+input[type='range'].nb-slider::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	width: 2.3rem;
+	height: 2.3rem;
+	border: 0;
+	border-radius: 50%;
+	background: url('kit_knob.webp') center / contain no-repeat;
+	box-shadow: none;
+}
+input[type='range'].nb-slider::-moz-range-thumb {
+	width: 2.3rem;
+	height: 2.3rem;
+	border: 0;
+	border-radius: 50%;
+	background: url('kit_knob.webp') center / contain no-repeat;
+	box-shadow: none;
+}
+input[type='range'].nb-slider:focus-visible { outline: 2px solid #fff; outline-offset: 6px; }
+
+/* key backgrounds that sit inside an SDK <button> (BaseIcon): the button's state picks the painted state.
+   .nb-pill stretches (3-slice, --cap = 0.62 x its height); .nb-sqkey is the square key. */
+.nb-pill {
+	box-sizing: border-box;
+	border-style: solid;
+	border-width: 0 var(--cap, 1.3rem);
+	--nb-src: url('kit_btn_gunmetal.webp');
+	border-image: var(--nb-src) 0 74 fill / 0 var(--cap, 1.3rem) stretch;
+	background: var(--nb-src) 0 0 / 100% 100% no-repeat border-box; /* hides the seams, as on .nb-key */
+	box-shadow: none;
+	border-radius: 0;
+}
+.nb-pill--magenta { --nb-src: url('kit_btn_magenta.webp'); }
+.nb-pill--cyan { --nb-src: url('kit_btn_cyan.webp'); }
+button:active:not(:disabled) .nb-pill { --nb-src: url('kit_btn_gunmetal_pressed.webp'); }
+button:active:not(:disabled) .nb-pill--magenta { --nb-src: url('kit_btn_magenta_pressed.webp'); }
+button:active:not(:disabled) .nb-pill--cyan { --nb-src: url('kit_btn_cyan_pressed.webp'); }
+button:disabled .nb-pill { --nb-src: url('kit_btn_gunmetal_disabled.webp'); }
+button:disabled .nb-pill--magenta { --nb-src: url('kit_btn_magenta_disabled.webp'); }
+button:disabled .nb-pill--cyan { --nb-src: url('kit_btn_cyan_disabled.webp'); }
+.nb-sqkey {
+	box-sizing: border-box;
+	border: 0;
+	border-radius: 0;
+	background: url('kit_key_square.webp') center / 100% 100% no-repeat;
+	box-shadow: none;
+}
+button:active:not(:disabled) .nb-sqkey { background-image: url('kit_key_square_pressed.webp'); }
+button:disabled .nb-sqkey { background-image: url('kit_key_square_disabled.webp'); }
+button:disabled .nb-sqkey + * .nb-icon { opacity: 0.35; filter: grayscale(1); }
+
+/* ---- new modes (2026-10-20, art/16-new-modes/DELIVERY.md) ---- */
+/* buy-board cards: a small board frame (9-slice: 66 top/bottom, 88 left/right) around the board's circuit art behind
+   dark glass. Pink/cyan = BREACH BONUS, --gold = SUPER BREACH (the free-spins gold frame). */
+.nb-card {
+	--nb-cx: 2.4rem;
+	--nb-cy: 1.8rem;
+	position: relative;
+	box-sizing: border-box;
+	border-style: solid;
+	border-width: var(--nb-cy) var(--nb-cx);
+	border-image: url('card_frame_cyan.webp') 66 88 stretch;
+	border-image-width: var(--nb-cy) var(--nb-cx);
+	background: none;
+	isolation: isolate;
+}
+.nb-card::before {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	inset: calc(var(--nb-cy) * -0.55) calc(var(--nb-cx) * -0.6);
+	background:
+		linear-gradient(rgba(6, 6, 14, 0.74), rgba(6, 6, 14, 0.88)),
+		url('info_panel.webp') center / cover;
+	--c: calc(var(--nb-cx) * 0.55);
+	--d: calc(var(--nb-cy) * 0.45);
+	clip-path: polygon(var(--c) 0, calc(100% - var(--c)) 0, 100% var(--d), 100% calc(100% - var(--d)),
+		calc(100% - var(--c)) 100%, var(--c) 100%, 0 calc(100% - var(--d)), 0 var(--d));
+}
+.nb-card--gold { border-image-source: url('card_frame_gold.webp'); }
+.nb-card--gold::before {
+	background:
+		linear-gradient(rgba(20, 12, 4, 0.72), rgba(10, 6, 2, 0.88)),
+		url('info_panel.webp') center / cover;
+}
+/* a card the player can't buy right now (balance or max bet; the reason is live text): powered down */
+.nb-card--off { filter: grayscale(0.9) brightness(0.6); }
+
+/* gold key for the premium buy (the magenta key turned gold) */
+.nb-key--gold { --nb-src: url('kit_btn_gold.webp'); color: #2a1600; text-shadow: 0 1px 0 rgba(255, 240, 200, 0.6); }
+.nb-key--gold:active:not(:disabled) { --nb-src: url('kit_btn_gold_pressed.webp'); }
+.nb-key--gold:disabled { --nb-src: url('kit_btn_gold_disabled.webp'); color: #9a9aa2; text-shadow: 0 2px 0 rgba(0, 0, 0, 0.85); }

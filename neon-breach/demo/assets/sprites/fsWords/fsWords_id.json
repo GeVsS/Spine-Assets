@@ -1,0 +1,134 @@
+{
+ "frames": {
+  "fsIntro/access.png": {
+   "frame": {
+    "x": 0,
+    "y": 558,
+    "w": 515,
+    "h": 142
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 515,
+    "h": 142
+   },
+   "sourceSize": {
+    "w": 515,
+    "h": 142
+   }
+  },
+  "fsIntro/granted.png": {
+   "frame": {
+    "x": 0,
+    "y": 414,
+    "w": 590,
+    "h": 142
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 590,
+    "h": 142
+   },
+   "sourceSize": {
+    "w": 590,
+    "h": 142
+   }
+  },
+  "fsIntro/free_spins.png": {
+   "frame": {
+    "x": 0,
+    "y": 702,
+    "w": 592,
+    "h": 137
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 592,
+    "h": 137
+   },
+   "sourceSize": {
+    "w": 592,
+    "h": 137
+   }
+  },
+  "fsOutro/heist.png": {
+   "frame": {
+    "x": 0,
+    "y": 207,
+    "w": 531,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 531,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 531,
+    "h": 205
+   }
+  },
+  "fsOutro/complete.png": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 916,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 916,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 916,
+    "h": 205
+   }
+  },
+  "fsOutro/total_win.png": {
+   "frame": {
+    "x": 594,
+    "y": 702,
+    "w": 203,
+    "h": 42
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 42
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 42
+   }
+  }
+ },
+ "meta": {
+  "app": "art/20-languages/build_fs_words.py",
+  "image": "fsWords_id.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1024,
+   "h": 839
+  },
+  "scale": "1"
+ }
+}

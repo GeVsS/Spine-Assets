@@ -1,0 +1,362 @@
+fx.webp
+	size: 2033, 1809
+	filter: Linear, Linear
+	pma: true
+anticipation/curtain
+	bounds: 545, 826, 182, 982
+anticipation/rain0
+	bounds: 1524, 711, 36, 760
+anticipation/rain1
+	bounds: 1562, 790, 36, 760
+anticipation/rain2
+	bounds: 1600, 790, 36, 760
+anticipation/rain3
+	bounds: 1638, 790, 36, 760
+anticipation/rain4
+	bounds: 1676, 790, 36, 760
+anticipation/rain5
+	bounds: 1714, 790, 36, 760
+anticipation/rain6
+	bounds: 1752, 790, 36, 760
+anticipation/rain7
+	bounds: 1790, 791, 36, 759
+anticipation/scan
+	bounds: 1289, 146, 180, 35
+anticipation/shard0
+	bounds: 1917, 482, 41, 62
+anticipation/shard1
+	bounds: 1729, 507, 58, 62
+anticipation/shard2
+	bounds: 1960, 482, 37, 62
+anticipation/shard3
+	bounds: 1917, 418, 41, 62
+anticipation/shard4
+	bounds: 1634, 507, 93, 62
+anticipation/streak
+	bounds: 1828, 1020, 7, 257
+anticipation/tube
+	bounds: 1, 738, 270, 1070
+anticipation/tube_hot
+	bounds: 273, 738, 270, 1070
+buyBonus/button_default
+	bounds: 1559, 1552, 256, 256
+buyBonus/button_disabled
+	bounds: 515, 170, 256, 256
+buyBonus/button_hover
+	bounds: 773, 170, 256, 256
+buyBonus/button_pressed
+	bounds: 1075, 388, 256, 256
+buyBonus/chase0
+	bounds: 1733, 406, 56, 99
+buyBonus/chase1
+	bounds: 1828, 797, 77, 88
+buyBonus/chase10
+	bounds: 1643, 438, 88, 67
+buyBonus/chase11
+	bounds: 1957, 1058, 75, 88
+buyBonus/chase2
+	bounds: 1543, 495, 89, 74
+buyBonus/chase3
+	bounds: 1543, 442, 98, 51
+buyBonus/chase4
+	bounds: 1333, 573, 82, 64
+buyBonus/chase5
+	bounds: 1954, 893, 70, 87
+buyBonus/chase6
+	bounds: 975, 69, 48, 99
+buyBonus/chase7
+	bounds: 1907, 800, 70, 85
+buyBonus/chase8
+	bounds: 1348, 639, 86, 62
+buyBonus/chase9
+	bounds: 1383, 391, 97, 45
+buyBonus/flash
+	bounds: 1817, 1599, 207, 209
+buyBonus/icon_lit
+	bounds: 1828, 1279, 170, 154
+buyBonus/ring_lit
+	bounds: 1289, 183, 209, 203
+fx/bit
+	bounds: 535, 450, 24, 24
+fx/dot
+	bounds: 1333, 388, 48, 48
+fx/flare
+	bounds: 1031, 130, 256, 256
+fx/px
+	bounds: 2000, 1401, 32, 32
+fx/spark
+	bounds: 1138, 1, 64, 16
+multiTotal/bracket
+	bounds: 1837, 1148, 130, 129
+multiTotal/scan
+	bounds: 561, 646, 750, 40
+multiplier/plate
+	bounds: 1, 258, 512, 216
+multiplier/plate_glow
+	bounds: 1, 476, 558, 260
+multiplier/run0
+	bounds: 1828, 1435, 200, 162
+multiplier/run1
+	bounds: 515, 60, 225, 108
+multiplier/run10
+	bounds: 1781, 626, 30, 162
+multiplier/run11
+	bounds: 1837, 1037, 118, 109
+multiplier/run12
+	bounds: 189, 8, 178, 30
+multiplier/run13
+	bounds: 1837, 1020, 115, 15
+multiplier/run14
+	bounds: 515, 43, 80, 15
+multiplier/run15
+	bounds: 824, 48, 72, 25
+multiplier/run16
+	bounds: 742, 46, 80, 27
+multiplier/run17
+	bounds: 369, 11, 121, 27
+multiplier/run18
+	bounds: 1, 3, 186, 35
+multiplier/run19
+	bounds: 1348, 703, 136, 109
+multiplier/run2
+	bounds: 742, 75, 231, 93
+multiplier/run3
+	bounds: 1025, 37, 126, 91
+multiplier/run4
+	bounds: 1710, 319, 71, 85
+multiplier/run5
+	bounds: 1869, 116, 45, 77
+multiplier/run6
+	bounds: 1869, 38, 48, 76
+multiplier/run7
+	bounds: 515, 430, 18, 44
+multiplier/run8
+	bounds: 1855, 624, 83, 38
+multiplier/run9
+	bounds: 1153, 19, 92, 109
+multiplier/tubes_dark
+	bounds: 1, 40, 512, 216
+multiplier/tubes_lit
+	bounds: 561, 428, 512, 216
+tumbleWin/plate
+	bounds: 729, 1207, 793, 131
+tumbleWin/plate_glow
+	bounds: 729, 1641, 828, 167
+tumbleWin/run0
+	bounds: 1285, 8, 36, 120
+tumbleWin/run1
+	bounds: 1500, 141, 40, 130
+tumbleWin/run10
+	bounds: 1626, 173, 40, 130
+tumbleWin/run11
+	bounds: 1969, 1148, 40, 129
+tumbleWin/run12
+	bounds: 1491, 11, 40, 128
+tumbleWin/run13
+	bounds: 1542, 176, 40, 131
+tumbleWin/run14
+	bounds: 1584, 176, 40, 131
+tumbleWin/run15
+	bounds: 1668, 172, 40, 131
+tumbleWin/run16
+	bounds: 1710, 186, 40, 131
+tumbleWin/run17
+	bounds: 1752, 186, 40, 131
+tumbleWin/run18
+	bounds: 1533, 8, 40, 131
+tumbleWin/run19
+	bounds: 1575, 43, 40, 131
+tumbleWin/run2
+	bounds: 1617, 41, 40, 130
+tumbleWin/run20
+	bounds: 1659, 39, 40, 131
+tumbleWin/run21
+	bounds: 1701, 39, 40, 131
+tumbleWin/run22
+	bounds: 1743, 53, 40, 131
+tumbleWin/run23
+	bounds: 1524, 585, 36, 124
+tumbleWin/run3
+	bounds: 1785, 54, 40, 130
+tumbleWin/run4
+	bounds: 1436, 571, 40, 130
+tumbleWin/run5
+	bounds: 1794, 188, 40, 130
+tumbleWin/run6
+	bounds: 1827, 56, 40, 130
+tumbleWin/run7
+	bounds: 1791, 406, 40, 130
+tumbleWin/run8
+	bounds: 1833, 406, 40, 130
+tumbleWin/run9
+	bounds: 1875, 415, 40, 130
+tumbleWin/tubes_dark
+	bounds: 561, 688, 785, 124
+tumbleWin/tubes_lit
+	bounds: 729, 814, 789, 127
+tumbleWinFs/ledbl0
+	bounds: 1031, 394, 26, 32
+tumbleWinFs/ledbl1
+	bounds: 898, 39, 57, 34
+tumbleWinFs/ledbl2
+	bounds: 1743, 28, 45, 23
+tumbleWinFs/ledbl3
+	bounds: 1960, 406, 45, 23
+tumbleWinFs/ledbl4
+	bounds: 1849, 13, 45, 23
+tumbleWinFs/ledbl5
+	bounds: 1896, 13, 45, 23
+tumbleWinFs/ledbl6
+	bounds: 1895, 330, 45, 23
+tumbleWinFs/ledbl7
+	bounds: 1942, 381, 45, 23
+tumbleWinFs/ledbl8
+	bounds: 1942, 356, 45, 23
+tumbleWinFs/ledbl9
+	bounds: 1931, 546, 56, 43
+tumbleWinFs/ledbr0
+	bounds: 1471, 149, 23, 32
+tumbleWinFs/ledbr1
+	bounds: 1036, 1, 58, 34
+tumbleWinFs/ledbr2
+	bounds: 1942, 331, 45, 23
+tumbleWinFs/ledbr3
+	bounds: 1955, 306, 45, 23
+tumbleWinFs/ledbr4
+	bounds: 1955, 281, 45, 23
+tumbleWinFs/ledbr5
+	bounds: 1955, 256, 45, 23
+tumbleWinFs/ledbr6
+	bounds: 1955, 231, 45, 23
+tumbleWinFs/ledbr7
+	bounds: 1908, 216, 45, 23
+tumbleWinFs/ledbr8
+	bounds: 1096, 1, 40, 34
+tumbleWinFs/ledbr9
+	bounds: 1960, 431, 37, 49
+tumbleWinFs/ledtl0
+	bounds: 1781, 602, 30, 22
+tumbleWinFs/ledtl1
+	bounds: 1790, 18, 57, 34
+tumbleWinFs/ledtl2
+	bounds: 957, 39, 45, 28
+tumbleWinFs/ledtl3
+	bounds: 1482, 408, 45, 28
+tumbleWinFs/ledtl4
+	bounds: 1908, 241, 45, 27
+tumbleWinFs/ledtl5
+	bounds: 1895, 385, 45, 28
+tumbleWinFs/ledtl6
+	bounds: 1895, 355, 45, 28
+tumbleWinFs/ledtl7
+	bounds: 1908, 300, 45, 28
+tumbleWinFs/ledtl8
+	bounds: 1836, 195, 62, 40
+tumbleWinFs/ledtr0
+	bounds: 597, 45, 45, 13
+tumbleWinFs/ledtr1
+	bounds: 1908, 270, 45, 28
+tumbleWinFs/ledtr2
+	bounds: 1955, 206, 45, 23
+tumbleWinFs/ledtr3
+	bounds: 1943, 181, 45, 23
+tumbleWinFs/ledtr4
+	bounds: 1943, 156, 45, 23
+tumbleWinFs/ledtr5
+	bounds: 1943, 131, 45, 23
+tumbleWinFs/ledtr6
+	bounds: 1943, 106, 45, 23
+tumbleWinFs/ledtr7
+	bounds: 1919, 81, 45, 23
+tumbleWinFs/ledtr8
+	bounds: 1813, 622, 40, 34
+tumbleWinFs/plate
+	bounds: 729, 1340, 793, 131
+tumbleWinFs/plate_glow
+	bounds: 729, 1473, 828, 166
+tumbleWinFs/run0
+	bounds: 1486, 690, 36, 122
+tumbleWinFs/run1
+	bounds: 1813, 658, 40, 131
+tumbleWinFs/run10
+	bounds: 1828, 887, 40, 131
+tumbleWinFs/run11
+	bounds: 1870, 887, 40, 131
+tumbleWinFs/run12
+	bounds: 1912, 887, 40, 131
+tumbleWinFs/run13
+	bounds: 1855, 664, 40, 131
+tumbleWinFs/run14
+	bounds: 1897, 664, 40, 131
+tumbleWinFs/run15
+	bounds: 1939, 667, 40, 131
+tumbleWinFs/run16
+	bounds: 1333, 438, 40, 131
+tumbleWinFs/run17
+	bounds: 1375, 438, 40, 131
+tumbleWinFs/run18
+	bounds: 1417, 438, 40, 131
+tumbleWinFs/run19
+	bounds: 1459, 438, 40, 131
+tumbleWinFs/run2
+	bounds: 1501, 452, 40, 131
+tumbleWinFs/run20
+	bounds: 1323, 13, 40, 131
+tumbleWinFs/run21
+	bounds: 1365, 13, 40, 131
+tumbleWinFs/run22
+	bounds: 1407, 13, 40, 131
+tumbleWinFs/run23
+	bounds: 1247, 6, 36, 122
+tumbleWinFs/run3
+	bounds: 1449, 13, 40, 131
+tumbleWinFs/run4
+	bounds: 1981, 667, 40, 131
+tumbleWinFs/run5
+	bounds: 1500, 273, 40, 131
+tumbleWinFs/run6
+	bounds: 1542, 309, 40, 131
+tumbleWinFs/run7
+	bounds: 1584, 309, 40, 131
+tumbleWinFs/run8
+	bounds: 1626, 305, 40, 131
+tumbleWinFs/run9
+	bounds: 1668, 305, 40, 131
+tumbleWinFs/tubes_dark
+	bounds: 729, 943, 790, 129
+tumbleWinFs/tubes_lit
+	bounds: 729, 1074, 791, 131
+winFrame/frame
+	bounds: 1562, 571, 217, 217
+winFrame/run0
+	bounds: 1819, 538, 34, 82
+winFrame/run1
+	bounds: 1979, 800, 34, 91
+winFrame/run10
+	bounds: 1957, 982, 75, 74
+winFrame/run11
+	bounds: 492, 1, 91, 34
+winFrame/run12
+	bounds: 864, 1, 84, 34
+winFrame/run13
+	bounds: 585, 1, 91, 34
+winFrame/run14
+	bounds: 1940, 591, 74, 74
+winFrame/run15
+	bounds: 1478, 597, 34, 91
+winFrame/run2
+	bounds: 1855, 547, 74, 75
+winFrame/run3
+	bounds: 678, 1, 91, 34
+winFrame/run4
+	bounds: 950, 1, 84, 34
+winFrame/run5
+	bounds: 771, 1, 91, 34
+winFrame/run6
+	bounds: 1819, 330, 74, 74
+winFrame/run7
+	bounds: 1836, 237, 34, 91
+winFrame/run8
+	bounds: 1783, 320, 34, 84
+winFrame/run9
+	bounds: 1872, 237, 34, 91

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<font>
+  <info face="neonDigits" size="335" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0" outline="0" />
+  <common lineHeight="335" base="335" scaleW="1111" scaleH="674" pages="1" packed="0" />
+  <pages>
+    <page id="0" file="neon_digits.webp" />
+  </pages>
+  <chars count="10">
+    <char id="48" x="0" y="0" width="215" height="335" xoffset="0" yoffset="0" xadvance="184" page="0" chnl="15" />
+    <char id="49" x="217" y="0" width="154" height="335" xoffset="0" yoffset="0" xadvance="123" page="0" chnl="15" />
+    <char id="50" x="373" y="0" width="219" height="335" xoffset="0" yoffset="0" xadvance="188" page="0" chnl="15" />
+    <char id="51" x="594" y="0" width="221" height="335" xoffset="0" yoffset="0" xadvance="190" page="0" chnl="15" />
+    <char id="52" x="817" y="0" width="230" height="335" xoffset="0" yoffset="0" xadvance="199" page="0" chnl="15" />
+    <char id="53" x="0" y="340" width="219" height="332" xoffset="0" yoffset="3" xadvance="188" page="0" chnl="15" />
+    <char id="54" x="221" y="340" width="223" height="332" xoffset="0" yoffset="3" xadvance="192" page="0" chnl="15" />
+    <char id="55" x="446" y="340" width="216" height="332" xoffset="0" yoffset="3" xadvance="185" page="0" chnl="15" />
+    <char id="56" x="664" y="340" width="221" height="332" xoffset="0" yoffset="3" xadvance="190" page="0" chnl="15" />
+    <char id="57" x="887" y="340" width="222" height="332" xoffset="0" yoffset="3" xadvance="191" page="0" chnl="15" />
+  </chars>
+</font>
